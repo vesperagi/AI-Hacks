@@ -1,8 +1,0 @@
-{
-  "appId": "tech.vigama.app",
-  "appName": "mobile-app",
-  "webDir": "www",
-  "server": {
-    "androidScheme": "https"
-  }
-}
