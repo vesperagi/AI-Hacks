@@ -4,6 +4,8 @@ import pip
 from chatbot import ai_request
 import json
 from pathlib import Path
+import numpy as np
+from datetime import datetime
 
 try:
     from langchain.document_loaders import TextLoader, JSONLoader, DataFrameLoader
@@ -42,11 +44,14 @@ except:
     from langchain.vectorstores import Pinecone
     from langchain import VectorDBQA, OpenAI
     import pinecone
+    from pinecone import PineconeClient
 
 pinecone.init(
     api_key="7c732676-2e8f-4b8a-aeb8-3c022ea21118",
     environment="asia-southeast1-gcp-free",
 )
+
+pinecone_client = PineconeClient(api_key="7c732676-2e8f-4b8a-aeb8-3c022ea21118")
 
 app = Flask(__name__)
 
@@ -113,6 +118,47 @@ def get_firebase_data(debug: bool = False):
         json.dump(data, json_file)
     return data
 
+def get_music_data(debug: bool = False):
+    # Specify the path to the JSON file
+    file_path = "firebase_data.json"
+
+    path = Path(file_path)
+
+    if path.exists():
+        print("firebase_data.json exists")
+
+        # Read the JSON file
+        with open(file_path, "r") as json_file:
+            data = json.load(json_file)
+            return data
+    else:
+        print("File does not exist")
+
+    print("Connecting to db...")
+    cred = credentials.Certificate(
+        r"C:\repo\AI-Hacks\ai-architecture\sandbox\vigama-ai-hacks-firebase-adminsdk-5waoy-62752d499a.json")
+    firebase_admin.initialize_app(cred)
+    # # Get a reference to the Firestore database
+    db = firestore.client()
+
+    print("Connected to DB!")
+
+    data = []
+    data_ref = db.collection('music')
+    data_docs = data_ref.stream()
+
+    for data_doc in data_docs:
+        data_item = {
+            'date': data_doc.get('date')
+            'sentiment': data_doc.get('sentiment')
+            'title': data_doc.get('title')
+        }
+        data.append(data_item)
+
+    # Open the file in write mode and write the dictionary as JSON
+    with open(file_path, "w") as json_file:
+        json.dump(data, json_file)
+    return data
 
 def data_to_df(data):
     print("Creating DataFrame...")
@@ -130,7 +176,6 @@ def data_to_df(data):
     print("Created DataFrame!")
     return df
 
-
 def determine_health_use(input: str) -> str:
     prompt: str = f"""Determine if the following question warrants use of the health database where it stores all the health related data collected, or the conversation log data base where it stores all the previous conversation. REturn True if it is health database, and False if it is convo log database.
 
@@ -143,22 +188,45 @@ def determine_health_use(input: str) -> str:
     health_use = response.lower().replace(".", "")
     return health_use
 
+def fetch_last_vector():
+    vector_ids = pinecone_client.list_index_vectors(index_name=PINECONE_INDEX_NAME)
+    if vector_ids:
+        last_vector_id = vector_ids[-1]
+        last_vector = pinecone_client.fetch_vectors(index_name=PINECONE_INDEX_NAME, ids=[last_vector_id])
+        return last_vector[0]
+    else:
+        return None
 
-text_file_path = os.path.join("test_data.txt")
+def evaluate_vector(vector):
+    threshold = 10.0
+    magnitude = np.linalg.norm(vector)
+    return magnitude > threshold
 
-loader = TextLoader(
-    text_file_path,
-    encoding="utf-8"
-)
-
-document = loader.load()
+def health_metrics_monitoring():
+    last_vector = None
+    while True:
+        new_vector = fetch_last_vector()
+        if new_vector is not None and new_vector != last_vector:
+            # Evaluate the new vector
+            if evaluate_vector(new_vector):
+                print(f"Abnormal data detected at {datetime.now()}!")
+            last_vector = new_vector
+        time.sleep(60)
 
 
 def chatbot_response(user_input: str, debug=False):
-    global text_file_path, loader, document
+    text_file_path = os.path.join("test_data.txt")
+
+    loader = TextLoader(
+        text_file_path,
+        encoding="utf-8"
+    )
+
+    document = loader.load()
+
     # Splitting up documents
     if debug: print("Splitting up documents...")
-    text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
+    text_splitter = CharacterTextSplitter(chunk_size=3000, chunk_overlap=0)
 
     if debug: print(f"document: {document}")
 
@@ -225,10 +293,10 @@ def post_input():
     """
     # Get the JSON data from the request body
     input = request.form["input"]
-    try:
-        result = chatbot_response(input)
-    except:
-        result = ai_request(input)
+    # try:
+    result = chatbot_response(input)
+    # except:
+        # result = ai_request(input)
     return json.dumps({"response": result})
 
 app.run(debug=True)
