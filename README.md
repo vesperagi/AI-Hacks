@@ -1,2 +1,2 @@
-# AI-Hacks
+##AI-Hacks
 Berkeley AI Hackathon
