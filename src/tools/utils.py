@@ -2,7 +2,7 @@ import json
 import pip
 from datetime import datetime
 from pathlib import Path
-import chatbot
+from src.llms import chatbot
 import re
 
 try:
@@ -50,12 +50,38 @@ def camel_to_snake(camel_case) -> str:
 
 
 def camel_to_normal(camel_case) -> str:
+    """
+    Transforms a string from camelCase format into normal format (with spaces instead of underscores).
+
+    Parameters
+    ---------
+    camel_case : str
+        Input string in camelCase format.
+
+    Returns
+    -------
+    str
+        String in normal format.
+    """
     snake = camel_to_snake(camel_case)
     normal = snake.replace("_", " ")
     return normal
 
 
 def firestore_to_df(credentials: dict = None):
+    """
+    Transforms Firestore data collection into a pandas DataFrame.
+
+    Parameters
+    ---------
+    credentials : dict, default is None
+        Dictionary containing the user credentials.
+
+    Returns
+    -------
+    DataFrame
+        DataFrame containing users data.
+    """
     db = firestore.Client()
     users = list(db.collection(u'users').stream())
     users_dict = list(map(lambda x: x.to_dict(), users))
@@ -64,12 +90,38 @@ def firestore_to_df(credentials: dict = None):
 
 
 def firebase_url_to_df(url: str):
+    """
+    Converts a firebase URL to a pandas DataFrame by reading the content of the URL as CSV.
+
+    Parameters
+    ---------
+    url : str
+        URL string that points to a CSV resource.
+
+    Returns
+    -------
+    DataFrame
+        DataFrame containing the data from the read CSV.
+    """
     with urllib.request.urlopen(url) as url_file:
         df = pd.read_csv(url_file)
         return df
 
 
 def get_firebase_data(debug: bool = False):
+    """
+    This function retrieves data from Firebase, if Firebase data is not existing in ai-architecture/sandbox/firebase_data.json path then connect to Firebase and get data from Firestore data collection.
+
+    Parameters
+    ---------
+    debug : bool, optional
+        If set to True, the function will output detailed status messages during execution.
+
+    Returns
+    -------
+    list
+        A list of dictionaries, each containing 'date' key with date and 'record' key with data records from Firebase.
+    """
     # Specify the path to the JSON file
     file_path = "ai-architecture/sandbox/firebase_data.json"
 
@@ -133,6 +185,21 @@ def get_firebase_data(debug: bool = False):
 
 
 def data_to_df(data):
+    """
+    Create a Pandas DataFrame from the given data.
+
+    Parameters
+    ----------
+    data : list
+        A list of dictionaries where each dictionary has a 'date' key and a 'record' key which
+        is a dictionary in itself comprising of record details corresponding to the date.
+
+    Returns
+    -------
+    DataFrame
+        A dataframe where each row represents the record details for a particular date.
+
+    """
     print("Creating DataFrame...")
     df = pd.DataFrame()
     for item in data:
@@ -149,6 +216,19 @@ def data_to_df(data):
 
 
 def data_to_df(data):
+    """
+    Transform a list of records into a Pandas DataFrame, each record is a dictionary object containing date and record data.
+
+    Parameters
+    ---------
+    data : list
+        The list contains the records data where each item is a dictionary object consisting of a date and a record.
+
+    Returns
+    -------
+    DataFrame
+        A pandas DataFrame containing the record data. Note that the original date and records within the input list is converted into string format.
+    """
     print("Creating DataFrame...")
     df = pd.DataFrame()
     for item in data:
@@ -166,6 +246,25 @@ def data_to_df(data):
 
 
 def data_to_text_slow(data, file_name="data", debug=False):
+    """
+    Convert a list of JSON data into a textual summary and write the content into a text file.
+
+    Parameters
+    ---------
+    data : list of dict
+        List containing JSON formatted data elements.
+
+    file_name : str
+        Name of the file where the converted text data is stored. Default name is 'data'.
+
+    debug : boolean
+        If set to True, prints out debug information like parsing progress and completion for each item. Default is False.
+
+    Returns
+    -------
+    str
+        String representing the path to the created text file.
+    """
     print("Creating textfile...")
     text = ""
     num_entries = len(data)
@@ -192,6 +291,28 @@ def data_to_text_slow(data, file_name="data", debug=False):
 
 
 def data_to_text_fast(data, file_name="data", debug=False):
+    """
+    This function converts data containing health information into a readable text file.
+
+    Parameters
+    ----------
+    data : list of dict
+        List of dictionaries containing the date and health record information.
+    file_name : str, optional
+        The name of the text file to be created (default is "data").
+    debug : bool, optional
+        If True, print debug statements (default is False).
+
+    Returns
+    -------
+    str
+        The name of the created text file.
+
+    Side Effect
+    ------------
+    Writes a text file to the local directory.
+
+    """
     print("Creating textfile...")
     text = ""
     num_entries = len(data)
@@ -219,52 +340,3 @@ def data_to_text_fast(data, file_name="data", debug=False):
     return f"{file_name}.txt"
 
 
-if __name__ == "__main__":
-    print(camel_to_snake("distanceWalkingRunning").replace("_", " "))
-    # cred = credentials.Certificate(r"C:\repo\AI-Hacks\ai-architecture\sandbox\vigama-ai-hacks-firebase-adminsdk-5waoy-62752d499a.json")
-    # firebase_admin.initialize_app(cred)
-    # # # Get a reference to the Firestore database
-    # db = firestore.client()
-    # #
-    # # # Retrieve data from the Firestore database
-    # # # # Example: Get a collection named "users"
-    # # data_ref = db.collection("data").document("activeEnergyBurned")
-    # # docs = data_ref.get()
-    # #
-    # # # Iterate over the documents in the collection
-    # # for doc in docs:
-    # #     # Access the data in each document
-    # #     data = doc.to_dict()
-    # #     # Do something with the data
-    # #     print(data)
-    #
-    # data = []
-    # data_ref = db.collection('data')
-    # data_docs = data_ref.stream()
-    #
-    # for data_doc in data_docs:
-    #     data_type = data_doc.id
-    #     metric = data_doc.get('metric')
-    #
-    #     record_ref = data_ref.document(data_type).collection('record')
-    #     record_docs = record_ref.stream()
-    #
-    #     records = []
-    #     for record_doc in record_docs:
-    #         record = {
-    #             'date': record_doc.get('date'),
-    #             'measurement': record_doc.get('measurement')
-    #         }
-    #         records.append(record)
-    #
-    #     data_item = {
-    #         'dataType': data_type,
-    #         'metric': metric,
-    #         'record': records
-    #     }
-    #     data.append(data_item)
-    # pp().pprint(data[0:10])
-    data = get_firebase_data()
-    text = data_to_df(data)
-    print(text)
-    # pp().pprint(data)

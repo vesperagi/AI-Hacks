@@ -1,17 +1,12 @@
-import pip
-from utils import get_firebase_data, data_to_text_fast
+from src.tools.utils import get_firebase_data, data_to_text_fast
 from langchain import HuggingFaceHub
 import os
 
-import openai
 import pip
 import pprint
-from chatbot import ai_request
+from src.llms.chatbot import ai_request
 import json
-from pathlib import Path
-from pprint import PrettyPrinter as pp
-from mapmaker import NestedMap
-import numpy as np
+from src.tools.mapmaker import NestedMap
 
 try:
     from langchain.document_loaders import TextLoader, JSONLoader, DataFrameLoader
@@ -75,42 +70,25 @@ encoded_output = mymodel(**encoded_input)
 data = get_firebase_data()
 text = data_to_text_fast(data)
 
-
-def determine_health_use(input: str) -> str:
-    prompt: str = f"""Determine if the following question warrants use of the health database where it stores all the health related data collected, or the conversation log data base where it stores all the previous conversation. REturn True if it is health database, and False if it is convo log database.
-
-    example question: can you give me my average heart rate over the past week?
-    true
-
-    question: {input}
-    """
-    response = ai_request(prompt, system_role="You are a health guidance figure helping a user live a healthy life.")
-    health_use = response.lower().replace(".", "")
-    return health_use
-
 def chatbot_response(user_input: str):
-    use_health_db: str = determine_health_use(user_input)
-    if use_health_db == "true":
-        firebase_url = ...  # health db url
-    else:
-        firebase_url = ...  # chat db url
+    """
+    Generates and returns an AI Chatbot's response to the user's input.
 
-    # loader = TextLoader(
-    #     r"C:\repo\AI-Hacks\ai-architecture\sandbox\textfiles\blog.txt",
-    #     encoding="utf-8"
-    # )
-    # loader = JSONLoader(
-    #     r"C:\repo\AI-Hacks\ai-architecture\sandbox\textfiles\blog.json",
-    #     jq_schema='.text'
-    # )
-    # loader = DataFrameLoader(
-    #     data_frame=firebase_url_to_df(firebase_url)  # pandas df
-    # )
+    Parameters
+    ---------
+    user_input : str
+        Users' text input for the Chatbot.
 
-    # data = get_firebase_data()
+    Returns
+    -------
+    str
+        AI Chatbot's text response to the users input.
 
-    # print(data)
-
+    Other Attributes
+    -----------------
+    This function also generates, deploys and saves AI embeddings, Vector search storage, trains a Question-Answer model from Huggingface
+    and implements Deep Learning to generate responses to user input.
+    """
     # text_file_path = data_to_text_fast(data)
     text_file_path = os.path.join("textfiles", "ai-architecture/test_data.txt")
 
@@ -118,29 +96,8 @@ def chatbot_response(user_input: str):
         text_file_path,
         encoding="utf-8"
     )
-    #
-    # data = get_firebase_data()
-    # loader = DataFrameLoader(
-    #     data_frame=data_to_df(data),
-    #     page_content_column="date"
-    # )
 
     document = loader.load()
-
-    # # Print the data.
-    # for doc in loader.documents:
-    #     print(doc)
-
-    # # Pinecone setup for text files
-    # text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
-    # texts = text_splitter.split_documents(document)
-    # print(len(texts))
-    # print(f"texts: {texts}")
-    #
-    # embeddings = OpenAIEmbeddings(openai_api_key="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")
-    # docsearch = Pinecone.from_documents(
-    #     texts, embeddings, index_name="ai-hack"
-    # )
 
     # Splitting up documents
     print("Splitting up documents...")
@@ -168,13 +125,6 @@ def chatbot_response(user_input: str):
         texts, embeddings, index_name="ai-hack"
     )
 
-    with open("docsearch.txt", "w") as docsearch_file:
-        try:
-            json.dump(docsearch, docsearch_file)
-        except:
-            print(f"Couldn't save docsearch")
-            print(f"Docsearch: {docsearch}")
-
     print("Pinecone setup!")
 
     print("Loading Vector Storage into Database Question Answer Chain...")
@@ -194,8 +144,8 @@ def chatbot_response(user_input: str):
     NestedMap(json.loads(qa.json())).show()
 
     print("Sending user input to langchain...")
-    result = qa({"query": user_input})
-    # result = result["result"]
+    raw = qa({"query": user_input})
+    result = raw["result"]
     print("Result received from LLM!")
     return result
 
