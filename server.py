@@ -1,17 +1,9 @@
 import os
 
-import openai
 import pip
-import pprint
 from chatbot import ai_request
 import json
 from pathlib import Path
-from pprint import PrettyPrinter as pp
-from mapmaker import NestedMap
-import numpy as np
-from utils import firebase_url_to_df, data_to_text_slow, data_to_text_fast
-import firebase
-import firebase_admin
 
 try:
     from langchain.document_loaders import TextLoader, JSONLoader, DataFrameLoader

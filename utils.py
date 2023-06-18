@@ -1,7 +1,5 @@
 import json
-import os
 import pip
-from pprint import PrettyPrinter as pp
 from datetime import datetime
 from pathlib import Path
 import chatbot
@@ -73,7 +71,7 @@ def firebase_url_to_df(url: str):
 
 def get_firebase_data(debug: bool = False):
     # Specify the path to the JSON file
-    file_path = "sandbox/firebase_data.json"
+    file_path = "ai-architecture/sandbox/firebase_data.json"
 
     path = Path(file_path)
 

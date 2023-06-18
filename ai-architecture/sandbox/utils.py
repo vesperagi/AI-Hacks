@@ -73,7 +73,7 @@ def firebase_url_to_df(url: str):
 
 def get_firebase_data(debug: bool = False):
     # Specify the path to the JSON file
-    file_path = "sandbox/firebase_data.json"
+    file_path = "firebase_data.json"
 
     path = Path(file_path)
 
@@ -132,22 +132,6 @@ def get_firebase_data(debug: bool = False):
     with open(file_path, "w") as json_file:
         json.dump(data, json_file)
     return data
-
-
-def data_to_df(data):
-    print("Creating DataFrame...")
-    df = pd.DataFrame()
-    for item in data:
-        print("Getting new item")
-        date = item["date"]
-        records = item["record"]
-        for record in records:
-            print("\tGetting new record")
-            new_row = pd.Series(record, name=date)
-            df = df._append(new_row)
-
-    print("Created DataFrame!")
-    return df
 
 
 def data_to_df(data):
