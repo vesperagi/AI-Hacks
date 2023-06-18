@@ -4,6 +4,8 @@ import pip
 from pprint import PrettyPrinter as pp
 from datetime import datetime
 from pathlib import Path
+import chatbot
+import re
 
 try:
     import pandas as pd
@@ -19,6 +21,40 @@ except:
     from google.cloud import firestore
     import firebase_admin
     from firebase_admin import credentials
+
+
+def camel_to_snake(camel_case) -> str:
+    """
+    Convert a string in CamelCase format to snake_case format.
+
+    Parameters
+    ----------
+    camel_case : str
+        String in CamelCase format.
+
+    Returns
+    -------
+    str
+        Converted string in snake_case format.
+    """
+    split: list = re.findall('[A-Z][^A-Z]*', camel_case)
+    first = camel_case[:]
+    for camel_back in split:
+        first = first.replace(camel_back, "")
+    split = list(map(lambda item: item.lower(), split))
+    split = list(filter(lambda item: item != '', split))
+    after_first = "_".join(split)
+    if after_first == '':
+        snake_case = first
+    else:
+        snake_case = first + "_" + after_first
+    return snake_case
+
+
+def camel_to_normal(camel_case) -> str:
+    snake = camel_to_snake(camel_case)
+    normal = snake.replace("_", " ")
+    return normal
 
 
 def firestore_to_df(credentials: dict = None):
@@ -131,33 +167,62 @@ def data_to_df(data):
     return df
 
 
-def data_to_text(data):
+def data_to_text_slow(data, file_name="data", debug=False):
     print("Creating textfile...")
     text = ""
-    # for i in range(1):
-    #     item = data[i]
-    #     print("Getting new item")
-    #     date = item["date"]
-    #     records = item["record"]
-    #     for record in records:
-    #         print("\tGetting new record")
-    #         record["date"] = str(date)
-    #         json_record = json.dumps(record)
-    #         date_strptime = datetime.strptime(date, "%Y-%m-%d")
-    #         formatted_date = date_strptime.strftime("%B %d, %Y")
-    #         json_record = json_record.replace('"', "'")
-    #         text += f"date: {str(formatted_date)} | record: {str(json_record)}"
-    #         text += "\n\n"
+    num_entries = len(data)
+    for i in range(num_entries):
+        if debug: print(f"Parsing item {i} / {num_entries}")
+        item = data[i]
+        prompt = f"""I will provide you with a JSON of my health data. 
+        Please express my data in this JSON using a paragraph.
+        
+        JSON Data: 
+        {item}
+        """
+        health_summary = chatbot.ai_request(prompt)
+        if debug: print("Finished parsing!")
+        text += health_summary
+        text += "\n\n"
 
-    text = "Using an LLM in isolation is fine for simple applications, but more complex applications require chaining LLMs - either with each other or with other components."
-    with open("data.txt", 'w', encoding="utf-8") as data_text:
+    # # text = "Using an LLM in isolation is fine for simple applications, but more complex applications require chaining LLMs - either with each other or with other components."
+    with open(f"{file_name}.txt", 'w', encoding="utf-8") as data_text:
         data_text.write(text)
         data_text.close()
     print("Created textfile!")
-    return "data.txt"
+    return f"{file_name}.txt"
+
+
+def data_to_text_fast(data, file_name="data", debug=False):
+    print("Creating textfile...")
+    text = ""
+    num_entries = len(data)
+    for i in range(num_entries):
+        if debug: print(f"Parsing item {i} / {num_entries}")
+        item = data[i]
+        date = item["date"]
+        records = item["record"]
+        text += f"On {date}, the following health measurements were taken: \n"
+        for record in records:
+            date_obj = datetime.strptime(date, "%Y-%m-%d")
+            formatted_date = date_obj.strftime("%B %d, %Y")
+            text += f"On {formatted_date}, data measurements for " \
+                    f"{camel_to_normal(record['dataType'])} were " \
+                    f"{record['measurement']} {camel_to_normal(record['metric'])}"
+            text += "\n"
+        text += "\n\n"
+        if debug: print("Finished parsing!")
+
+    # # text = "Using an LLM in isolation is fine for simple applications, but more complex applications require chaining LLMs - either with each other or with other components."
+    with open(f"{file_name}.txt", 'w', encoding="utf-8") as data_text:
+        data_text.write(text)
+        data_text.close()
+    print("Created textfile!")
+    return f"{file_name}.txt"
 
 
 if __name__ == "__main__":
+    print(camel_to_snake("distanceWalkingRunning").replace("_", " "))
     # cred = credentials.Certificate(r"C:\repo\AI-Hacks\ai-architecture\sandbox\vigama-ai-hacks-firebase-adminsdk-5waoy-62752d499a.json")
     # firebase_admin.initialize_app(cred)
     # # # Get a reference to the Firestore database
@@ -202,6 +267,6 @@ if __name__ == "__main__":
     #     data.append(data_item)
     # pp().pprint(data[0:10])
     data = get_firebase_data()
-    df = data_to_df(data)
-    print(df)
+    text = data_to_text_fast(data, debug=True)
+    print(text)
     # pp().pprint(data)

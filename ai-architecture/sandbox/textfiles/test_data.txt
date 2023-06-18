@@ -17,7 +17,7 @@ On June 19, 2022, data measurements for heart rate were 91 counts per minute
 On June 19, 2022, data measurements for waist circumference were 31 inch
 
 
-On 2022-06-20, the following health measurements were taken: 
+On 2022-06-20, the following health measurements were taken:
 On June 20, 2022, data measurements for waist circumference were 26 inch
 On June 20, 2022, data measurements for flights climbed were 4 count
 On June 20, 2022, data measurements for height were 71 inch
@@ -36,7 +36,7 @@ On June 20, 2022, data measurements for sleep duration were 6 hour
 On June 20, 2022, data measurements for body mass index were 21.5 count
 
 
-On 2022-06-21, the following health measurements were taken: 
+On 2022-06-21, the following health measurements were taken:
 On June 21, 2022, data measurements for walking double support percentage were 0.2 percent
 On June 21, 2022, data measurements for waist circumference were 27 inch
 On June 21, 2022, data measurements for lean body mass were 0.7 gram
@@ -55,7 +55,7 @@ On June 21, 2022, data measurements for sleep duration were 9 hour
 On June 21, 2022, data measurements for blood glucose were 7 mole unit
 
 
-On 2022-06-22, the following health measurements were taken: 
+On 2022-06-22, the following health measurements were taken:
 On June 22, 2022, data measurements for walking double support percentage were 0.2 percent
 On June 22, 2022, data measurements for active energy burned were 1518 kilo calorie
 On June 22, 2022, data measurements for sleep duration were 9 hour
@@ -74,7 +74,7 @@ On June 22, 2022, data measurements for distance walking running were 7 count
 On June 22, 2022, data measurements for waist circumference were 37 inch
 
 
-On 2022-06-23, the following health measurements were taken: 
+On 2022-06-23, the following health measurements were taken:
 On June 23, 2022, data measurements for flights climbed were 8 count
 On June 23, 2022, data measurements for heart rate were 62 counts per minute
 On June 23, 2022, data measurements for active energy burned were 2671 kilo calorie
@@ -93,7 +93,7 @@ On June 23, 2022, data measurements for body mass were 55181 gram
 On June 23, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-06-24, the following health measurements were taken: 
+On 2022-06-24, the following health measurements were taken:
 On June 24, 2022, data measurements for body mass were 94501 gram
 On June 24, 2022, data measurements for step count were 9600 count
 On June 24, 2022, data measurements for headphone audio exposure were 85 decible a weighted sound pressure level
@@ -112,7 +112,7 @@ On June 24, 2022, data measurements for walking double support percentage were 0
 On June 24, 2022, data measurements for blood glucose were 6 mole unit
 
 
-On 2022-06-25, the following health measurements were taken: 
+On 2022-06-25, the following health measurements were taken:
 On June 25, 2022, data measurements for walking double support percentage were 0.2 percent
 On June 25, 2022, data measurements for body mass index were 28.5 count
 On June 25, 2022, data measurements for sleep duration were 9 hour
@@ -131,7 +131,7 @@ On June 25, 2022, data measurements for distance walking running were 8 count
 On June 25, 2022, data measurements for height were 73 inch
 
 
-On 2022-06-26, the following health measurements were taken: 
+On 2022-06-26, the following health measurements were taken:
 On June 26, 2022, data measurements for headphone audio exposure were 61 decible a weighted sound pressure level
 On June 26, 2022, data measurements for body mass index were 18.5 count
 On June 26, 2022, data measurements for flights climbed were 14 count
@@ -150,7 +150,7 @@ On June 26, 2022, data measurements for waist circumference were 28 inch
 On June 26, 2022, data measurements for body mass were 98937 gram
 
 
-On 2022-06-27, the following health measurements were taken: 
+On 2022-06-27, the following health measurements were taken:
 On June 27, 2022, data measurements for blood glucose were 5 mole unit
 On June 27, 2022, data measurements for flights climbed were 14 count
 On June 27, 2022, data measurements for waist circumference were 32 inch
@@ -169,7 +169,7 @@ On June 27, 2022, data measurements for body mass were 62807 gram
 On June 27, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-06-28, the following health measurements were taken: 
+On 2022-06-28, the following health measurements were taken:
 On June 28, 2022, data measurements for height were 73 inch
 On June 28, 2022, data measurements for basal energy burned were 1278 kilo calorie
 On June 28, 2022, data measurements for blood glucose were 8 mole unit
@@ -188,7 +188,7 @@ On June 28, 2022, data measurements for body fat percentage were 0.15 percent
 On June 28, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-06-29, the following health measurements were taken: 
+On 2022-06-29, the following health measurements were taken:
 On June 29, 2022, data measurements for body fat percentage were 0.15 percent
 On June 29, 2022, data measurements for waist circumference were 29 inch
 On June 29, 2022, data measurements for active energy burned were 2925 kilo calorie
@@ -207,7 +207,7 @@ On June 29, 2022, data measurements for distance walking running were 7 count
 On June 29, 2022, data measurements for basal energy burned were 1478 kilo calorie
 
 
-On 2022-06-30, the following health measurements were taken: 
+On 2022-06-30, the following health measurements were taken:
 On June 30, 2022, data measurements for active energy burned were 2032 kilo calorie
 On June 30, 2022, data measurements for step count were 7759 count
 On June 30, 2022, data measurements for blood glucose were 5 mole unit
@@ -226,7 +226,7 @@ On June 30, 2022, data measurements for body mass were 97921 gram
 On June 30, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-07-01, the following health measurements were taken: 
+On 2022-07-01, the following health measurements were taken:
 On July 01, 2022, data measurements for body mass were 56991 gram
 On July 01, 2022, data measurements for headphone audio exposure were 78 decible a weighted sound pressure level
 On July 01, 2022, data measurements for heart rate were 86 counts per minute
@@ -245,7 +245,7 @@ On July 01, 2022, data measurements for blood glucose were 5 mole unit
 On July 01, 2022, data measurements for active energy burned were 2805 kilo calorie
 
 
-On 2022-07-02, the following health measurements were taken: 
+On 2022-07-02, the following health measurements were taken:
 On July 02, 2022, data measurements for body mass were 92527 gram
 On July 02, 2022, data measurements for step count were 7082 count
 On July 02, 2022, data measurements for lean body mass were 0.7 gram
@@ -264,7 +264,7 @@ On July 02, 2022, data measurements for sleep duration were 9 hour
 On July 02, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-07-03, the following health measurements were taken: 
+On 2022-07-03, the following health measurements were taken:
 On July 03, 2022, data measurements for lean body mass were 0.7 gram
 On July 03, 2022, data measurements for heart rate were 76 counts per minute
 On July 03, 2022, data measurements for active energy burned were 2049 kilo calorie
@@ -283,7 +283,7 @@ On July 03, 2022, data measurements for blood glucose were 5 mole unit
 On July 03, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-07-04, the following health measurements were taken: 
+On 2022-07-04, the following health measurements were taken:
 On July 04, 2022, data measurements for height were 70 inch
 On July 04, 2022, data measurements for headphone audio exposure were 71 decible a weighted sound pressure level
 On July 04, 2022, data measurements for walking double support percentage were 0.2 percent
@@ -302,7 +302,7 @@ On July 04, 2022, data measurements for active energy burned were 2770 kilo calo
 On July 04, 2022, data measurements for waist circumference were 30 inch
 
 
-On 2022-07-05, the following health measurements were taken: 
+On 2022-07-05, the following health measurements were taken:
 On July 05, 2022, data measurements for active energy burned were 1773 kilo calorie
 On July 05, 2022, data measurements for basal energy burned were 1565 kilo calorie
 On July 05, 2022, data measurements for heart rate were 86 counts per minute
@@ -321,7 +321,7 @@ On July 05, 2022, data measurements for step count were 3145 count
 On July 05, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-07-06, the following health measurements were taken: 
+On 2022-07-06, the following health measurements were taken:
 On July 06, 2022, data measurements for waist circumference were 29 inch
 On July 06, 2022, data measurements for blood glucose were 7 mole unit
 On July 06, 2022, data measurements for active energy burned were 1578 kilo calorie
@@ -340,7 +340,7 @@ On July 06, 2022, data measurements for headphone audio exposure were 61 decible
 On July 06, 2022, data measurements for flights climbed were 20 count
 
 
-On 2022-07-07, the following health measurements were taken: 
+On 2022-07-07, the following health measurements were taken:
 On July 07, 2022, data measurements for waist circumference were 35 inch
 On July 07, 2022, data measurements for body mass were 93600 gram
 On July 07, 2022, data measurements for flights climbed were 30 count
@@ -359,7 +359,7 @@ On July 07, 2022, data measurements for distance walking running were 5 count
 On July 07, 2022, data measurements for basal energy burned were 1442 kilo calorie
 
 
-On 2022-07-08, the following health measurements were taken: 
+On 2022-07-08, the following health measurements were taken:
 On July 08, 2022, data measurements for body mass were 51596 gram
 On July 08, 2022, data measurements for active energy burned were 1756 kilo calorie
 On July 08, 2022, data measurements for blood glucose were 4 mole unit
@@ -378,7 +378,7 @@ On July 08, 2022, data measurements for flights climbed were 11 count
 On July 08, 2022, data measurements for sleep duration were 7 hour
 
 
-On 2022-07-09, the following health measurements were taken: 
+On 2022-07-09, the following health measurements were taken:
 On July 09, 2022, data measurements for waist circumference were 39 inch
 On July 09, 2022, data measurements for headphone audio exposure were 83 decible a weighted sound pressure level
 On July 09, 2022, data measurements for distance walking running were 5 count
@@ -397,7 +397,7 @@ On July 09, 2022, data measurements for lean body mass were 0.7 gram
 On July 09, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-07-10, the following health measurements were taken: 
+On 2022-07-10, the following health measurements were taken:
 On July 10, 2022, data measurements for heart rate were 73 counts per minute
 On July 10, 2022, data measurements for distance walking running were 2 count
 On July 10, 2022, data measurements for active energy burned were 2838 kilo calorie
@@ -416,7 +416,7 @@ On July 10, 2022, data measurements for walking double support percentage were 0
 On July 10, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-07-11, the following health measurements were taken: 
+On 2022-07-11, the following health measurements were taken:
 On July 11, 2022, data measurements for active energy burned were 2302 kilo calorie
 On July 11, 2022, data measurements for height were 61 inch
 On July 11, 2022, data measurements for step count were 7967 count
@@ -435,7 +435,7 @@ On July 11, 2022, data measurements for heart rate were 91 counts per minute
 On July 11, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-07-12, the following health measurements were taken: 
+On 2022-07-12, the following health measurements were taken:
 On July 12, 2022, data measurements for body mass index were 20.5 count
 On July 12, 2022, data measurements for flights climbed were 2 count
 On July 12, 2022, data measurements for headphone audio exposure were 76 decible a weighted sound pressure level
@@ -454,7 +454,7 @@ On July 12, 2022, data measurements for distance walking running were 10 count
 On July 12, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-07-13, the following health measurements were taken: 
+On 2022-07-13, the following health measurements were taken:
 On July 13, 2022, data measurements for distance walking running were 9 count
 On July 13, 2022, data measurements for waist circumference were 31 inch
 On July 13, 2022, data measurements for lean body mass were 1.7 gram
@@ -473,7 +473,7 @@ On July 13, 2022, data measurements for blood glucose were 4 mole unit
 On July 13, 2022, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2022-07-14, the following health measurements were taken: 
+On 2022-07-14, the following health measurements were taken:
 On July 14, 2022, data measurements for step count were 4962 count
 On July 14, 2022, data measurements for height were 66 inch
 On July 14, 2022, data measurements for basal energy burned were 1727 kilo calorie
@@ -492,7 +492,7 @@ On July 14, 2022, data measurements for walking double support percentage were 0
 On July 14, 2022, data measurements for body mass were 75331 gram
 
 
-On 2022-07-15, the following health measurements were taken: 
+On 2022-07-15, the following health measurements were taken:
 On July 15, 2022, data measurements for basal energy burned were 1505 kilo calorie
 On July 15, 2022, data measurements for blood glucose were 7 mole unit
 On July 15, 2022, data measurements for flights climbed were 24 count
@@ -511,7 +511,7 @@ On July 15, 2022, data measurements for heart rate were 82 counts per minute
 On July 15, 2022, data measurements for distance walking running were 4 count
 
 
-On 2022-07-16, the following health measurements were taken: 
+On 2022-07-16, the following health measurements were taken:
 On July 16, 2022, data measurements for body mass index were 26.5 count
 On July 16, 2022, data measurements for body mass were 71274 gram
 On July 16, 2022, data measurements for blood glucose were 4 mole unit
@@ -530,7 +530,7 @@ On July 16, 2022, data measurements for sleep duration were 7 hour
 On July 16, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-07-17, the following health measurements were taken: 
+On 2022-07-17, the following health measurements were taken:
 On July 17, 2022, data measurements for body fat percentage were 0.15 percent
 On July 17, 2022, data measurements for headphone audio exposure were 85 decible a weighted sound pressure level
 On July 17, 2022, data measurements for flights climbed were 0 count
@@ -549,7 +549,7 @@ On July 17, 2022, data measurements for lean body mass were 0.7 gram
 On July 17, 2022, data measurements for blood glucose were 7 mole unit
 
 
-On 2022-07-18, the following health measurements were taken: 
+On 2022-07-18, the following health measurements were taken:
 On July 18, 2022, data measurements for waist circumference were 29 inch
 On July 18, 2022, data measurements for height were 67 inch
 On July 18, 2022, data measurements for walking double support percentage were 0.2 percent
@@ -568,7 +568,7 @@ On July 18, 2022, data measurements for body mass index were 20.5 count
 On July 18, 2022, data measurements for heart rate were 100 counts per minute
 
 
-On 2022-07-19, the following health measurements were taken: 
+On 2022-07-19, the following health measurements were taken:
 On July 19, 2022, data measurements for body mass index were 27.5 count
 On July 19, 2022, data measurements for body fat percentage were 0.15 percent
 On July 19, 2022, data measurements for active energy burned were 1589 kilo calorie
@@ -587,7 +587,7 @@ On July 19, 2022, data measurements for waist circumference were 37 inch
 On July 19, 2022, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2022-07-20, the following health measurements were taken: 
+On 2022-07-20, the following health measurements were taken:
 On July 20, 2022, data measurements for blood glucose were 4 mole unit
 On July 20, 2022, data measurements for lean body mass were 0.7 gram
 On July 20, 2022, data measurements for headphone audio exposure were 82 decible a weighted sound pressure level
@@ -606,7 +606,7 @@ On July 20, 2022, data measurements for flights climbed were 6 count
 On July 20, 2022, data measurements for distance walking running were 7 count
 
 
-On 2022-07-21, the following health measurements were taken: 
+On 2022-07-21, the following health measurements were taken:
 On July 21, 2022, data measurements for body mass index were 25.5 count
 On July 21, 2022, data measurements for active energy burned were 1827 kilo calorie
 On July 21, 2022, data measurements for body mass were 62137 gram
@@ -625,7 +625,7 @@ On July 21, 2022, data measurements for waist circumference were 35 inch
 On July 21, 2022, data measurements for sleep duration were 7 hour
 
 
-On 2022-07-22, the following health measurements were taken: 
+On 2022-07-22, the following health measurements were taken:
 On July 22, 2022, data measurements for lean body mass were 0.7 gram
 On July 22, 2022, data measurements for body mass were 58040 gram
 On July 22, 2022, data measurements for sleep duration were 6 hour
@@ -644,7 +644,7 @@ On July 22, 2022, data measurements for body fat percentage were 0.15 percent
 On July 22, 2022, data measurements for heart rate were 100 counts per minute
 
 
-On 2022-07-23, the following health measurements were taken: 
+On 2022-07-23, the following health measurements were taken:
 On July 23, 2022, data measurements for walking double support percentage were 0.2 percent
 On July 23, 2022, data measurements for basal energy burned were 1602 kilo calorie
 On July 23, 2022, data measurements for step count were 4445 count
@@ -663,7 +663,7 @@ On July 23, 2022, data measurements for headphone audio exposure were 81 decible
 On July 23, 2022, data measurements for distance walking running were 9 count
 
 
-On 2022-07-24, the following health measurements were taken: 
+On 2022-07-24, the following health measurements were taken:
 On July 24, 2022, data measurements for sleep duration were 7 hour
 On July 24, 2022, data measurements for lean body mass were 0.7 gram
 On July 24, 2022, data measurements for basal energy burned were 1427 kilo calorie
@@ -682,7 +682,7 @@ On July 24, 2022, data measurements for headphone audio exposure were 70 decible
 On July 24, 2022, data measurements for distance walking running were 10 count
 
 
-On 2022-07-25, the following health measurements were taken: 
+On 2022-07-25, the following health measurements were taken:
 On July 25, 2022, data measurements for sleep duration were 9 hour
 On July 25, 2022, data measurements for active energy burned were 2661 kilo calorie
 On July 25, 2022, data measurements for lean body mass were 0.7 gram
@@ -701,7 +701,7 @@ On July 25, 2022, data measurements for height were 74 inch
 On July 25, 2022, data measurements for heart rate were 64 counts per minute
 
 
-On 2022-07-26, the following health measurements were taken: 
+On 2022-07-26, the following health measurements were taken:
 On July 26, 2022, data measurements for basal energy burned were 1681 kilo calorie
 On July 26, 2022, data measurements for headphone audio exposure were 82 decible a weighted sound pressure level
 On July 26, 2022, data measurements for walking double support percentage were 0.2 percent
@@ -720,7 +720,7 @@ On July 26, 2022, data measurements for distance walking running were 6 count
 On July 26, 2022, data measurements for active energy burned were 2588 kilo calorie
 
 
-On 2022-07-27, the following health measurements were taken: 
+On 2022-07-27, the following health measurements were taken:
 On July 27, 2022, data measurements for body fat percentage were 0.15 percent
 On July 27, 2022, data measurements for step count were 10948 count
 On July 27, 2022, data measurements for headphone audio exposure were 70 decible a weighted sound pressure level
@@ -739,7 +739,7 @@ On July 27, 2022, data measurements for walking double support percentage were 0
 On July 27, 2022, data measurements for active energy burned were 2647 kilo calorie
 
 
-On 2022-07-28, the following health measurements were taken: 
+On 2022-07-28, the following health measurements were taken:
 On July 28, 2022, data measurements for body fat percentage were 0.15 percent
 On July 28, 2022, data measurements for heart rate were 76 counts per minute
 On July 28, 2022, data measurements for active energy burned were 2928 kilo calorie
@@ -758,7 +758,7 @@ On July 28, 2022, data measurements for distance walking running were 6 count
 On July 28, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-07-29, the following health measurements were taken: 
+On 2022-07-29, the following health measurements were taken:
 On July 29, 2022, data measurements for lean body mass were 1.7 gram
 On July 29, 2022, data measurements for distance walking running were 4 count
 On July 29, 2022, data measurements for heart rate were 81 counts per minute
@@ -777,7 +777,7 @@ On July 29, 2022, data measurements for basal energy burned were 1681 kilo calor
 On July 29, 2022, data measurements for flights climbed were 6 count
 
 
-On 2022-07-30, the following health measurements were taken: 
+On 2022-07-30, the following health measurements were taken:
 On July 30, 2022, data measurements for flights climbed were 7 count
 On July 30, 2022, data measurements for heart rate were 99 counts per minute
 On July 30, 2022, data measurements for sleep duration were 9 hour
@@ -796,7 +796,7 @@ On July 30, 2022, data measurements for active energy burned were 2611 kilo calo
 On July 30, 2022, data measurements for body mass were 95151 gram
 
 
-On 2022-07-31, the following health measurements were taken: 
+On 2022-07-31, the following health measurements were taken:
 On July 31, 2022, data measurements for sleep duration were 6 hour
 On July 31, 2022, data measurements for body mass index were 25.5 count
 On July 31, 2022, data measurements for distance walking running were 10 count
@@ -815,7 +815,7 @@ On July 31, 2022, data measurements for body fat percentage were 0.15 percent
 On July 31, 2022, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2022-08-01, the following health measurements were taken: 
+On 2022-08-01, the following health measurements were taken:
 On August 01, 2022, data measurements for step count were 3915 count
 On August 01, 2022, data measurements for lean body mass were 0.7 gram
 On August 01, 2022, data measurements for headphone audio exposure were 73 decible a weighted sound pressure level
@@ -834,7 +834,7 @@ On August 01, 2022, data measurements for body mass index were 18.5 count
 On August 01, 2022, data measurements for distance walking running were 10 count
 
 
-On 2022-08-02, the following health measurements were taken: 
+On 2022-08-02, the following health measurements were taken:
 On August 02, 2022, data measurements for blood glucose were 5 mole unit
 On August 02, 2022, data measurements for body fat percentage were 0.15 percent
 On August 02, 2022, data measurements for distance walking running were 7 count
@@ -853,7 +853,7 @@ On August 02, 2022, data measurements for lean body mass were 0.7 gram
 On August 02, 2022, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2022-08-03, the following health measurements were taken: 
+On 2022-08-03, the following health measurements were taken:
 On August 03, 2022, data measurements for active energy burned were 2030 kilo calorie
 On August 03, 2022, data measurements for height were 68 inch
 On August 03, 2022, data measurements for distance walking running were 4 count
@@ -872,7 +872,7 @@ On August 03, 2022, data measurements for headphone audio exposure were 84 decib
 On August 03, 2022, data measurements for blood glucose were 5 mole unit
 
 
-On 2022-08-04, the following health measurements were taken: 
+On 2022-08-04, the following health measurements were taken:
 On August 04, 2022, data measurements for waist circumference were 34 inch
 On August 04, 2022, data measurements for distance walking running were 6 count
 On August 04, 2022, data measurements for body fat percentage were 0.15 percent
@@ -891,7 +891,7 @@ On August 04, 2022, data measurements for lean body mass were 0.7 gram
 On August 04, 2022, data measurements for heart rate were 68 counts per minute
 
 
-On 2022-08-05, the following health measurements were taken: 
+On 2022-08-05, the following health measurements were taken:
 On August 05, 2022, data measurements for sleep duration were 8 hour
 On August 05, 2022, data measurements for height were 63 inch
 On August 05, 2022, data measurements for distance walking running were 8 count
@@ -910,7 +910,7 @@ On August 05, 2022, data measurements for body fat percentage were 1.15 percent
 On August 05, 2022, data measurements for heart rate were 100 counts per minute
 
 
-On 2022-08-06, the following health measurements were taken: 
+On 2022-08-06, the following health measurements were taken:
 On August 06, 2022, data measurements for heart rate were 72 counts per minute
 On August 06, 2022, data measurements for walking double support percentage were 0.2 percent
 On August 06, 2022, data measurements for basal energy burned were 1444 kilo calorie
@@ -929,7 +929,7 @@ On August 06, 2022, data measurements for flights climbed were 17 count
 On August 06, 2022, data measurements for headphone audio exposure were 76 decible a weighted sound pressure level
 
 
-On 2022-08-07, the following health measurements were taken: 
+On 2022-08-07, the following health measurements were taken:
 On August 07, 2022, data measurements for height were 63 inch
 On August 07, 2022, data measurements for blood glucose were 8 mole unit
 On August 07, 2022, data measurements for basal energy burned were 1229 kilo calorie
@@ -948,7 +948,7 @@ On August 07, 2022, data measurements for lean body mass were 0.7 gram
 On August 07, 2022, data measurements for sleep duration were 6 hour
 
 
-On 2022-08-08, the following health measurements were taken: 
+On 2022-08-08, the following health measurements were taken:
 On August 08, 2022, data measurements for body mass were 50185 gram
 On August 08, 2022, data measurements for active energy burned were 2751 kilo calorie
 On August 08, 2022, data measurements for body mass index were 20.5 count
@@ -967,7 +967,7 @@ On August 08, 2022, data measurements for heart rate were 83 counts per minute
 On August 08, 2022, data measurements for blood glucose were 5 mole unit
 
 
-On 2022-08-09, the following health measurements were taken: 
+On 2022-08-09, the following health measurements were taken:
 On August 09, 2022, data measurements for sleep duration were 6 hour
 On August 09, 2022, data measurements for waist circumference were 36 inch
 On August 09, 2022, data measurements for distance walking running were 2 count
@@ -986,7 +986,7 @@ On August 09, 2022, data measurements for step count were 3319 count
 On August 09, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-08-10, the following health measurements were taken: 
+On 2022-08-10, the following health measurements were taken:
 On August 10, 2022, data measurements for heart rate were 97 counts per minute
 On August 10, 2022, data measurements for distance walking running were 10 count
 On August 10, 2022, data measurements for body mass index were 25.5 count
@@ -1005,7 +1005,7 @@ On August 10, 2022, data measurements for step count were 10615 count
 On August 10, 2022, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2022-08-11, the following health measurements were taken: 
+On 2022-08-11, the following health measurements were taken:
 On August 11, 2022, data measurements for sleep duration were 6 hour
 On August 11, 2022, data measurements for distance walking running were 10 count
 On August 11, 2022, data measurements for body mass index were 30.5 count
@@ -1024,7 +1024,7 @@ On August 11, 2022, data measurements for lean body mass were 0.7 gram
 On August 11, 2022, data measurements for body mass were 50392 gram
 
 
-On 2022-08-12, the following health measurements were taken: 
+On 2022-08-12, the following health measurements were taken:
 On August 12, 2022, data measurements for heart rate were 84 counts per minute
 On August 12, 2022, data measurements for lean body mass were 1.7 gram
 On August 12, 2022, data measurements for step count were 7493 count
@@ -1043,7 +1043,7 @@ On August 12, 2022, data measurements for headphone audio exposure were 72 decib
 On August 12, 2022, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2022-08-13, the following health measurements were taken: 
+On 2022-08-13, the following health measurements were taken:
 On August 13, 2022, data measurements for heart rate were 91 counts per minute
 On August 13, 2022, data measurements for headphone audio exposure were 67 decible a weighted sound pressure level
 On August 13, 2022, data measurements for height were 72 inch
@@ -1062,7 +1062,7 @@ On August 13, 2022, data measurements for waist circumference were 27 inch
 On August 13, 2022, data measurements for flights climbed were 30 count
 
 
-On 2022-08-14, the following health measurements were taken: 
+On 2022-08-14, the following health measurements were taken:
 On August 14, 2022, data measurements for height were 65 inch
 On August 14, 2022, data measurements for body mass index were 22.5 count
 On August 14, 2022, data measurements for heart rate were 71 counts per minute
@@ -1081,7 +1081,7 @@ On August 14, 2022, data measurements for step count were 7929 count
 On August 14, 2022, data measurements for body mass were 64632 gram
 
 
-On 2022-08-15, the following health measurements were taken: 
+On 2022-08-15, the following health measurements were taken:
 On August 15, 2022, data measurements for sleep duration were 7 hour
 On August 15, 2022, data measurements for heart rate were 96 counts per minute
 On August 15, 2022, data measurements for step count were 6916 count
@@ -1100,7 +1100,7 @@ On August 15, 2022, data measurements for body mass were 82619 gram
 On August 15, 2022, data measurements for distance walking running were 7 count
 
 
-On 2022-08-16, the following health measurements were taken: 
+On 2022-08-16, the following health measurements were taken:
 On August 16, 2022, data measurements for headphone audio exposure were 61 decible a weighted sound pressure level
 On August 16, 2022, data measurements for flights climbed were 22 count
 On August 16, 2022, data measurements for heart rate were 63 counts per minute
@@ -1119,7 +1119,7 @@ On August 16, 2022, data measurements for active energy burned were 1696 kilo ca
 On August 16, 2022, data measurements for waist circumference were 30 inch
 
 
-On 2022-08-17, the following health measurements were taken: 
+On 2022-08-17, the following health measurements were taken:
 On August 17, 2022, data measurements for body mass were 91106 gram
 On August 17, 2022, data measurements for distance walking running were 7 count
 On August 17, 2022, data measurements for headphone audio exposure were 75 decible a weighted sound pressure level
@@ -1138,7 +1138,7 @@ On August 17, 2022, data measurements for flights climbed were 16 count
 On August 17, 2022, data measurements for waist circumference were 30 inch
 
 
-On 2022-08-18, the following health measurements were taken: 
+On 2022-08-18, the following health measurements were taken:
 On August 18, 2022, data measurements for distance walking running were 8 count
 On August 18, 2022, data measurements for walking double support percentage were 0.2 percent
 On August 18, 2022, data measurements for basal energy burned were 1767 kilo calorie
@@ -1157,7 +1157,7 @@ On August 18, 2022, data measurements for blood glucose were 4 mole unit
 On August 18, 2022, data measurements for active energy burned were 2238 kilo calorie
 
 
-On 2022-08-19, the following health measurements were taken: 
+On 2022-08-19, the following health measurements were taken:
 On August 19, 2022, data measurements for distance walking running were 7 count
 On August 19, 2022, data measurements for flights climbed were 16 count
 On August 19, 2022, data measurements for basal energy burned were 1682 kilo calorie
@@ -1176,7 +1176,7 @@ On August 19, 2022, data measurements for heart rate were 95 counts per minute
 On August 19, 2022, data measurements for walking double support percentage were 1.2 percent
 
 
-On 2022-08-20, the following health measurements were taken: 
+On 2022-08-20, the following health measurements were taken:
 On August 20, 2022, data measurements for body mass index were 19.5 count
 On August 20, 2022, data measurements for body mass were 53935 gram
 On August 20, 2022, data measurements for headphone audio exposure were 74 decible a weighted sound pressure level
@@ -1195,7 +1195,7 @@ On August 20, 2022, data measurements for active energy burned were 2275 kilo ca
 On August 20, 2022, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2022-08-21, the following health measurements were taken: 
+On 2022-08-21, the following health measurements were taken:
 On August 21, 2022, data measurements for height were 76 inch
 On August 21, 2022, data measurements for heart rate were 71 counts per minute
 On August 21, 2022, data measurements for waist circumference were 33 inch
@@ -1214,7 +1214,7 @@ On August 21, 2022, data measurements for walking double support percentage were
 On August 21, 2022, data measurements for sleep duration were 7 hour
 
 
-On 2022-08-22, the following health measurements were taken: 
+On 2022-08-22, the following health measurements were taken:
 On August 22, 2022, data measurements for sleep duration were 9 hour
 On August 22, 2022, data measurements for distance walking running were 7 count
 On August 22, 2022, data measurements for height were 61 inch
@@ -1233,7 +1233,7 @@ On August 22, 2022, data measurements for basal energy burned were 1766 kilo cal
 On August 22, 2022, data measurements for blood glucose were 5 mole unit
 
 
-On 2022-08-23, the following health measurements were taken: 
+On 2022-08-23, the following health measurements were taken:
 On August 23, 2022, data measurements for sleep duration were 8 hour
 On August 23, 2022, data measurements for waist circumference were 38 inch
 On August 23, 2022, data measurements for active energy burned were 1805 kilo calorie
@@ -1252,7 +1252,7 @@ On August 23, 2022, data measurements for body mass were 63214 gram
 On August 23, 2022, data measurements for heart rate were 83 counts per minute
 
 
-On 2022-08-24, the following health measurements were taken: 
+On 2022-08-24, the following health measurements were taken:
 On August 24, 2022, data measurements for walking double support percentage were 0.2 percent
 On August 24, 2022, data measurements for blood glucose were 4 mole unit
 On August 24, 2022, data measurements for height were 76 inch
@@ -1271,7 +1271,7 @@ On August 24, 2022, data measurements for distance walking running were 6 count
 On August 24, 2022, data measurements for sleep duration were 6 hour
 
 
-On 2022-08-25, the following health measurements were taken: 
+On 2022-08-25, the following health measurements were taken:
 On August 25, 2022, data measurements for height were 64 inch
 On August 25, 2022, data measurements for body mass index were 20.5 count
 On August 25, 2022, data measurements for walking double support percentage were 0.2 percent
@@ -1290,7 +1290,7 @@ On August 25, 2022, data measurements for basal energy burned were 1215 kilo cal
 On August 25, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-08-26, the following health measurements were taken: 
+On 2022-08-26, the following health measurements were taken:
 On August 26, 2022, data measurements for flights climbed were 28 count
 On August 26, 2022, data measurements for distance walking running were 5 count
 On August 26, 2022, data measurements for step count were 14866 count
@@ -1309,7 +1309,7 @@ On August 26, 2022, data measurements for heart rate were 75 counts per minute
 On August 26, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-08-27, the following health measurements were taken: 
+On 2022-08-27, the following health measurements were taken:
 On August 27, 2022, data measurements for height were 69 inch
 On August 27, 2022, data measurements for lean body mass were 0.7 gram
 On August 27, 2022, data measurements for body mass index were 19.5 count
@@ -1328,7 +1328,7 @@ On August 27, 2022, data measurements for walking double support percentage were
 On August 27, 2022, data measurements for blood glucose were 8 mole unit
 
 
-On 2022-08-28, the following health measurements were taken: 
+On 2022-08-28, the following health measurements were taken:
 On August 28, 2022, data measurements for body mass were 72861 gram
 On August 28, 2022, data measurements for heart rate were 62 counts per minute
 On August 28, 2022, data measurements for body fat percentage were 0.15 percent
@@ -1347,7 +1347,7 @@ On August 28, 2022, data measurements for sleep duration were 7 hour
 On August 28, 2022, data measurements for lean body mass were 1.7 gram
 
 
-On 2022-08-29, the following health measurements were taken: 
+On 2022-08-29, the following health measurements were taken:
 On August 29, 2022, data measurements for basal energy burned were 1496 kilo calorie
 On August 29, 2022, data measurements for heart rate were 64 counts per minute
 On August 29, 2022, data measurements for body fat percentage were 0.15 percent
@@ -1366,7 +1366,7 @@ On August 29, 2022, data measurements for walking double support percentage were
 On August 29, 2022, data measurements for distance walking running were 2 count
 
 
-On 2022-08-30, the following health measurements were taken: 
+On 2022-08-30, the following health measurements were taken:
 On August 30, 2022, data measurements for heart rate were 95 counts per minute
 On August 30, 2022, data measurements for headphone audio exposure were 60 decible a weighted sound pressure level
 On August 30, 2022, data measurements for blood glucose were 7 mole unit
@@ -1385,7 +1385,7 @@ On August 30, 2022, data measurements for height were 74 inch
 On August 30, 2022, data measurements for distance walking running were 10 count
 
 
-On 2022-08-31, the following health measurements were taken: 
+On 2022-08-31, the following health measurements were taken:
 On August 31, 2022, data measurements for height were 76 inch
 On August 31, 2022, data measurements for body mass index were 22.5 count
 On August 31, 2022, data measurements for step count were 9710 count
@@ -1404,7 +1404,7 @@ On August 31, 2022, data measurements for distance walking running were 3 count
 On August 31, 2022, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2022-09-01, the following health measurements were taken: 
+On 2022-09-01, the following health measurements were taken:
 On September 01, 2022, data measurements for heart rate were 64 counts per minute
 On September 01, 2022, data measurements for walking double support percentage were 0.2 percent
 On September 01, 2022, data measurements for active energy burned were 2212 kilo calorie
@@ -1423,7 +1423,7 @@ On September 01, 2022, data measurements for height were 61 inch
 On September 01, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-09-02, the following health measurements were taken: 
+On 2022-09-02, the following health measurements were taken:
 On September 02, 2022, data measurements for body mass index were 26.5 count
 On September 02, 2022, data measurements for lean body mass were 0.7 gram
 On September 02, 2022, data measurements for body fat percentage were 0.15 percent
@@ -1442,7 +1442,7 @@ On September 02, 2022, data measurements for height were 75 inch
 On September 02, 2022, data measurements for blood glucose were 5 mole unit
 
 
-On 2022-09-03, the following health measurements were taken: 
+On 2022-09-03, the following health measurements were taken:
 On September 03, 2022, data measurements for body mass were 60448 gram
 On September 03, 2022, data measurements for flights climbed were 13 count
 On September 03, 2022, data measurements for height were 61 inch
@@ -1461,7 +1461,7 @@ On September 03, 2022, data measurements for walking double support percentage w
 On September 03, 2022, data measurements for sleep duration were 9 hour
 
 
-On 2022-09-04, the following health measurements were taken: 
+On 2022-09-04, the following health measurements were taken:
 On September 04, 2022, data measurements for waist circumference were 35 inch
 On September 04, 2022, data measurements for active energy burned were 2842 kilo calorie
 On September 04, 2022, data measurements for flights climbed were 7 count
@@ -1480,7 +1480,7 @@ On September 04, 2022, data measurements for heart rate were 82 counts per minut
 On September 04, 2022, data measurements for body mass index were 28.5 count
 
 
-On 2022-09-05, the following health measurements were taken: 
+On 2022-09-05, the following health measurements were taken:
 On September 05, 2022, data measurements for height were 75 inch
 On September 05, 2022, data measurements for basal energy burned were 1684 kilo calorie
 On September 05, 2022, data measurements for step count were 14887 count
@@ -1499,7 +1499,7 @@ On September 05, 2022, data measurements for lean body mass were 0.7 gram
 On September 05, 2022, data measurements for sleep duration were 9 hour
 
 
-On 2022-09-06, the following health measurements were taken: 
+On 2022-09-06, the following health measurements were taken:
 On September 06, 2022, data measurements for body mass were 55576 gram
 On September 06, 2022, data measurements for lean body mass were 0.7 gram
 On September 06, 2022, data measurements for basal energy burned were 1260 kilo calorie
@@ -1518,7 +1518,7 @@ On September 06, 2022, data measurements for heart rate were 96 counts per minut
 On September 06, 2022, data measurements for sleep duration were 9 hour
 
 
-On 2022-09-07, the following health measurements were taken: 
+On 2022-09-07, the following health measurements were taken:
 On September 07, 2022, data measurements for body mass were 53799 gram
 On September 07, 2022, data measurements for waist circumference were 40 inch
 On September 07, 2022, data measurements for walking double support percentage were 0.2 percent
@@ -1537,7 +1537,7 @@ On September 07, 2022, data measurements for blood glucose were 7 mole unit
 On September 07, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-09-08, the following health measurements were taken: 
+On 2022-09-08, the following health measurements were taken:
 On September 08, 2022, data measurements for body mass were 50706 gram
 On September 08, 2022, data measurements for distance walking running were 8 count
 On September 08, 2022, data measurements for waist circumference were 28 inch
@@ -1556,7 +1556,7 @@ On September 08, 2022, data measurements for lean body mass were 0.7 gram
 On September 08, 2022, data measurements for body mass index were 24.5 count
 
 
-On 2022-09-09, the following health measurements were taken: 
+On 2022-09-09, the following health measurements were taken:
 On September 09, 2022, data measurements for basal energy burned were 1502 kilo calorie
 On September 09, 2022, data measurements for active energy burned were 2236 kilo calorie
 On September 09, 2022, data measurements for blood glucose were 4 mole unit
@@ -1575,7 +1575,7 @@ On September 09, 2022, data measurements for step count were 5076 count
 On September 09, 2022, data measurements for headphone audio exposure were 69 decible a weighted sound pressure level
 
 
-On 2022-09-10, the following health measurements were taken: 
+On 2022-09-10, the following health measurements were taken:
 On September 10, 2022, data measurements for body mass index were 27.5 count
 On September 10, 2022, data measurements for heart rate were 88 counts per minute
 On September 10, 2022, data measurements for distance walking running were 8 count
@@ -1594,7 +1594,7 @@ On September 10, 2022, data measurements for body fat percentage were 0.15 perce
 On September 10, 2022, data measurements for flights climbed were 21 count
 
 
-On 2022-09-11, the following health measurements were taken: 
+On 2022-09-11, the following health measurements were taken:
 On September 11, 2022, data measurements for sleep duration were 6 hour
 On September 11, 2022, data measurements for height were 61 inch
 On September 11, 2022, data measurements for waist circumference were 40 inch
@@ -1613,7 +1613,7 @@ On September 11, 2022, data measurements for distance walking running were 10 co
 On September 11, 2022, data measurements for flights climbed were 7 count
 
 
-On 2022-09-12, the following health measurements were taken: 
+On 2022-09-12, the following health measurements were taken:
 On September 12, 2022, data measurements for step count were 10425 count
 On September 12, 2022, data measurements for waist circumference were 32 inch
 On September 12, 2022, data measurements for height were 62 inch
@@ -1632,7 +1632,7 @@ On September 12, 2022, data measurements for basal energy burned were 1695 kilo 
 On September 12, 2022, data measurements for sleep duration were 7 hour
 
 
-On 2022-09-13, the following health measurements were taken: 
+On 2022-09-13, the following health measurements were taken:
 On September 13, 2022, data measurements for body mass index were 23.5 count
 On September 13, 2022, data measurements for flights climbed were 6 count
 On September 13, 2022, data measurements for blood glucose were 5 mole unit
@@ -1651,7 +1651,7 @@ On September 13, 2022, data measurements for heart rate were 82 counts per minut
 On September 13, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-09-14, the following health measurements were taken: 
+On 2022-09-14, the following health measurements were taken:
 On September 14, 2022, data measurements for body mass were 51919 gram
 On September 14, 2022, data measurements for step count were 13636 count
 On September 14, 2022, data measurements for waist circumference were 37 inch
@@ -1670,7 +1670,7 @@ On September 14, 2022, data measurements for lean body mass were 0.7 gram
 On September 14, 2022, data measurements for active energy burned were 1535 kilo calorie
 
 
-On 2022-09-15, the following health measurements were taken: 
+On 2022-09-15, the following health measurements were taken:
 On September 15, 2022, data measurements for sleep duration were 7 hour
 On September 15, 2022, data measurements for waist circumference were 30 inch
 On September 15, 2022, data measurements for walking double support percentage were 0.2 percent
@@ -1689,7 +1689,7 @@ On September 15, 2022, data measurements for body mass index were 30.5 count
 On September 15, 2022, data measurements for active energy burned were 1722 kilo calorie
 
 
-On 2022-09-16, the following health measurements were taken: 
+On 2022-09-16, the following health measurements were taken:
 On September 16, 2022, data measurements for flights climbed were 26 count
 On September 16, 2022, data measurements for active energy burned were 1913 kilo calorie
 On September 16, 2022, data measurements for headphone audio exposure were 72 decible a weighted sound pressure level
@@ -1708,7 +1708,7 @@ On September 16, 2022, data measurements for blood glucose were 7 mole unit
 On September 16, 2022, data measurements for body mass index were 24.5 count
 
 
-On 2022-09-17, the following health measurements were taken: 
+On 2022-09-17, the following health measurements were taken:
 On September 17, 2022, data measurements for active energy burned were 2698 kilo calorie
 On September 17, 2022, data measurements for basal energy burned were 1493 kilo calorie
 On September 17, 2022, data measurements for distance walking running were 3 count
@@ -1727,7 +1727,7 @@ On September 17, 2022, data measurements for flights climbed were 5 count
 On September 17, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-09-18, the following health measurements were taken: 
+On 2022-09-18, the following health measurements were taken:
 On September 18, 2022, data measurements for body mass were 84995 gram
 On September 18, 2022, data measurements for step count were 14653 count
 On September 18, 2022, data measurements for height were 62 inch
@@ -1746,7 +1746,7 @@ On September 18, 2022, data measurements for headphone audio exposure were 76 de
 On September 18, 2022, data measurements for flights climbed were 11 count
 
 
-On 2022-09-19, the following health measurements were taken: 
+On 2022-09-19, the following health measurements were taken:
 On September 19, 2022, data measurements for headphone audio exposure were 84 decible a weighted sound pressure level
 On September 19, 2022, data measurements for active energy burned were 2439 kilo calorie
 On September 19, 2022, data measurements for body mass index were 22.5 count
@@ -1765,7 +1765,7 @@ On September 19, 2022, data measurements for height were 63 inch
 On September 19, 2022, data measurements for flights climbed were 17 count
 
 
-On 2022-09-20, the following health measurements were taken: 
+On 2022-09-20, the following health measurements were taken:
 On September 20, 2022, data measurements for walking double support percentage were 0.2 percent
 On September 20, 2022, data measurements for body mass index were 20.5 count
 On September 20, 2022, data measurements for waist circumference were 37 inch
@@ -1784,7 +1784,7 @@ On September 20, 2022, data measurements for sleep duration were 7 hour
 On September 20, 2022, data measurements for height were 71 inch
 
 
-On 2022-09-21, the following health measurements were taken: 
+On 2022-09-21, the following health measurements were taken:
 On September 21, 2022, data measurements for active energy burned were 2125 kilo calorie
 On September 21, 2022, data measurements for walking double support percentage were 0.2 percent
 On September 21, 2022, data measurements for waist circumference were 30 inch
@@ -1803,7 +1803,7 @@ On September 21, 2022, data measurements for height were 66 inch
 On September 21, 2022, data measurements for flights climbed were 21 count
 
 
-On 2022-09-22, the following health measurements were taken: 
+On 2022-09-22, the following health measurements were taken:
 On September 22, 2022, data measurements for body fat percentage were 0.15 percent
 On September 22, 2022, data measurements for heart rate were 90 counts per minute
 On September 22, 2022, data measurements for sleep duration were 6 hour
@@ -1822,7 +1822,7 @@ On September 22, 2022, data measurements for active energy burned were 2964 kilo
 On September 22, 2022, data measurements for headphone audio exposure were 82 decible a weighted sound pressure level
 
 
-On 2022-09-23, the following health measurements were taken: 
+On 2022-09-23, the following health measurements were taken:
 On September 23, 2022, data measurements for body fat percentage were 0.15 percent
 On September 23, 2022, data measurements for sleep duration were 6 hour
 On September 23, 2022, data measurements for blood glucose were 5 mole unit
@@ -1841,7 +1841,7 @@ On September 23, 2022, data measurements for waist circumference were 38 inch
 On September 23, 2022, data measurements for basal energy burned were 1644 kilo calorie
 
 
-On 2022-09-24, the following health measurements were taken: 
+On 2022-09-24, the following health measurements were taken:
 On September 24, 2022, data measurements for body mass index were 23.5 count
 On September 24, 2022, data measurements for headphone audio exposure were 74 decible a weighted sound pressure level
 On September 24, 2022, data measurements for step count were 11319 count
@@ -1860,7 +1860,7 @@ On September 24, 2022, data measurements for walking double support percentage w
 On September 24, 2022, data measurements for blood glucose were 4 mole unit
 
 
-On 2022-09-25, the following health measurements were taken: 
+On 2022-09-25, the following health measurements were taken:
 On September 25, 2022, data measurements for step count were 9568 count
 On September 25, 2022, data measurements for height were 61 inch
 On September 25, 2022, data measurements for flights climbed were 19 count
@@ -1879,7 +1879,7 @@ On September 25, 2022, data measurements for blood glucose were 8 mole unit
 On September 25, 2022, data measurements for headphone audio exposure were 71 decible a weighted sound pressure level
 
 
-On 2022-09-26, the following health measurements were taken: 
+On 2022-09-26, the following health measurements were taken:
 On September 26, 2022, data measurements for distance walking running were 6 count
 On September 26, 2022, data measurements for walking double support percentage were 0.2 percent
 On September 26, 2022, data measurements for waist circumference were 31 inch
@@ -1898,7 +1898,7 @@ On September 26, 2022, data measurements for body mass index were 29.5 count
 On September 26, 2022, data measurements for step count were 12745 count
 
 
-On 2022-09-27, the following health measurements were taken: 
+On 2022-09-27, the following health measurements were taken:
 On September 27, 2022, data measurements for blood glucose were 8 mole unit
 On September 27, 2022, data measurements for body fat percentage were 1.15 percent
 On September 27, 2022, data measurements for step count were 3422 count
@@ -1917,7 +1917,7 @@ On September 27, 2022, data measurements for walking double support percentage w
 On September 27, 2022, data measurements for flights climbed were 6 count
 
 
-On 2022-09-28, the following health measurements were taken: 
+On 2022-09-28, the following health measurements were taken:
 On September 28, 2022, data measurements for walking double support percentage were 0.2 percent
 On September 28, 2022, data measurements for body fat percentage were 0.15 percent
 On September 28, 2022, data measurements for active energy burned were 2605 kilo calorie
@@ -1936,7 +1936,7 @@ On September 28, 2022, data measurements for sleep duration were 9 hour
 On September 28, 2022, data measurements for body mass were 92827 gram
 
 
-On 2022-09-29, the following health measurements were taken: 
+On 2022-09-29, the following health measurements were taken:
 On September 29, 2022, data measurements for flights climbed were 22 count
 On September 29, 2022, data measurements for walking double support percentage were 0.2 percent
 On September 29, 2022, data measurements for active energy burned were 2271 kilo calorie
@@ -1955,7 +1955,7 @@ On September 29, 2022, data measurements for step count were 11058 count
 On September 29, 2022, data measurements for headphone audio exposure were 62 decible a weighted sound pressure level
 
 
-On 2022-09-30, the following health measurements were taken: 
+On 2022-09-30, the following health measurements were taken:
 On September 30, 2022, data measurements for flights climbed were 0 count
 On September 30, 2022, data measurements for sleep duration were 8 hour
 On September 30, 2022, data measurements for heart rate were 97 counts per minute
@@ -1974,7 +1974,7 @@ On September 30, 2022, data measurements for headphone audio exposure were 68 de
 On September 30, 2022, data measurements for body mass index were 25.5 count
 
 
-On 2022-10-01, the following health measurements were taken: 
+On 2022-10-01, the following health measurements were taken:
 On October 01, 2022, data measurements for blood glucose were 7 mole unit
 On October 01, 2022, data measurements for headphone audio exposure were 65 decible a weighted sound pressure level
 On October 01, 2022, data measurements for step count were 10821 count
@@ -1993,7 +1993,7 @@ On October 01, 2022, data measurements for walking double support percentage wer
 On October 01, 2022, data measurements for height were 63 inch
 
 
-On 2022-10-02, the following health measurements were taken: 
+On 2022-10-02, the following health measurements were taken:
 On October 02, 2022, data measurements for height were 73 inch
 On October 02, 2022, data measurements for body mass index were 23.5 count
 On October 02, 2022, data measurements for flights climbed were 13 count
@@ -2012,7 +2012,7 @@ On October 02, 2022, data measurements for waist circumference were 34 inch
 On October 02, 2022, data measurements for heart rate were 92 counts per minute
 
 
-On 2022-10-03, the following health measurements were taken: 
+On 2022-10-03, the following health measurements were taken:
 On October 03, 2022, data measurements for blood glucose were 5 mole unit
 On October 03, 2022, data measurements for body mass were 56192 gram
 On October 03, 2022, data measurements for heart rate were 97 counts per minute
@@ -2031,7 +2031,7 @@ On October 03, 2022, data measurements for walking double support percentage wer
 On October 03, 2022, data measurements for step count were 11853 count
 
 
-On 2022-10-04, the following health measurements were taken: 
+On 2022-10-04, the following health measurements were taken:
 On October 04, 2022, data measurements for body mass were 97732 gram
 On October 04, 2022, data measurements for distance walking running were 9 count
 On October 04, 2022, data measurements for waist circumference were 27 inch
@@ -2050,7 +2050,7 @@ On October 04, 2022, data measurements for basal energy burned were 1530 kilo ca
 On October 04, 2022, data measurements for blood glucose were 6 mole unit
 
 
-On 2022-10-05, the following health measurements were taken: 
+On 2022-10-05, the following health measurements were taken:
 On October 05, 2022, data measurements for flights climbed were 23 count
 On October 05, 2022, data measurements for waist circumference were 40 inch
 On October 05, 2022, data measurements for headphone audio exposure were 67 decible a weighted sound pressure level
@@ -2069,7 +2069,7 @@ On October 05, 2022, data measurements for body mass were 72760 gram
 On October 05, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-10-06, the following health measurements were taken: 
+On 2022-10-06, the following health measurements were taken:
 On October 06, 2022, data measurements for flights climbed were 22 count
 On October 06, 2022, data measurements for body mass index were 25.5 count
 On October 06, 2022, data measurements for body mass were 68238 gram
@@ -2088,7 +2088,7 @@ On October 06, 2022, data measurements for sleep duration were 9 hour
 On October 06, 2022, data measurements for heart rate were 64 counts per minute
 
 
-On 2022-10-07, the following health measurements were taken: 
+On 2022-10-07, the following health measurements were taken:
 On October 07, 2022, data measurements for heart rate were 89 counts per minute
 On October 07, 2022, data measurements for flights climbed were 13 count
 On October 07, 2022, data measurements for sleep duration were 9 hour
@@ -2107,7 +2107,7 @@ On October 07, 2022, data measurements for body fat percentage were 0.15 percent
 On October 07, 2022, data measurements for body mass index were 23.5 count
 
 
-On 2022-10-08, the following health measurements were taken: 
+On 2022-10-08, the following health measurements were taken:
 On October 08, 2022, data measurements for height were 65 inch
 On October 08, 2022, data measurements for body fat percentage were 0.15 percent
 On October 08, 2022, data measurements for sleep duration were 8 hour
@@ -2126,7 +2126,7 @@ On October 08, 2022, data measurements for distance walking running were 2 count
 On October 08, 2022, data measurements for walking double support percentage were 1.2 percent
 
 
-On 2022-10-09, the following health measurements were taken: 
+On 2022-10-09, the following health measurements were taken:
 On October 09, 2022, data measurements for waist circumference were 34 inch
 On October 09, 2022, data measurements for active energy burned were 2329 kilo calorie
 On October 09, 2022, data measurements for body mass index were 24.5 count
@@ -2145,7 +2145,7 @@ On October 09, 2022, data measurements for body fat percentage were 0.15 percent
 On October 09, 2022, data measurements for step count were 5156 count
 
 
-On 2022-10-10, the following health measurements were taken: 
+On 2022-10-10, the following health measurements were taken:
 On October 10, 2022, data measurements for headphone audio exposure were 80 decible a weighted sound pressure level
 On October 10, 2022, data measurements for body fat percentage were 0.15 percent
 On October 10, 2022, data measurements for walking double support percentage were 1.2 percent
@@ -2164,7 +2164,7 @@ On October 10, 2022, data measurements for body mass were 62091 gram
 On October 10, 2022, data measurements for sleep duration were 9 hour
 
 
-On 2022-10-11, the following health measurements were taken: 
+On 2022-10-11, the following health measurements were taken:
 On October 11, 2022, data measurements for body fat percentage were 0.15 percent
 On October 11, 2022, data measurements for body mass were 63905 gram
 On October 11, 2022, data measurements for body mass index were 19.5 count
@@ -2183,7 +2183,7 @@ On October 11, 2022, data measurements for heart rate were 84 counts per minute
 On October 11, 2022, data measurements for sleep duration were 6 hour
 
 
-On 2022-10-12, the following health measurements were taken: 
+On 2022-10-12, the following health measurements were taken:
 On October 12, 2022, data measurements for blood glucose were 6 mole unit
 On October 12, 2022, data measurements for sleep duration were 9 hour
 On October 12, 2022, data measurements for basal energy burned were 1749 kilo calorie
@@ -2202,7 +2202,7 @@ On October 12, 2022, data measurements for headphone audio exposure were 81 deci
 On October 12, 2022, data measurements for distance walking running were 6 count
 
 
-On 2022-10-13, the following health measurements were taken: 
+On 2022-10-13, the following health measurements were taken:
 On October 13, 2022, data measurements for sleep duration were 6 hour
 On October 13, 2022, data measurements for body fat percentage were 0.15 percent
 On October 13, 2022, data measurements for body mass were 70520 gram
@@ -2221,7 +2221,7 @@ On October 13, 2022, data measurements for lean body mass were 0.7 gram
 On October 13, 2022, data measurements for heart rate were 68 counts per minute
 
 
-On 2022-10-14, the following health measurements were taken: 
+On 2022-10-14, the following health measurements were taken:
 On October 14, 2022, data measurements for sleep duration were 6 hour
 On October 14, 2022, data measurements for body mass were 80540 gram
 On October 14, 2022, data measurements for walking double support percentage were 0.2 percent
@@ -2240,7 +2240,7 @@ On October 14, 2022, data measurements for headphone audio exposure were 79 deci
 On October 14, 2022, data measurements for basal energy burned were 1692 kilo calorie
 
 
-On 2022-10-15, the following health measurements were taken: 
+On 2022-10-15, the following health measurements were taken:
 On October 15, 2022, data measurements for height were 68 inch
 On October 15, 2022, data measurements for distance walking running were 6 count
 On October 15, 2022, data measurements for basal energy burned were 1780 kilo calorie
@@ -2259,7 +2259,7 @@ On October 15, 2022, data measurements for walking double support percentage wer
 On October 15, 2022, data measurements for sleep duration were 8 hour
 
 
-On 2022-10-16, the following health measurements were taken: 
+On 2022-10-16, the following health measurements were taken:
 On October 16, 2022, data measurements for waist circumference were 29 inch
 On October 16, 2022, data measurements for body mass index were 26.5 count
 On October 16, 2022, data measurements for body fat percentage were 0.15 percent
@@ -2278,7 +2278,7 @@ On October 16, 2022, data measurements for flights climbed were 28 count
 On October 16, 2022, data measurements for distance walking running were 7 count
 
 
-On 2022-10-17, the following health measurements were taken: 
+On 2022-10-17, the following health measurements were taken:
 On October 17, 2022, data measurements for body mass were 99450 gram
 On October 17, 2022, data measurements for step count were 8379 count
 On October 17, 2022, data measurements for basal energy burned were 1494 kilo calorie
@@ -2297,7 +2297,7 @@ On October 17, 2022, data measurements for waist circumference were 35 inch
 On October 17, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-10-18, the following health measurements were taken: 
+On 2022-10-18, the following health measurements were taken:
 On October 18, 2022, data measurements for active energy burned were 2204 kilo calorie
 On October 18, 2022, data measurements for lean body mass were 0.7 gram
 On October 18, 2022, data measurements for step count were 7791 count
@@ -2316,7 +2316,7 @@ On October 18, 2022, data measurements for blood glucose were 7 mole unit
 On October 18, 2022, data measurements for waist circumference were 34 inch
 
 
-On 2022-10-19, the following health measurements were taken: 
+On 2022-10-19, the following health measurements were taken:
 On October 19, 2022, data measurements for step count were 7349 count
 On October 19, 2022, data measurements for heart rate were 96 counts per minute
 On October 19, 2022, data measurements for lean body mass were 0.7 gram
@@ -2335,7 +2335,7 @@ On October 19, 2022, data measurements for sleep duration were 6 hour
 On October 19, 2022, data measurements for body mass were 83821 gram
 
 
-On 2022-10-20, the following health measurements were taken: 
+On 2022-10-20, the following health measurements were taken:
 On October 20, 2022, data measurements for flights climbed were 26 count
 On October 20, 2022, data measurements for sleep duration were 7 hour
 On October 20, 2022, data measurements for blood glucose were 6 mole unit
@@ -2354,7 +2354,7 @@ On October 20, 2022, data measurements for body mass were 65687 gram
 On October 20, 2022, data measurements for body mass index were 19.5 count
 
 
-On 2022-10-21, the following health measurements were taken: 
+On 2022-10-21, the following health measurements were taken:
 On October 21, 2022, data measurements for flights climbed were 29 count
 On October 21, 2022, data measurements for headphone audio exposure were 79 decible a weighted sound pressure level
 On October 21, 2022, data measurements for basal energy burned were 1499 kilo calorie
@@ -2373,7 +2373,7 @@ On October 21, 2022, data measurements for sleep duration were 7 hour
 On October 21, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-10-22, the following health measurements were taken: 
+On 2022-10-22, the following health measurements were taken:
 On October 22, 2022, data measurements for body mass were 67634 gram
 On October 22, 2022, data measurements for heart rate were 68 counts per minute
 On October 22, 2022, data measurements for waist circumference were 36 inch
@@ -2392,7 +2392,7 @@ On October 22, 2022, data measurements for walking double support percentage wer
 On October 22, 2022, data measurements for sleep duration were 8 hour
 
 
-On 2022-10-23, the following health measurements were taken: 
+On 2022-10-23, the following health measurements were taken:
 On October 23, 2022, data measurements for body mass index were 21.5 count
 On October 23, 2022, data measurements for sleep duration were 8 hour
 On October 23, 2022, data measurements for basal energy burned were 1664 kilo calorie
@@ -2411,7 +2411,7 @@ On October 23, 2022, data measurements for blood glucose were 5 mole unit
 On October 23, 2022, data measurements for waist circumference were 36 inch
 
 
-On 2022-10-24, the following health measurements were taken: 
+On 2022-10-24, the following health measurements were taken:
 On October 24, 2022, data measurements for lean body mass were 0.7 gram
 On October 24, 2022, data measurements for flights climbed were 8 count
 On October 24, 2022, data measurements for body mass were 90600 gram
@@ -2430,7 +2430,7 @@ On October 24, 2022, data measurements for blood glucose were 4 mole unit
 On October 24, 2022, data measurements for distance walking running were 9 count
 
 
-On 2022-10-25, the following health measurements were taken: 
+On 2022-10-25, the following health measurements were taken:
 On October 25, 2022, data measurements for active energy burned were 1670 kilo calorie
 On October 25, 2022, data measurements for sleep duration were 7 hour
 On October 25, 2022, data measurements for distance walking running were 4 count
@@ -2449,7 +2449,7 @@ On October 25, 2022, data measurements for blood glucose were 4 mole unit
 On October 25, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-10-26, the following health measurements were taken: 
+On 2022-10-26, the following health measurements were taken:
 On October 26, 2022, data measurements for step count were 13342 count
 On October 26, 2022, data measurements for headphone audio exposure were 71 decible a weighted sound pressure level
 On October 26, 2022, data measurements for body mass were 58734 gram
@@ -2468,7 +2468,7 @@ On October 26, 2022, data measurements for height were 62 inch
 On October 26, 2022, data measurements for basal energy burned were 1614 kilo calorie
 
 
-On 2022-10-27, the following health measurements were taken: 
+On 2022-10-27, the following health measurements were taken:
 On October 27, 2022, data measurements for basal energy burned were 1674 kilo calorie
 On October 27, 2022, data measurements for headphone audio exposure were 71 decible a weighted sound pressure level
 On October 27, 2022, data measurements for step count were 4482 count
@@ -2487,7 +2487,7 @@ On October 27, 2022, data measurements for walking double support percentage wer
 On October 27, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-10-28, the following health measurements were taken: 
+On 2022-10-28, the following health measurements were taken:
 On October 28, 2022, data measurements for waist circumference were 39 inch
 On October 28, 2022, data measurements for lean body mass were 0.7 gram
 On October 28, 2022, data measurements for sleep duration were 6 hour
@@ -2506,7 +2506,7 @@ On October 28, 2022, data measurements for flights climbed were 2 count
 On October 28, 2022, data measurements for body mass were 77378 gram
 
 
-On 2022-10-29, the following health measurements were taken: 
+On 2022-10-29, the following health measurements were taken:
 On October 29, 2022, data measurements for sleep duration were 8 hour
 On October 29, 2022, data measurements for step count were 13441 count
 On October 29, 2022, data measurements for walking double support percentage were 0.2 percent
@@ -2525,7 +2525,7 @@ On October 29, 2022, data measurements for body mass index were 28.5 count
 On October 29, 2022, data measurements for height were 74 inch
 
 
-On 2022-10-30, the following health measurements were taken: 
+On 2022-10-30, the following health measurements were taken:
 On October 30, 2022, data measurements for flights climbed were 24 count
 On October 30, 2022, data measurements for basal energy burned were 1561 kilo calorie
 On October 30, 2022, data measurements for blood glucose were 8 mole unit
@@ -2544,7 +2544,7 @@ On October 30, 2022, data measurements for walking double support percentage wer
 On October 30, 2022, data measurements for active energy burned were 1739 kilo calorie
 
 
-On 2022-10-31, the following health measurements were taken: 
+On 2022-10-31, the following health measurements were taken:
 On October 31, 2022, data measurements for waist circumference were 40 inch
 On October 31, 2022, data measurements for lean body mass were 0.7 gram
 On October 31, 2022, data measurements for headphone audio exposure were 66 decible a weighted sound pressure level
@@ -2563,7 +2563,7 @@ On October 31, 2022, data measurements for body fat percentage were 0.15 percent
 On October 31, 2022, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2022-11-01, the following health measurements were taken: 
+On 2022-11-01, the following health measurements were taken:
 On November 01, 2022, data measurements for step count were 12359 count
 On November 01, 2022, data measurements for heart rate were 82 counts per minute
 On November 01, 2022, data measurements for waist circumference were 32 inch
@@ -2582,7 +2582,7 @@ On November 01, 2022, data measurements for walking double support percentage we
 On November 01, 2022, data measurements for flights climbed were 18 count
 
 
-On 2022-11-02, the following health measurements were taken: 
+On 2022-11-02, the following health measurements were taken:
 On November 02, 2022, data measurements for sleep duration were 9 hour
 On November 02, 2022, data measurements for basal energy burned were 1581 kilo calorie
 On November 02, 2022, data measurements for waist circumference were 38 inch
@@ -2601,7 +2601,7 @@ On November 02, 2022, data measurements for body mass index were 26.5 count
 On November 02, 2022, data measurements for active energy burned were 2292 kilo calorie
 
 
-On 2022-11-03, the following health measurements were taken: 
+On 2022-11-03, the following health measurements were taken:
 On November 03, 2022, data measurements for heart rate were 70 counts per minute
 On November 03, 2022, data measurements for height were 60 inch
 On November 03, 2022, data measurements for body mass were 59955 gram
@@ -2620,7 +2620,7 @@ On November 03, 2022, data measurements for body mass index were 18.5 count
 On November 03, 2022, data measurements for headphone audio exposure were 71 decible a weighted sound pressure level
 
 
-On 2022-11-04, the following health measurements were taken: 
+On 2022-11-04, the following health measurements were taken:
 On November 04, 2022, data measurements for body fat percentage were 1.15 percent
 On November 04, 2022, data measurements for lean body mass were 1.7 gram
 On November 04, 2022, data measurements for step count were 9483 count
@@ -2639,7 +2639,7 @@ On November 04, 2022, data measurements for basal energy burned were 1768 kilo c
 On November 04, 2022, data measurements for body mass were 93078 gram
 
 
-On 2022-11-05, the following health measurements were taken: 
+On 2022-11-05, the following health measurements were taken:
 On November 05, 2022, data measurements for blood glucose were 4 mole unit
 On November 05, 2022, data measurements for lean body mass were 0.7 gram
 On November 05, 2022, data measurements for heart rate were 67 counts per minute
@@ -2658,7 +2658,7 @@ On November 05, 2022, data measurements for body fat percentage were 0.15 percen
 On November 05, 2022, data measurements for body mass index were 30.5 count
 
 
-On 2022-11-06, the following health measurements were taken: 
+On 2022-11-06, the following health measurements were taken:
 On November 06, 2022, data measurements for lean body mass were 0.7 gram
 On November 06, 2022, data measurements for basal energy burned were 1352 kilo calorie
 On November 06, 2022, data measurements for step count were 6673 count
@@ -2677,7 +2677,7 @@ On November 06, 2022, data measurements for flights climbed were 0 count
 On November 06, 2022, data measurements for waist circumference were 33 inch
 
 
-On 2022-11-07, the following health measurements were taken: 
+On 2022-11-07, the following health measurements were taken:
 On November 07, 2022, data measurements for distance walking running were 7 count
 On November 07, 2022, data measurements for blood glucose were 4 mole unit
 On November 07, 2022, data measurements for active energy burned were 2948 kilo calorie
@@ -2696,7 +2696,7 @@ On November 07, 2022, data measurements for sleep duration were 8 hour
 On November 07, 2022, data measurements for step count were 12349 count
 
 
-On 2022-11-08, the following health measurements were taken: 
+On 2022-11-08, the following health measurements were taken:
 On November 08, 2022, data measurements for distance walking running were 2 count
 On November 08, 2022, data measurements for flights climbed were 14 count
 On November 08, 2022, data measurements for height were 60 inch
@@ -2715,7 +2715,7 @@ On November 08, 2022, data measurements for walking double support percentage we
 On November 08, 2022, data measurements for waist circumference were 40 inch
 
 
-On 2022-11-09, the following health measurements were taken: 
+On 2022-11-09, the following health measurements were taken:
 On November 09, 2022, data measurements for distance walking running were 6 count
 On November 09, 2022, data measurements for body mass were 98038 gram
 On November 09, 2022, data measurements for heart rate were 69 counts per minute
@@ -2734,7 +2734,7 @@ On November 09, 2022, data measurements for basal energy burned were 1776 kilo c
 On November 09, 2022, data measurements for body mass index were 18.5 count
 
 
-On 2022-11-10, the following health measurements were taken: 
+On 2022-11-10, the following health measurements were taken:
 On November 10, 2022, data measurements for walking double support percentage were 1.2 percent
 On November 10, 2022, data measurements for waist circumference were 36 inch
 On November 10, 2022, data measurements for heart rate were 85 counts per minute
@@ -2753,7 +2753,7 @@ On November 10, 2022, data measurements for flights climbed were 4 count
 On November 10, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-11-11, the following health measurements were taken: 
+On 2022-11-11, the following health measurements were taken:
 On November 11, 2022, data measurements for waist circumference were 29 inch
 On November 11, 2022, data measurements for distance walking running were 8 count
 On November 11, 2022, data measurements for blood glucose were 6 mole unit
@@ -2772,7 +2772,7 @@ On November 11, 2022, data measurements for body fat percentage were 0.15 percen
 On November 11, 2022, data measurements for step count were 12349 count
 
 
-On 2022-11-12, the following health measurements were taken: 
+On 2022-11-12, the following health measurements were taken:
 On November 12, 2022, data measurements for blood glucose were 8 mole unit
 On November 12, 2022, data measurements for waist circumference were 29 inch
 On November 12, 2022, data measurements for step count were 12236 count
@@ -2791,7 +2791,7 @@ On November 12, 2022, data measurements for body fat percentage were 0.15 percen
 On November 12, 2022, data measurements for distance walking running were 5 count
 
 
-On 2022-11-13, the following health measurements were taken: 
+On 2022-11-13, the following health measurements were taken:
 On November 13, 2022, data measurements for body mass index were 27.5 count
 On November 13, 2022, data measurements for sleep duration were 9 hour
 On November 13, 2022, data measurements for distance walking running were 10 count
@@ -2810,7 +2810,7 @@ On November 13, 2022, data measurements for heart rate were 63 counts per minute
 On November 13, 2022, data measurements for basal energy burned were 1389 kilo calorie
 
 
-On 2022-11-14, the following health measurements were taken: 
+On 2022-11-14, the following health measurements were taken:
 On November 14, 2022, data measurements for body fat percentage were 0.15 percent
 On November 14, 2022, data measurements for walking double support percentage were 1.2 percent
 On November 14, 2022, data measurements for blood glucose were 4 mole unit
@@ -2829,7 +2829,7 @@ On November 14, 2022, data measurements for body mass index were 29.5 count
 On November 14, 2022, data measurements for body mass were 63660 gram
 
 
-On 2022-11-15, the following health measurements were taken: 
+On 2022-11-15, the following health measurements were taken:
 On November 15, 2022, data measurements for flights climbed were 3 count
 On November 15, 2022, data measurements for body fat percentage were 0.15 percent
 On November 15, 2022, data measurements for blood glucose were 6 mole unit
@@ -2848,7 +2848,7 @@ On November 15, 2022, data measurements for height were 73 inch
 On November 15, 2022, data measurements for headphone audio exposure were 64 decible a weighted sound pressure level
 
 
-On 2022-11-16, the following health measurements were taken: 
+On 2022-11-16, the following health measurements were taken:
 On November 16, 2022, data measurements for flights climbed were 4 count
 On November 16, 2022, data measurements for body mass were 66475 gram
 On November 16, 2022, data measurements for height were 66 inch
@@ -2867,7 +2867,7 @@ On November 16, 2022, data measurements for walking double support percentage we
 On November 16, 2022, data measurements for waist circumference were 38 inch
 
 
-On 2022-11-17, the following health measurements were taken: 
+On 2022-11-17, the following health measurements were taken:
 On November 17, 2022, data measurements for walking double support percentage were 0.2 percent
 On November 17, 2022, data measurements for sleep duration were 6 hour
 On November 17, 2022, data measurements for body fat percentage were 0.15 percent
@@ -2886,7 +2886,7 @@ On November 17, 2022, data measurements for distance walking running were 8 coun
 On November 17, 2022, data measurements for body mass index were 23.5 count
 
 
-On 2022-11-18, the following health measurements were taken: 
+On 2022-11-18, the following health measurements were taken:
 On November 18, 2022, data measurements for body fat percentage were 0.15 percent
 On November 18, 2022, data measurements for distance walking running were 6 count
 On November 18, 2022, data measurements for step count were 11317 count
@@ -2905,7 +2905,7 @@ On November 18, 2022, data measurements for body mass index were 25.5 count
 On November 18, 2022, data measurements for sleep duration were 7 hour
 
 
-On 2022-11-19, the following health measurements were taken: 
+On 2022-11-19, the following health measurements were taken:
 On November 19, 2022, data measurements for distance walking running were 8 count
 On November 19, 2022, data measurements for waist circumference were 35 inch
 On November 19, 2022, data measurements for sleep duration were 9 hour
@@ -2924,7 +2924,7 @@ On November 19, 2022, data measurements for height were 76 inch
 On November 19, 2022, data measurements for step count were 7566 count
 
 
-On 2022-11-20, the following health measurements were taken: 
+On 2022-11-20, the following health measurements were taken:
 On November 20, 2022, data measurements for distance walking running were 9 count
 On November 20, 2022, data measurements for sleep duration were 7 hour
 On November 20, 2022, data measurements for body fat percentage were 0.15 percent
@@ -2943,7 +2943,7 @@ On November 20, 2022, data measurements for step count were 8132 count
 On November 20, 2022, data measurements for headphone audio exposure were 74 decible a weighted sound pressure level
 
 
-On 2022-11-21, the following health measurements were taken: 
+On 2022-11-21, the following health measurements were taken:
 On November 21, 2022, data measurements for walking double support percentage were 0.2 percent
 On November 21, 2022, data measurements for flights climbed were 0 count
 On November 21, 2022, data measurements for waist circumference were 38 inch
@@ -2962,7 +2962,7 @@ On November 21, 2022, data measurements for height were 66 inch
 On November 21, 2022, data measurements for blood glucose were 8 mole unit
 
 
-On 2022-11-22, the following health measurements were taken: 
+On 2022-11-22, the following health measurements were taken:
 On November 22, 2022, data measurements for height were 62 inch
 On November 22, 2022, data measurements for body fat percentage were 0.15 percent
 On November 22, 2022, data measurements for active energy burned were 1988 kilo calorie
@@ -2981,7 +2981,7 @@ On November 22, 2022, data measurements for heart rate were 72 counts per minute
 On November 22, 2022, data measurements for waist circumference were 36 inch
 
 
-On 2022-11-23, the following health measurements were taken: 
+On 2022-11-23, the following health measurements were taken:
 On November 23, 2022, data measurements for basal energy burned were 1708 kilo calorie
 On November 23, 2022, data measurements for lean body mass were 0.7 gram
 On November 23, 2022, data measurements for headphone audio exposure were 79 decible a weighted sound pressure level
@@ -3000,7 +3000,7 @@ On November 23, 2022, data measurements for flights climbed were 0 count
 On November 23, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-11-24, the following health measurements were taken: 
+On 2022-11-24, the following health measurements were taken:
 On November 24, 2022, data measurements for walking double support percentage were 0.2 percent
 On November 24, 2022, data measurements for active energy burned were 2809 kilo calorie
 On November 24, 2022, data measurements for body mass index were 27.5 count
@@ -3019,7 +3019,7 @@ On November 24, 2022, data measurements for heart rate were 79 counts per minute
 On November 24, 2022, data measurements for flights climbed were 26 count
 
 
-On 2022-11-25, the following health measurements were taken: 
+On 2022-11-25, the following health measurements were taken:
 On November 25, 2022, data measurements for flights climbed were 11 count
 On November 25, 2022, data measurements for sleep duration were 7 hour
 On November 25, 2022, data measurements for body fat percentage were 0.15 percent
@@ -3038,7 +3038,7 @@ On November 25, 2022, data measurements for active energy burned were 2171 kilo 
 On November 25, 2022, data measurements for body mass index were 28.5 count
 
 
-On 2022-11-26, the following health measurements were taken: 
+On 2022-11-26, the following health measurements were taken:
 On November 26, 2022, data measurements for heart rate were 90 counts per minute
 On November 26, 2022, data measurements for headphone audio exposure were 63 decible a weighted sound pressure level
 On November 26, 2022, data measurements for step count were 10451 count
@@ -3057,7 +3057,7 @@ On November 26, 2022, data measurements for blood glucose were 6 mole unit
 On November 26, 2022, data measurements for flights climbed were 1 count
 
 
-On 2022-11-27, the following health measurements were taken: 
+On 2022-11-27, the following health measurements were taken:
 On November 27, 2022, data measurements for step count were 10179 count
 On November 27, 2022, data measurements for waist circumference were 35 inch
 On November 27, 2022, data measurements for height were 61 inch
@@ -3076,7 +3076,7 @@ On November 27, 2022, data measurements for active energy burned were 2034 kilo 
 On November 27, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-11-28, the following health measurements were taken: 
+On 2022-11-28, the following health measurements were taken:
 On November 28, 2022, data measurements for heart rate were 88 counts per minute
 On November 28, 2022, data measurements for sleep duration were 6 hour
 On November 28, 2022, data measurements for body mass index were 29.5 count
@@ -3095,7 +3095,7 @@ On November 28, 2022, data measurements for lean body mass were 0.7 gram
 On November 28, 2022, data measurements for blood glucose were 4 mole unit
 
 
-On 2022-11-29, the following health measurements were taken: 
+On 2022-11-29, the following health measurements were taken:
 On November 29, 2022, data measurements for flights climbed were 24 count
 On November 29, 2022, data measurements for body fat percentage were 0.15 percent
 On November 29, 2022, data measurements for distance walking running were 8 count
@@ -3114,7 +3114,7 @@ On November 29, 2022, data measurements for basal energy burned were 1439 kilo c
 On November 29, 2022, data measurements for sleep duration were 7 hour
 
 
-On 2022-11-30, the following health measurements were taken: 
+On 2022-11-30, the following health measurements were taken:
 On November 30, 2022, data measurements for blood glucose were 4 mole unit
 On November 30, 2022, data measurements for lean body mass were 1.7 gram
 On November 30, 2022, data measurements for flights climbed were 28 count
@@ -3133,7 +3133,7 @@ On November 30, 2022, data measurements for headphone audio exposure were 81 dec
 On November 30, 2022, data measurements for body mass index were 28.5 count
 
 
-On 2022-12-01, the following health measurements were taken: 
+On 2022-12-01, the following health measurements were taken:
 On December 01, 2022, data measurements for lean body mass were 0.7 gram
 On December 01, 2022, data measurements for step count were 5307 count
 On December 01, 2022, data measurements for body mass were 61825 gram
@@ -3152,7 +3152,7 @@ On December 01, 2022, data measurements for walking double support percentage we
 On December 01, 2022, data measurements for distance walking running were 6 count
 
 
-On 2022-12-02, the following health measurements were taken: 
+On 2022-12-02, the following health measurements were taken:
 On December 02, 2022, data measurements for waist circumference were 27 inch
 On December 02, 2022, data measurements for active energy burned were 2280 kilo calorie
 On December 02, 2022, data measurements for step count were 5257 count
@@ -3171,7 +3171,7 @@ On December 02, 2022, data measurements for body fat percentage were 0.15 percen
 On December 02, 2022, data measurements for lean body mass were 1.7 gram
 
 
-On 2022-12-03, the following health measurements were taken: 
+On 2022-12-03, the following health measurements were taken:
 On December 03, 2022, data measurements for lean body mass were 0.7 gram
 On December 03, 2022, data measurements for active energy burned were 1628 kilo calorie
 On December 03, 2022, data measurements for body mass index were 23.5 count
@@ -3190,7 +3190,7 @@ On December 03, 2022, data measurements for height were 75 inch
 On December 03, 2022, data measurements for step count were 6741 count
 
 
-On 2022-12-04, the following health measurements were taken: 
+On 2022-12-04, the following health measurements were taken:
 On December 04, 2022, data measurements for headphone audio exposure were 77 decible a weighted sound pressure level
 On December 04, 2022, data measurements for step count were 11790 count
 On December 04, 2022, data measurements for basal energy burned were 1482 kilo calorie
@@ -3209,7 +3209,7 @@ On December 04, 2022, data measurements for active energy burned were 1635 kilo 
 On December 04, 2022, data measurements for body mass were 92932 gram
 
 
-On 2022-12-05, the following health measurements were taken: 
+On 2022-12-05, the following health measurements were taken:
 On December 05, 2022, data measurements for active energy burned were 2189 kilo calorie
 On December 05, 2022, data measurements for body mass were 54348 gram
 On December 05, 2022, data measurements for blood glucose were 8 mole unit
@@ -3228,7 +3228,7 @@ On December 05, 2022, data measurements for step count were 10824 count
 On December 05, 2022, data measurements for distance walking running were 8 count
 
 
-On 2022-12-06, the following health measurements were taken: 
+On 2022-12-06, the following health measurements were taken:
 On December 06, 2022, data measurements for blood glucose were 8 mole unit
 On December 06, 2022, data measurements for body fat percentage were 0.15 percent
 On December 06, 2022, data measurements for step count were 9361 count
@@ -3247,7 +3247,7 @@ On December 06, 2022, data measurements for walking double support percentage we
 On December 06, 2022, data measurements for body mass index were 27.5 count
 
 
-On 2022-12-07, the following health measurements were taken: 
+On 2022-12-07, the following health measurements were taken:
 On December 07, 2022, data measurements for body fat percentage were 0.15 percent
 On December 07, 2022, data measurements for sleep duration were 6 hour
 On December 07, 2022, data measurements for basal energy burned were 1711 kilo calorie
@@ -3266,7 +3266,7 @@ On December 07, 2022, data measurements for step count were 4625 count
 On December 07, 2022, data measurements for waist circumference were 37 inch
 
 
-On 2022-12-08, the following health measurements were taken: 
+On 2022-12-08, the following health measurements were taken:
 On December 08, 2022, data measurements for height were 76 inch
 On December 08, 2022, data measurements for body mass index were 18.5 count
 On December 08, 2022, data measurements for blood glucose were 7 mole unit
@@ -3285,7 +3285,7 @@ On December 08, 2022, data measurements for waist circumference were 36 inch
 On December 08, 2022, data measurements for sleep duration were 9 hour
 
 
-On 2022-12-09, the following health measurements were taken: 
+On 2022-12-09, the following health measurements were taken:
 On December 09, 2022, data measurements for body mass index were 24.5 count
 On December 09, 2022, data measurements for distance walking running were 9 count
 On December 09, 2022, data measurements for headphone audio exposure were 82 decible a weighted sound pressure level
@@ -3304,7 +3304,7 @@ On December 09, 2022, data measurements for walking double support percentage we
 On December 09, 2022, data measurements for step count were 6953 count
 
 
-On 2022-12-10, the following health measurements were taken: 
+On 2022-12-10, the following health measurements were taken:
 On December 10, 2022, data measurements for blood glucose were 5 mole unit
 On December 10, 2022, data measurements for height were 71 inch
 On December 10, 2022, data measurements for body mass were 78607 gram
@@ -3323,7 +3323,7 @@ On December 10, 2022, data measurements for headphone audio exposure were 62 dec
 On December 10, 2022, data measurements for step count were 12954 count
 
 
-On 2022-12-11, the following health measurements were taken: 
+On 2022-12-11, the following health measurements were taken:
 On December 11, 2022, data measurements for active energy burned were 2543 kilo calorie
 On December 11, 2022, data measurements for step count were 7085 count
 On December 11, 2022, data measurements for headphone audio exposure were 63 decible a weighted sound pressure level
@@ -3342,7 +3342,7 @@ On December 11, 2022, data measurements for distance walking running were 7 coun
 On December 11, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-12-12, the following health measurements were taken: 
+On 2022-12-12, the following health measurements were taken:
 On December 12, 2022, data measurements for sleep duration were 9 hour
 On December 12, 2022, data measurements for body mass index were 26.5 count
 On December 12, 2022, data measurements for height were 67 inch
@@ -3361,7 +3361,7 @@ On December 12, 2022, data measurements for basal energy burned were 1764 kilo c
 On December 12, 2022, data measurements for active energy burned were 2578 kilo calorie
 
 
-On 2022-12-13, the following health measurements were taken: 
+On 2022-12-13, the following health measurements were taken:
 On December 13, 2022, data measurements for waist circumference were 38 inch
 On December 13, 2022, data measurements for blood glucose were 4 mole unit
 On December 13, 2022, data measurements for basal energy burned were 1213 kilo calorie
@@ -3380,7 +3380,7 @@ On December 13, 2022, data measurements for walking double support percentage we
 On December 13, 2022, data measurements for sleep duration were 6 hour
 
 
-On 2022-12-14, the following health measurements were taken: 
+On 2022-12-14, the following health measurements were taken:
 On December 14, 2022, data measurements for headphone audio exposure were 83 decible a weighted sound pressure level
 On December 14, 2022, data measurements for blood glucose were 7 mole unit
 On December 14, 2022, data measurements for body fat percentage were 0.15 percent
@@ -3399,7 +3399,7 @@ On December 14, 2022, data measurements for lean body mass were 0.7 gram
 On December 14, 2022, data measurements for step count were 5642 count
 
 
-On 2022-12-15, the following health measurements were taken: 
+On 2022-12-15, the following health measurements were taken:
 On December 15, 2022, data measurements for active energy burned were 2686 kilo calorie
 On December 15, 2022, data measurements for waist circumference were 28 inch
 On December 15, 2022, data measurements for sleep duration were 9 hour
@@ -3418,7 +3418,7 @@ On December 15, 2022, data measurements for walking double support percentage we
 On December 15, 2022, data measurements for body mass were 58122 gram
 
 
-On 2022-12-16, the following health measurements were taken: 
+On 2022-12-16, the following health measurements were taken:
 On December 16, 2022, data measurements for active energy burned were 1892 kilo calorie
 On December 16, 2022, data measurements for walking double support percentage were 0.2 percent
 On December 16, 2022, data measurements for body fat percentage were 0.15 percent
@@ -3437,7 +3437,7 @@ On December 16, 2022, data measurements for heart rate were 80 counts per minute
 On December 16, 2022, data measurements for body mass index were 28.5 count
 
 
-On 2022-12-17, the following health measurements were taken: 
+On 2022-12-17, the following health measurements were taken:
 On December 17, 2022, data measurements for distance walking running were 7 count
 On December 17, 2022, data measurements for waist circumference were 31 inch
 On December 17, 2022, data measurements for height were 67 inch
@@ -3456,7 +3456,7 @@ On December 17, 2022, data measurements for basal energy burned were 1485 kilo c
 On December 17, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-12-18, the following health measurements were taken: 
+On 2022-12-18, the following health measurements were taken:
 On December 18, 2022, data measurements for flights climbed were 24 count
 On December 18, 2022, data measurements for step count were 4771 count
 On December 18, 2022, data measurements for distance walking running were 5 count
@@ -3475,7 +3475,7 @@ On December 18, 2022, data measurements for sleep duration were 7 hour
 On December 18, 2022, data measurements for headphone audio exposure were 61 decible a weighted sound pressure level
 
 
-On 2022-12-19, the following health measurements were taken: 
+On 2022-12-19, the following health measurements were taken:
 On December 19, 2022, data measurements for waist circumference were 34 inch
 On December 19, 2022, data measurements for basal energy burned were 1796 kilo calorie
 On December 19, 2022, data measurements for lean body mass were 1.7 gram
@@ -3494,7 +3494,7 @@ On December 19, 2022, data measurements for walking double support percentage we
 On December 19, 2022, data measurements for body mass index were 19.5 count
 
 
-On 2022-12-20, the following health measurements were taken: 
+On 2022-12-20, the following health measurements were taken:
 On December 20, 2022, data measurements for active energy burned were 1709 kilo calorie
 On December 20, 2022, data measurements for waist circumference were 39 inch
 On December 20, 2022, data measurements for lean body mass were 0.7 gram
@@ -3513,7 +3513,7 @@ On December 20, 2022, data measurements for walking double support percentage we
 On December 20, 2022, data measurements for heart rate were 96 counts per minute
 
 
-On 2022-12-21, the following health measurements were taken: 
+On 2022-12-21, the following health measurements were taken:
 On December 21, 2022, data measurements for body fat percentage were 0.15 percent
 On December 21, 2022, data measurements for walking double support percentage were 0.2 percent
 On December 21, 2022, data measurements for waist circumference were 40 inch
@@ -3532,7 +3532,7 @@ On December 21, 2022, data measurements for height were 63 inch
 On December 21, 2022, data measurements for heart rate were 65 counts per minute
 
 
-On 2022-12-22, the following health measurements were taken: 
+On 2022-12-22, the following health measurements were taken:
 On December 22, 2022, data measurements for walking double support percentage were 0.2 percent
 On December 22, 2022, data measurements for sleep duration were 8 hour
 On December 22, 2022, data measurements for flights climbed were 16 count
@@ -3551,7 +3551,7 @@ On December 22, 2022, data measurements for waist circumference were 36 inch
 On December 22, 2022, data measurements for height were 60 inch
 
 
-On 2022-12-23, the following health measurements were taken: 
+On 2022-12-23, the following health measurements were taken:
 On December 23, 2022, data measurements for body mass index were 26.5 count
 On December 23, 2022, data measurements for walking double support percentage were 0.2 percent
 On December 23, 2022, data measurements for basal energy burned were 1213 kilo calorie
@@ -3570,7 +3570,7 @@ On December 23, 2022, data measurements for flights climbed were 30 count
 On December 23, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-12-24, the following health measurements were taken: 
+On 2022-12-24, the following health measurements were taken:
 On December 24, 2022, data measurements for waist circumference were 34 inch
 On December 24, 2022, data measurements for body fat percentage were 0.15 percent
 On December 24, 2022, data measurements for walking double support percentage were 0.2 percent
@@ -3589,7 +3589,7 @@ On December 24, 2022, data measurements for blood glucose were 5 mole unit
 On December 24, 2022, data measurements for body mass were 64249 gram
 
 
-On 2022-12-25, the following health measurements were taken: 
+On 2022-12-25, the following health measurements were taken:
 On December 25, 2022, data measurements for basal energy burned were 1796 kilo calorie
 On December 25, 2022, data measurements for active energy burned were 1698 kilo calorie
 On December 25, 2022, data measurements for waist circumference were 33 inch
@@ -3608,7 +3608,7 @@ On December 25, 2022, data measurements for lean body mass were 1.7 gram
 On December 25, 2022, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2022-12-26, the following health measurements were taken: 
+On 2022-12-26, the following health measurements were taken:
 On December 26, 2022, data measurements for walking double support percentage were 0.2 percent
 On December 26, 2022, data measurements for distance walking running were 5 count
 On December 26, 2022, data measurements for waist circumference were 38 inch
@@ -3627,7 +3627,7 @@ On December 26, 2022, data measurements for basal energy burned were 1513 kilo c
 On December 26, 2022, data measurements for body fat percentage were 0.15 percent
 
 
-On 2022-12-27, the following health measurements were taken: 
+On 2022-12-27, the following health measurements were taken:
 On December 27, 2022, data measurements for walking double support percentage were 0.2 percent
 On December 27, 2022, data measurements for height were 62 inch
 On December 27, 2022, data measurements for lean body mass were 0.7 gram
@@ -3646,7 +3646,7 @@ On December 27, 2022, data measurements for active energy burned were 1700 kilo 
 On December 27, 2022, data measurements for headphone audio exposure were 63 decible a weighted sound pressure level
 
 
-On 2022-12-28, the following health measurements were taken: 
+On 2022-12-28, the following health measurements were taken:
 On December 28, 2022, data measurements for lean body mass were 0.7 gram
 On December 28, 2022, data measurements for body mass were 80106 gram
 On December 28, 2022, data measurements for basal energy burned were 1448 kilo calorie
@@ -3665,7 +3665,7 @@ On December 28, 2022, data measurements for distance walking running were 2 coun
 On December 28, 2022, data measurements for flights climbed were 27 count
 
 
-On 2022-12-29, the following health measurements were taken: 
+On 2022-12-29, the following health measurements were taken:
 On December 29, 2022, data measurements for heart rate were 62 counts per minute
 On December 29, 2022, data measurements for step count were 8889 count
 On December 29, 2022, data measurements for height were 69 inch
@@ -3684,7 +3684,7 @@ On December 29, 2022, data measurements for headphone audio exposure were 69 dec
 On December 29, 2022, data measurements for lean body mass were 0.7 gram
 
 
-On 2022-12-30, the following health measurements were taken: 
+On 2022-12-30, the following health measurements were taken:
 On December 30, 2022, data measurements for step count were 14516 count
 On December 30, 2022, data measurements for body fat percentage were 0.15 percent
 On December 30, 2022, data measurements for distance walking running were 4 count
@@ -3703,7 +3703,7 @@ On December 30, 2022, data measurements for waist circumference were 36 inch
 On December 30, 2022, data measurements for basal energy burned were 1633 kilo calorie
 
 
-On 2022-12-31, the following health measurements were taken: 
+On 2022-12-31, the following health measurements were taken:
 On December 31, 2022, data measurements for walking double support percentage were 1.2 percent
 On December 31, 2022, data measurements for active energy burned were 2625 kilo calorie
 On December 31, 2022, data measurements for flights climbed were 24 count
@@ -3722,7 +3722,7 @@ On December 31, 2022, data measurements for heart rate were 70 counts per minute
 On December 31, 2022, data measurements for waist circumference were 26 inch
 
 
-On 2023-01-01, the following health measurements were taken: 
+On 2023-01-01, the following health measurements were taken:
 On January 01, 2023, data measurements for body mass index were 21.5 count
 On January 01, 2023, data measurements for flights climbed were 18 count
 On January 01, 2023, data measurements for sleep duration were 9 hour
@@ -3741,7 +3741,7 @@ On January 01, 2023, data measurements for active energy burned were 1830 kilo c
 On January 01, 2023, data measurements for height were 70 inch
 
 
-On 2023-01-02, the following health measurements were taken: 
+On 2023-01-02, the following health measurements were taken:
 On January 02, 2023, data measurements for step count were 10274 count
 On January 02, 2023, data measurements for waist circumference were 36 inch
 On January 02, 2023, data measurements for sleep duration were 6 hour
@@ -3760,7 +3760,7 @@ On January 02, 2023, data measurements for heart rate were 68 counts per minute
 On January 02, 2023, data measurements for body mass index were 29.5 count
 
 
-On 2023-01-03, the following health measurements were taken: 
+On 2023-01-03, the following health measurements were taken:
 On January 03, 2023, data measurements for waist circumference were 36 inch
 On January 03, 2023, data measurements for lean body mass were 0.7 gram
 On January 03, 2023, data measurements for body fat percentage were 0.15 percent
@@ -3779,7 +3779,7 @@ On January 03, 2023, data measurements for flights climbed were 16 count
 On January 03, 2023, data measurements for distance walking running were 4 count
 
 
-On 2023-01-04, the following health measurements were taken: 
+On 2023-01-04, the following health measurements were taken:
 On January 04, 2023, data measurements for walking double support percentage were 0.2 percent
 On January 04, 2023, data measurements for heart rate were 71 counts per minute
 On January 04, 2023, data measurements for distance walking running were 3 count
@@ -3798,7 +3798,7 @@ On January 04, 2023, data measurements for body mass were 90678 gram
 On January 04, 2023, data measurements for basal energy burned were 1318 kilo calorie
 
 
-On 2023-01-05, the following health measurements were taken: 
+On 2023-01-05, the following health measurements were taken:
 On January 05, 2023, data measurements for body mass were 58437 gram
 On January 05, 2023, data measurements for active energy burned were 2164 kilo calorie
 On January 05, 2023, data measurements for walking double support percentage were 0.2 percent
@@ -3817,7 +3817,7 @@ On January 05, 2023, data measurements for body fat percentage were 0.15 percent
 On January 05, 2023, data measurements for headphone audio exposure were 69 decible a weighted sound pressure level
 
 
-On 2023-01-06, the following health measurements were taken: 
+On 2023-01-06, the following health measurements were taken:
 On January 06, 2023, data measurements for flights climbed were 30 count
 On January 06, 2023, data measurements for active energy burned were 1645 kilo calorie
 On January 06, 2023, data measurements for body mass index were 25.5 count
@@ -3836,7 +3836,7 @@ On January 06, 2023, data measurements for distance walking running were 10 coun
 On January 06, 2023, data measurements for blood glucose were 4 mole unit
 
 
-On 2023-01-07, the following health measurements were taken: 
+On 2023-01-07, the following health measurements were taken:
 On January 07, 2023, data measurements for flights climbed were 2 count
 On January 07, 2023, data measurements for basal energy burned were 1687 kilo calorie
 On January 07, 2023, data measurements for sleep duration were 9 hour
@@ -3855,7 +3855,7 @@ On January 07, 2023, data measurements for blood glucose were 5 mole unit
 On January 07, 2023, data measurements for heart rate were 79 counts per minute
 
 
-On 2023-01-08, the following health measurements were taken: 
+On 2023-01-08, the following health measurements were taken:
 On January 08, 2023, data measurements for distance walking running were 8 count
 On January 08, 2023, data measurements for body fat percentage were 0.15 percent
 On January 08, 2023, data measurements for height were 68 inch
@@ -3874,7 +3874,7 @@ On January 08, 2023, data measurements for heart rate were 74 counts per minute
 On January 08, 2023, data measurements for headphone audio exposure were 81 decible a weighted sound pressure level
 
 
-On 2023-01-09, the following health measurements were taken: 
+On 2023-01-09, the following health measurements were taken:
 On January 09, 2023, data measurements for sleep duration were 8 hour
 On January 09, 2023, data measurements for distance walking running were 6 count
 On January 09, 2023, data measurements for lean body mass were 0.7 gram
@@ -3893,7 +3893,7 @@ On January 09, 2023, data measurements for body mass index were 18.5 count
 On January 09, 2023, data measurements for heart rate were 69 counts per minute
 
 
-On 2023-01-10, the following health measurements were taken: 
+On 2023-01-10, the following health measurements were taken:
 On January 10, 2023, data measurements for walking double support percentage were 1.2 percent
 On January 10, 2023, data measurements for blood glucose were 8 mole unit
 On January 10, 2023, data measurements for distance walking running were 6 count
@@ -3912,7 +3912,7 @@ On January 10, 2023, data measurements for height were 63 inch
 On January 10, 2023, data measurements for body fat percentage were 0.15 percent
 
 
-On 2023-01-11, the following health measurements were taken: 
+On 2023-01-11, the following health measurements were taken:
 On January 11, 2023, data measurements for headphone audio exposure were 66 decible a weighted sound pressure level
 On January 11, 2023, data measurements for walking double support percentage were 0.2 percent
 On January 11, 2023, data measurements for step count were 9606 count
@@ -3931,7 +3931,7 @@ On January 11, 2023, data measurements for basal energy burned were 1277 kilo ca
 On January 11, 2023, data measurements for distance walking running were 4 count
 
 
-On 2023-01-12, the following health measurements were taken: 
+On 2023-01-12, the following health measurements were taken:
 On January 12, 2023, data measurements for heart rate were 60 counts per minute
 On January 12, 2023, data measurements for distance walking running were 10 count
 On January 12, 2023, data measurements for headphone audio exposure were 80 decible a weighted sound pressure level
@@ -3950,7 +3950,7 @@ On January 12, 2023, data measurements for waist circumference were 31 inch
 On January 12, 2023, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2023-01-13, the following health measurements were taken: 
+On 2023-01-13, the following health measurements were taken:
 On January 13, 2023, data measurements for basal energy burned were 1392 kilo calorie
 On January 13, 2023, data measurements for walking double support percentage were 1.2 percent
 On January 13, 2023, data measurements for heart rate were 68 counts per minute
@@ -3969,7 +3969,7 @@ On January 13, 2023, data measurements for sleep duration were 7 hour
 On January 13, 2023, data measurements for waist circumference were 35 inch
 
 
-On 2023-01-14, the following health measurements were taken: 
+On 2023-01-14, the following health measurements were taken:
 On January 14, 2023, data measurements for active energy burned were 1715 kilo calorie
 On January 14, 2023, data measurements for height were 64 inch
 On January 14, 2023, data measurements for heart rate were 80 counts per minute
@@ -3988,7 +3988,7 @@ On January 14, 2023, data measurements for distance walking running were 4 count
 On January 14, 2023, data measurements for flights climbed were 25 count
 
 
-On 2023-01-15, the following health measurements were taken: 
+On 2023-01-15, the following health measurements were taken:
 On January 15, 2023, data measurements for step count were 9566 count
 On January 15, 2023, data measurements for body fat percentage were 0.15 percent
 On January 15, 2023, data measurements for heart rate were 100 counts per minute
@@ -4007,7 +4007,7 @@ On January 15, 2023, data measurements for walking double support percentage wer
 On January 15, 2023, data measurements for body mass were 61243 gram
 
 
-On 2023-01-16, the following health measurements were taken: 
+On 2023-01-16, the following health measurements were taken:
 On January 16, 2023, data measurements for body mass index were 24.5 count
 On January 16, 2023, data measurements for waist circumference were 34 inch
 On January 16, 2023, data measurements for blood glucose were 8 mole unit
@@ -4026,7 +4026,7 @@ On January 16, 2023, data measurements for walking double support percentage wer
 On January 16, 2023, data measurements for body mass were 53139 gram
 
 
-On 2023-01-17, the following health measurements were taken: 
+On 2023-01-17, the following health measurements were taken:
 On January 17, 2023, data measurements for blood glucose were 8 mole unit
 On January 17, 2023, data measurements for step count were 13834 count
 On January 17, 2023, data measurements for flights climbed were 4 count
@@ -4045,7 +4045,7 @@ On January 17, 2023, data measurements for height were 65 inch
 On January 17, 2023, data measurements for body mass were 78945 gram
 
 
-On 2023-01-18, the following health measurements were taken: 
+On 2023-01-18, the following health measurements were taken:
 On January 18, 2023, data measurements for distance walking running were 5 count
 On January 18, 2023, data measurements for height were 68 inch
 On January 18, 2023, data measurements for lean body mass were 0.7 gram
@@ -4064,7 +4064,7 @@ On January 18, 2023, data measurements for basal energy burned were 1535 kilo ca
 On January 18, 2023, data measurements for sleep duration were 7 hour
 
 
-On 2023-01-19, the following health measurements were taken: 
+On 2023-01-19, the following health measurements were taken:
 On January 19, 2023, data measurements for distance walking running were 4 count
 On January 19, 2023, data measurements for basal energy burned were 1360 kilo calorie
 On January 19, 2023, data measurements for heart rate were 69 counts per minute
@@ -4083,7 +4083,7 @@ On January 19, 2023, data measurements for blood glucose were 6 mole unit
 On January 19, 2023, data measurements for sleep duration were 8 hour
 
 
-On 2023-01-20, the following health measurements were taken: 
+On 2023-01-20, the following health measurements were taken:
 On January 20, 2023, data measurements for walking double support percentage were 1.2 percent
 On January 20, 2023, data measurements for body mass were 86632 gram
 On January 20, 2023, data measurements for headphone audio exposure were 75 decible a weighted sound pressure level
@@ -4102,7 +4102,7 @@ On January 20, 2023, data measurements for flights climbed were 20 count
 On January 20, 2023, data measurements for body mass index were 20.5 count
 
 
-On 2023-01-21, the following health measurements were taken: 
+On 2023-01-21, the following health measurements were taken:
 On January 21, 2023, data measurements for active energy burned were 1512 kilo calorie
 On January 21, 2023, data measurements for body fat percentage were 0.15 percent
 On January 21, 2023, data measurements for headphone audio exposure were 63 decible a weighted sound pressure level
@@ -4121,7 +4121,7 @@ On January 21, 2023, data measurements for sleep duration were 6 hour
 On January 21, 2023, data measurements for distance walking running were 2 count
 
 
-On 2023-01-22, the following health measurements were taken: 
+On 2023-01-22, the following health measurements were taken:
 On January 22, 2023, data measurements for height were 63 inch
 On January 22, 2023, data measurements for blood glucose were 7 mole unit
 On January 22, 2023, data measurements for body mass index were 18.5 count
@@ -4140,7 +4140,7 @@ On January 22, 2023, data measurements for sleep duration were 9 hour
 On January 22, 2023, data measurements for flights climbed were 29 count
 
 
-On 2023-01-23, the following health measurements were taken: 
+On 2023-01-23, the following health measurements were taken:
 On January 23, 2023, data measurements for height were 63 inch
 On January 23, 2023, data measurements for headphone audio exposure were 83 decible a weighted sound pressure level
 On January 23, 2023, data measurements for sleep duration were 9 hour
@@ -4159,7 +4159,7 @@ On January 23, 2023, data measurements for heart rate were 88 counts per minute
 On January 23, 2023, data measurements for body fat percentage were 0.15 percent
 
 
-On 2023-01-24, the following health measurements were taken: 
+On 2023-01-24, the following health measurements were taken:
 On January 24, 2023, data measurements for walking double support percentage were 0.2 percent
 On January 24, 2023, data measurements for body fat percentage were 0.15 percent
 On January 24, 2023, data measurements for distance walking running were 6 count
@@ -4178,7 +4178,7 @@ On January 24, 2023, data measurements for blood glucose were 7 mole unit
 On January 24, 2023, data measurements for body mass were 81705 gram
 
 
-On 2023-01-25, the following health measurements were taken: 
+On 2023-01-25, the following health measurements were taken:
 On January 25, 2023, data measurements for flights climbed were 24 count
 On January 25, 2023, data measurements for basal energy burned were 1774 kilo calorie
 On January 25, 2023, data measurements for height were 66 inch
@@ -4197,7 +4197,7 @@ On January 25, 2023, data measurements for heart rate were 94 counts per minute
 On January 25, 2023, data measurements for blood glucose were 7 mole unit
 
 
-On 2023-01-26, the following health measurements were taken: 
+On 2023-01-26, the following health measurements were taken:
 On January 26, 2023, data measurements for distance walking running were 3 count
 On January 26, 2023, data measurements for body fat percentage were 1.15 percent
 On January 26, 2023, data measurements for walking double support percentage were 0.2 percent
@@ -4216,7 +4216,7 @@ On January 26, 2023, data measurements for body mass index were 22.5 count
 On January 26, 2023, data measurements for step count were 3217 count
 
 
-On 2023-01-27, the following health measurements were taken: 
+On 2023-01-27, the following health measurements were taken:
 On January 27, 2023, data measurements for body fat percentage were 0.15 percent
 On January 27, 2023, data measurements for distance walking running were 5 count
 On January 27, 2023, data measurements for heart rate were 96 counts per minute
@@ -4235,7 +4235,7 @@ On January 27, 2023, data measurements for height were 70 inch
 On January 27, 2023, data measurements for active energy burned were 2408 kilo calorie
 
 
-On 2023-01-28, the following health measurements were taken: 
+On 2023-01-28, the following health measurements were taken:
 On January 28, 2023, data measurements for active energy burned were 1691 kilo calorie
 On January 28, 2023, data measurements for walking double support percentage were 1.2 percent
 On January 28, 2023, data measurements for sleep duration were 6 hour
@@ -4254,7 +4254,7 @@ On January 28, 2023, data measurements for heart rate were 94 counts per minute
 On January 28, 2023, data measurements for blood glucose were 7 mole unit
 
 
-On 2023-01-29, the following health measurements were taken: 
+On 2023-01-29, the following health measurements were taken:
 On January 29, 2023, data measurements for body mass index were 29.5 count
 On January 29, 2023, data measurements for body mass were 74699 gram
 On January 29, 2023, data measurements for waist circumference were 27 inch
@@ -4273,7 +4273,7 @@ On January 29, 2023, data measurements for height were 60 inch
 On January 29, 2023, data measurements for sleep duration were 6 hour
 
 
-On 2023-01-30, the following health measurements were taken: 
+On 2023-01-30, the following health measurements were taken:
 On January 30, 2023, data measurements for body mass index were 25.5 count
 On January 30, 2023, data measurements for sleep duration were 8 hour
 On January 30, 2023, data measurements for lean body mass were 0.7 gram
@@ -4292,7 +4292,7 @@ On January 30, 2023, data measurements for blood glucose were 8 mole unit
 On January 30, 2023, data measurements for flights climbed were 2 count
 
 
-On 2023-01-31, the following health measurements were taken: 
+On 2023-01-31, the following health measurements were taken:
 On January 31, 2023, data measurements for walking double support percentage were 0.2 percent
 On January 31, 2023, data measurements for step count were 14885 count
 On January 31, 2023, data measurements for heart rate were 81 counts per minute
@@ -4311,7 +4311,7 @@ On January 31, 2023, data measurements for basal energy burned were 1433 kilo ca
 On January 31, 2023, data measurements for body fat percentage were 0.15 percent
 
 
-On 2023-02-01, the following health measurements were taken: 
+On 2023-02-01, the following health measurements were taken:
 On February 01, 2023, data measurements for waist circumference were 27 inch
 On February 01, 2023, data measurements for height were 75 inch
 On February 01, 2023, data measurements for walking double support percentage were 0.2 percent
@@ -4330,7 +4330,7 @@ On February 01, 2023, data measurements for body mass were 61231 gram
 On February 01, 2023, data measurements for step count were 4010 count
 
 
-On 2023-02-02, the following health measurements were taken: 
+On 2023-02-02, the following health measurements were taken:
 On February 02, 2023, data measurements for lean body mass were 0.7 gram
 On February 02, 2023, data measurements for active energy burned were 2954 kilo calorie
 On February 02, 2023, data measurements for distance walking running were 3 count
@@ -4349,7 +4349,7 @@ On February 02, 2023, data measurements for basal energy burned were 1659 kilo c
 On February 02, 2023, data measurements for blood glucose were 6 mole unit
 
 
-On 2023-02-03, the following health measurements were taken: 
+On 2023-02-03, the following health measurements were taken:
 On February 03, 2023, data measurements for basal energy burned were 1241 kilo calorie
 On February 03, 2023, data measurements for waist circumference were 40 inch
 On February 03, 2023, data measurements for walking double support percentage were 0.2 percent
@@ -4368,7 +4368,7 @@ On February 03, 2023, data measurements for heart rate were 62 counts per minute
 On February 03, 2023, data measurements for distance walking running were 5 count
 
 
-On 2023-02-04, the following health measurements were taken: 
+On 2023-02-04, the following health measurements were taken:
 On February 04, 2023, data measurements for body fat percentage were 0.15 percent
 On February 04, 2023, data measurements for walking double support percentage were 0.2 percent
 On February 04, 2023, data measurements for active energy burned were 2714 kilo calorie
@@ -4387,7 +4387,7 @@ On February 04, 2023, data measurements for basal energy burned were 1733 kilo c
 On February 04, 2023, data measurements for body mass index were 20.5 count
 
 
-On 2023-02-05, the following health measurements were taken: 
+On 2023-02-05, the following health measurements were taken:
 On February 05, 2023, data measurements for heart rate were 97 counts per minute
 On February 05, 2023, data measurements for distance walking running were 10 count
 On February 05, 2023, data measurements for walking double support percentage were 1.2 percent
@@ -4406,7 +4406,7 @@ On February 05, 2023, data measurements for blood glucose were 5 mole unit
 On February 05, 2023, data measurements for step count were 10161 count
 
 
-On 2023-02-06, the following health measurements were taken: 
+On 2023-02-06, the following health measurements were taken:
 On February 06, 2023, data measurements for distance walking running were 5 count
 On February 06, 2023, data measurements for flights climbed were 0 count
 On February 06, 2023, data measurements for body mass were 81885 gram
@@ -4425,7 +4425,7 @@ On February 06, 2023, data measurements for blood glucose were 8 mole unit
 On February 06, 2023, data measurements for heart rate were 91 counts per minute
 
 
-On 2023-02-07, the following health measurements were taken: 
+On 2023-02-07, the following health measurements were taken:
 On February 07, 2023, data measurements for step count were 3792 count
 On February 07, 2023, data measurements for body mass index were 20.5 count
 On February 07, 2023, data measurements for walking double support percentage were 0.2 percent
@@ -4444,7 +4444,7 @@ On February 07, 2023, data measurements for basal energy burned were 1741 kilo c
 On February 07, 2023, data measurements for waist circumference were 39 inch
 
 
-On 2023-02-08, the following health measurements were taken: 
+On 2023-02-08, the following health measurements were taken:
 On February 08, 2023, data measurements for waist circumference were 30 inch
 On February 08, 2023, data measurements for headphone audio exposure were 75 decible a weighted sound pressure level
 On February 08, 2023, data measurements for body mass index were 23.5 count
@@ -4463,7 +4463,7 @@ On February 08, 2023, data measurements for heart rate were 65 counts per minute
 On February 08, 2023, data measurements for distance walking running were 3 count
 
 
-On 2023-02-09, the following health measurements were taken: 
+On 2023-02-09, the following health measurements were taken:
 On February 09, 2023, data measurements for step count were 12792 count
 On February 09, 2023, data measurements for lean body mass were 0.7 gram
 On February 09, 2023, data measurements for waist circumference were 38 inch
@@ -4482,7 +4482,7 @@ On February 09, 2023, data measurements for walking double support percentage we
 On February 09, 2023, data measurements for blood glucose were 6 mole unit
 
 
-On 2023-02-10, the following health measurements were taken: 
+On 2023-02-10, the following health measurements were taken:
 On February 10, 2023, data measurements for flights climbed were 13 count
 On February 10, 2023, data measurements for blood glucose were 5 mole unit
 On February 10, 2023, data measurements for height were 63 inch
@@ -4501,7 +4501,7 @@ On February 10, 2023, data measurements for sleep duration were 8 hour
 On February 10, 2023, data measurements for heart rate were 86 counts per minute
 
 
-On 2023-02-11, the following health measurements were taken: 
+On 2023-02-11, the following health measurements were taken:
 On February 11, 2023, data measurements for step count were 14186 count
 On February 11, 2023, data measurements for waist circumference were 26 inch
 On February 11, 2023, data measurements for walking double support percentage were 0.2 percent
@@ -4520,7 +4520,7 @@ On February 11, 2023, data measurements for lean body mass were 0.7 gram
 On February 11, 2023, data measurements for headphone audio exposure were 78 decible a weighted sound pressure level
 
 
-On 2023-02-12, the following health measurements were taken: 
+On 2023-02-12, the following health measurements were taken:
 On February 12, 2023, data measurements for height were 69 inch
 On February 12, 2023, data measurements for blood glucose were 5 mole unit
 On February 12, 2023, data measurements for basal energy burned were 1509 kilo calorie
@@ -4539,7 +4539,7 @@ On February 12, 2023, data measurements for heart rate were 72 counts per minute
 On February 12, 2023, data measurements for waist circumference were 29 inch
 
 
-On 2023-02-13, the following health measurements were taken: 
+On 2023-02-13, the following health measurements were taken:
 On February 13, 2023, data measurements for distance walking running were 5 count
 On February 13, 2023, data measurements for sleep duration were 9 hour
 On February 13, 2023, data measurements for blood glucose were 8 mole unit
@@ -4558,7 +4558,7 @@ On February 13, 2023, data measurements for body mass index were 27.5 count
 On February 13, 2023, data measurements for flights climbed were 6 count
 
 
-On 2023-02-14, the following health measurements were taken: 
+On 2023-02-14, the following health measurements were taken:
 On February 14, 2023, data measurements for waist circumference were 31 inch
 On February 14, 2023, data measurements for heart rate were 77 counts per minute
 On February 14, 2023, data measurements for sleep duration were 6 hour
@@ -4577,7 +4577,7 @@ On February 14, 2023, data measurements for walking double support percentage we
 On February 14, 2023, data measurements for flights climbed were 5 count
 
 
-On 2023-02-15, the following health measurements were taken: 
+On 2023-02-15, the following health measurements were taken:
 On February 15, 2023, data measurements for blood glucose were 5 mole unit
 On February 15, 2023, data measurements for body mass were 68504 gram
 On February 15, 2023, data measurements for active energy burned were 2614 kilo calorie
@@ -4596,7 +4596,7 @@ On February 15, 2023, data measurements for basal energy burned were 1674 kilo c
 On February 15, 2023, data measurements for step count were 12891 count
 
 
-On 2023-02-16, the following health measurements were taken: 
+On 2023-02-16, the following health measurements were taken:
 On February 16, 2023, data measurements for walking double support percentage were 0.2 percent
 On February 16, 2023, data measurements for waist circumference were 40 inch
 On February 16, 2023, data measurements for blood glucose were 4 mole unit
@@ -4615,7 +4615,7 @@ On February 16, 2023, data measurements for body mass were 55021 gram
 On February 16, 2023, data measurements for lean body mass were 0.7 gram
 
 
-On 2023-02-17, the following health measurements were taken: 
+On 2023-02-17, the following health measurements were taken:
 On February 17, 2023, data measurements for height were 62 inch
 On February 17, 2023, data measurements for distance walking running were 3 count
 On February 17, 2023, data measurements for headphone audio exposure were 79 decible a weighted sound pressure level
@@ -4634,7 +4634,7 @@ On February 17, 2023, data measurements for active energy burned were 1712 kilo 
 On February 17, 2023, data measurements for waist circumference were 27 inch
 
 
-On 2023-02-18, the following health measurements were taken: 
+On 2023-02-18, the following health measurements were taken:
 On February 18, 2023, data measurements for basal energy burned were 1462 kilo calorie
 On February 18, 2023, data measurements for sleep duration were 9 hour
 On February 18, 2023, data measurements for walking double support percentage were 0.2 percent
@@ -4653,7 +4653,7 @@ On February 18, 2023, data measurements for height were 74 inch
 On February 18, 2023, data measurements for blood glucose were 5 mole unit
 
 
-On 2023-02-19, the following health measurements were taken: 
+On 2023-02-19, the following health measurements were taken:
 On February 19, 2023, data measurements for active energy burned were 2136 kilo calorie
 On February 19, 2023, data measurements for heart rate were 80 counts per minute
 On February 19, 2023, data measurements for sleep duration were 6 hour
@@ -4672,7 +4672,7 @@ On February 19, 2023, data measurements for blood glucose were 6 mole unit
 On February 19, 2023, data measurements for walking double support percentage were 1.2 percent
 
 
-On 2023-02-20, the following health measurements were taken: 
+On 2023-02-20, the following health measurements were taken:
 On February 20, 2023, data measurements for height were 74 inch
 On February 20, 2023, data measurements for body fat percentage were 0.15 percent
 On February 20, 2023, data measurements for body mass index were 28.5 count
@@ -4691,7 +4691,7 @@ On February 20, 2023, data measurements for waist circumference were 33 inch
 On February 20, 2023, data measurements for flights climbed were 26 count
 
 
-On 2023-02-21, the following health measurements were taken: 
+On 2023-02-21, the following health measurements were taken:
 On February 21, 2023, data measurements for flights climbed were 6 count
 On February 21, 2023, data measurements for blood glucose were 5 mole unit
 On February 21, 2023, data measurements for heart rate were 66 counts per minute
@@ -4710,7 +4710,7 @@ On February 21, 2023, data measurements for height were 66 inch
 On February 21, 2023, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2023-02-22, the following health measurements were taken: 
+On 2023-02-22, the following health measurements were taken:
 On February 22, 2023, data measurements for heart rate were 60 counts per minute
 On February 22, 2023, data measurements for distance walking running were 9 count
 On February 22, 2023, data measurements for body mass index were 21.5 count
@@ -4729,7 +4729,7 @@ On February 22, 2023, data measurements for step count were 7100 count
 On February 22, 2023, data measurements for lean body mass were 0.7 gram
 
 
-On 2023-02-23, the following health measurements were taken: 
+On 2023-02-23, the following health measurements were taken:
 On February 23, 2023, data measurements for heart rate were 81 counts per minute
 On February 23, 2023, data measurements for height were 61 inch
 On February 23, 2023, data measurements for waist circumference were 39 inch
@@ -4748,7 +4748,7 @@ On February 23, 2023, data measurements for lean body mass were 0.7 gram
 On February 23, 2023, data measurements for body fat percentage were 0.15 percent
 
 
-On 2023-02-24, the following health measurements were taken: 
+On 2023-02-24, the following health measurements were taken:
 On February 24, 2023, data measurements for active energy burned were 2467 kilo calorie
 On February 24, 2023, data measurements for walking double support percentage were 0.2 percent
 On February 24, 2023, data measurements for distance walking running were 3 count
@@ -4767,7 +4767,7 @@ On February 24, 2023, data measurements for body mass index were 21.5 count
 On February 24, 2023, data measurements for body fat percentage were 0.15 percent
 
 
-On 2023-02-25, the following health measurements were taken: 
+On 2023-02-25, the following health measurements were taken:
 On February 25, 2023, data measurements for lean body mass were 0.7 gram
 On February 25, 2023, data measurements for sleep duration were 8 hour
 On February 25, 2023, data measurements for blood glucose were 8 mole unit
@@ -4786,7 +4786,7 @@ On February 25, 2023, data measurements for height were 60 inch
 On February 25, 2023, data measurements for distance walking running were 3 count
 
 
-On 2023-02-26, the following health measurements were taken: 
+On 2023-02-26, the following health measurements were taken:
 On February 26, 2023, data measurements for active energy burned were 2494 kilo calorie
 On February 26, 2023, data measurements for walking double support percentage were 0.2 percent
 On February 26, 2023, data measurements for body mass index were 19.5 count
@@ -4805,7 +4805,7 @@ On February 26, 2023, data measurements for body mass were 65222 gram
 On February 26, 2023, data measurements for waist circumference were 28 inch
 
 
-On 2023-02-27, the following health measurements were taken: 
+On 2023-02-27, the following health measurements were taken:
 On February 27, 2023, data measurements for height were 69 inch
 On February 27, 2023, data measurements for heart rate were 63 counts per minute
 On February 27, 2023, data measurements for walking double support percentage were 0.2 percent
@@ -4824,7 +4824,7 @@ On February 27, 2023, data measurements for blood glucose were 6 mole unit
 On February 27, 2023, data measurements for body mass were 94704 gram
 
 
-On 2023-02-28, the following health measurements were taken: 
+On 2023-02-28, the following health measurements were taken:
 On February 28, 2023, data measurements for height were 71 inch
 On February 28, 2023, data measurements for headphone audio exposure were 64 decible a weighted sound pressure level
 On February 28, 2023, data measurements for step count were 10581 count
@@ -4843,7 +4843,7 @@ On February 28, 2023, data measurements for flights climbed were 17 count
 On February 28, 2023, data measurements for body fat percentage were 0.15 percent
 
 
-On 2023-03-01, the following health measurements were taken: 
+On 2023-03-01, the following health measurements were taken:
 On March 01, 2023, data measurements for walking double support percentage were 0.2 percent
 On March 01, 2023, data measurements for blood glucose were 5 mole unit
 On March 01, 2023, data measurements for sleep duration were 8 hour
@@ -4862,7 +4862,7 @@ On March 01, 2023, data measurements for active energy burned were 2831 kilo cal
 On March 01, 2023, data measurements for body mass index were 29.5 count
 
 
-On 2023-03-02, the following health measurements were taken: 
+On 2023-03-02, the following health measurements were taken:
 On March 02, 2023, data measurements for body mass index were 23.5 count
 On March 02, 2023, data measurements for active energy burned were 1967 kilo calorie
 On March 02, 2023, data measurements for body mass were 58877 gram
@@ -4881,7 +4881,7 @@ On March 02, 2023, data measurements for headphone audio exposure were 60 decibl
 On March 02, 2023, data measurements for blood glucose were 5 mole unit
 
 
-On 2023-03-03, the following health measurements were taken: 
+On 2023-03-03, the following health measurements were taken:
 On March 03, 2023, data measurements for basal energy burned were 1597 kilo calorie
 On March 03, 2023, data measurements for distance walking running were 3 count
 On March 03, 2023, data measurements for step count were 8162 count
@@ -4900,7 +4900,7 @@ On March 03, 2023, data measurements for body mass were 78210 gram
 On March 03, 2023, data measurements for headphone audio exposure were 83 decible a weighted sound pressure level
 
 
-On 2023-03-04, the following health measurements were taken: 
+On 2023-03-04, the following health measurements were taken:
 On March 04, 2023, data measurements for body mass were 70724 gram
 On March 04, 2023, data measurements for body fat percentage were 0.15 percent
 On March 04, 2023, data measurements for waist circumference were 32 inch
@@ -4919,7 +4919,7 @@ On March 04, 2023, data measurements for distance walking running were 10 count
 On March 04, 2023, data measurements for basal energy burned were 1661 kilo calorie
 
 
-On 2023-03-05, the following health measurements were taken: 
+On 2023-03-05, the following health measurements were taken:
 On March 05, 2023, data measurements for waist circumference were 32 inch
 On March 05, 2023, data measurements for walking double support percentage were 1.2 percent
 On March 05, 2023, data measurements for body mass were 56844 gram
@@ -4938,7 +4938,7 @@ On March 05, 2023, data measurements for flights climbed were 7 count
 On March 05, 2023, data measurements for body mass index were 19.5 count
 
 
-On 2023-03-06, the following health measurements were taken: 
+On 2023-03-06, the following health measurements were taken:
 On March 06, 2023, data measurements for walking double support percentage were 0.2 percent
 On March 06, 2023, data measurements for height were 72 inch
 On March 06, 2023, data measurements for blood glucose were 8 mole unit
@@ -4957,7 +4957,7 @@ On March 06, 2023, data measurements for lean body mass were 0.7 gram
 On March 06, 2023, data measurements for flights climbed were 9 count
 
 
-On 2023-03-07, the following health measurements were taken: 
+On 2023-03-07, the following health measurements were taken:
 On March 07, 2023, data measurements for waist circumference were 37 inch
 On March 07, 2023, data measurements for height were 64 inch
 On March 07, 2023, data measurements for walking double support percentage were 0.2 percent
@@ -4976,7 +4976,7 @@ On March 07, 2023, data measurements for body mass index were 18.5 count
 On March 07, 2023, data measurements for sleep duration were 9 hour
 
 
-On 2023-03-08, the following health measurements were taken: 
+On 2023-03-08, the following health measurements were taken:
 On March 08, 2023, data measurements for headphone audio exposure were 77 decible a weighted sound pressure level
 On March 08, 2023, data measurements for body mass index were 23.5 count
 On March 08, 2023, data measurements for lean body mass were 1.7 gram
@@ -4995,7 +4995,7 @@ On March 08, 2023, data measurements for active energy burned were 1503 kilo cal
 On March 08, 2023, data measurements for step count were 4200 count
 
 
-On 2023-03-09, the following health measurements were taken: 
+On 2023-03-09, the following health measurements were taken:
 On March 09, 2023, data measurements for blood glucose were 7 mole unit
 On March 09, 2023, data measurements for distance walking running were 5 count
 On March 09, 2023, data measurements for body fat percentage were 0.15 percent
@@ -5014,7 +5014,7 @@ On March 09, 2023, data measurements for step count were 11710 count
 On March 09, 2023, data measurements for heart rate were 65 counts per minute
 
 
-On 2023-03-10, the following health measurements were taken: 
+On 2023-03-10, the following health measurements were taken:
 On March 10, 2023, data measurements for basal energy burned were 1473 kilo calorie
 On March 10, 2023, data measurements for height were 76 inch
 On March 10, 2023, data measurements for waist circumference were 36 inch
@@ -5033,7 +5033,7 @@ On March 10, 2023, data measurements for body fat percentage were 0.15 percent
 On March 10, 2023, data measurements for flights climbed were 11 count
 
 
-On 2023-03-11, the following health measurements were taken: 
+On 2023-03-11, the following health measurements were taken:
 On March 11, 2023, data measurements for body mass index were 20.5 count
 On March 11, 2023, data measurements for waist circumference were 40 inch
 On March 11, 2023, data measurements for headphone audio exposure were 60 decible a weighted sound pressure level
@@ -5052,7 +5052,7 @@ On March 11, 2023, data measurements for distance walking running were 6 count
 On March 11, 2023, data measurements for body mass were 68193 gram
 
 
-On 2023-03-12, the following health measurements were taken: 
+On 2023-03-12, the following health measurements were taken:
 On March 12, 2023, data measurements for walking double support percentage were 1.2 percent
 On March 12, 2023, data measurements for distance walking running were 4 count
 On March 12, 2023, data measurements for body fat percentage were 0.15 percent
@@ -5071,7 +5071,7 @@ On March 12, 2023, data measurements for flights climbed were 3 count
 On March 12, 2023, data measurements for lean body mass were 0.7 gram
 
 
-On 2023-03-13, the following health measurements were taken: 
+On 2023-03-13, the following health measurements were taken:
 On March 13, 2023, data measurements for sleep duration were 7 hour
 On March 13, 2023, data measurements for body mass were 72722 gram
 On March 13, 2023, data measurements for blood glucose were 5 mole unit
@@ -5090,7 +5090,7 @@ On March 13, 2023, data measurements for lean body mass were 1.7 gram
 On March 13, 2023, data measurements for height were 74 inch
 
 
-On 2023-03-14, the following health measurements were taken: 
+On 2023-03-14, the following health measurements were taken:
 On March 14, 2023, data measurements for body mass were 50091 gram
 On March 14, 2023, data measurements for distance walking running were 8 count
 On March 14, 2023, data measurements for waist circumference were 36 inch
@@ -5109,7 +5109,7 @@ On March 14, 2023, data measurements for walking double support percentage were 
 On March 14, 2023, data measurements for body fat percentage were 0.15 percent
 
 
-On 2023-03-15, the following health measurements were taken: 
+On 2023-03-15, the following health measurements were taken:
 On March 15, 2023, data measurements for blood glucose were 8 mole unit
 On March 15, 2023, data measurements for step count were 6365 count
 On March 15, 2023, data measurements for flights climbed were 29 count
@@ -5128,7 +5128,7 @@ On March 15, 2023, data measurements for waist circumference were 33 inch
 On March 15, 2023, data measurements for body mass index were 19.5 count
 
 
-On 2023-03-16, the following health measurements were taken: 
+On 2023-03-16, the following health measurements were taken:
 On March 16, 2023, data measurements for heart rate were 73 counts per minute
 On March 16, 2023, data measurements for blood glucose were 4 mole unit
 On March 16, 2023, data measurements for lean body mass were 0.7 gram
@@ -5147,7 +5147,7 @@ On March 16, 2023, data measurements for headphone audio exposure were 69 decibl
 On March 16, 2023, data measurements for step count were 10228 count
 
 
-On 2023-03-17, the following health measurements were taken: 
+On 2023-03-17, the following health measurements were taken:
 On March 17, 2023, data measurements for body fat percentage were 0.15 percent
 On March 17, 2023, data measurements for sleep duration were 7 hour
 On March 17, 2023, data measurements for basal energy burned were 1747 kilo calorie
@@ -5166,7 +5166,7 @@ On March 17, 2023, data measurements for step count were 9608 count
 On March 17, 2023, data measurements for distance walking running were 10 count
 
 
-On 2023-03-18, the following health measurements were taken: 
+On 2023-03-18, the following health measurements were taken:
 On March 18, 2023, data measurements for walking double support percentage were 0.2 percent
 On March 18, 2023, data measurements for basal energy burned were 1325 kilo calorie
 On March 18, 2023, data measurements for flights climbed were 25 count
@@ -5185,7 +5185,7 @@ On March 18, 2023, data measurements for body fat percentage were 0.15 percent
 On March 18, 2023, data measurements for step count were 11761 count
 
 
-On 2023-03-19, the following health measurements were taken: 
+On 2023-03-19, the following health measurements were taken:
 On March 19, 2023, data measurements for blood glucose were 6 mole unit
 On March 19, 2023, data measurements for walking double support percentage were 0.2 percent
 On March 19, 2023, data measurements for headphone audio exposure were 64 decible a weighted sound pressure level
@@ -5204,7 +5204,7 @@ On March 19, 2023, data measurements for active energy burned were 2984 kilo cal
 On March 19, 2023, data measurements for step count were 5618 count
 
 
-On 2023-03-20, the following health measurements were taken: 
+On 2023-03-20, the following health measurements were taken:
 On March 20, 2023, data measurements for blood glucose were 6 mole unit
 On March 20, 2023, data measurements for waist circumference were 39 inch
 On March 20, 2023, data measurements for heart rate were 90 counts per minute
@@ -5223,7 +5223,7 @@ On March 20, 2023, data measurements for headphone audio exposure were 60 decibl
 On March 20, 2023, data measurements for body mass were 73665 gram
 
 
-On 2023-03-21, the following health measurements were taken: 
+On 2023-03-21, the following health measurements were taken:
 On March 21, 2023, data measurements for flights climbed were 10 count
 On March 21, 2023, data measurements for heart rate were 78 counts per minute
 On March 21, 2023, data measurements for step count were 12604 count
@@ -5242,7 +5242,7 @@ On March 21, 2023, data measurements for body fat percentage were 0.15 percent
 On March 21, 2023, data measurements for basal energy burned were 1725 kilo calorie
 
 
-On 2023-03-22, the following health measurements were taken: 
+On 2023-03-22, the following health measurements were taken:
 On March 22, 2023, data measurements for sleep duration were 6 hour
 On March 22, 2023, data measurements for waist circumference were 31 inch
 On March 22, 2023, data measurements for height were 73 inch
@@ -5261,7 +5261,7 @@ On March 22, 2023, data measurements for flights climbed were 9 count
 On March 22, 2023, data measurements for lean body mass were 0.7 gram
 
 
-On 2023-03-23, the following health measurements were taken: 
+On 2023-03-23, the following health measurements were taken:
 On March 23, 2023, data measurements for sleep duration were 9 hour
 On March 23, 2023, data measurements for blood glucose were 4 mole unit
 On March 23, 2023, data measurements for body fat percentage were 1.15 percent
@@ -5280,7 +5280,7 @@ On March 23, 2023, data measurements for height were 75 inch
 On March 23, 2023, data measurements for basal energy burned were 1219 kilo calorie
 
 
-On 2023-03-24, the following health measurements were taken: 
+On 2023-03-24, the following health measurements were taken:
 On March 24, 2023, data measurements for body mass index were 24.5 count
 On March 24, 2023, data measurements for headphone audio exposure were 74 decible a weighted sound pressure level
 On March 24, 2023, data measurements for body mass were 66489 gram
@@ -5299,7 +5299,7 @@ On March 24, 2023, data measurements for sleep duration were 8 hour
 On March 24, 2023, data measurements for flights climbed were 24 count
 
 
-On 2023-03-25, the following health measurements were taken: 
+On 2023-03-25, the following health measurements were taken:
 On March 25, 2023, data measurements for flights climbed were 10 count
 On March 25, 2023, data measurements for headphone audio exposure were 62 decible a weighted sound pressure level
 On March 25, 2023, data measurements for distance walking running were 2 count
@@ -5318,7 +5318,7 @@ On March 25, 2023, data measurements for body mass were 74148 gram
 On March 25, 2023, data measurements for blood glucose were 7 mole unit
 
 
-On 2023-03-26, the following health measurements were taken: 
+On 2023-03-26, the following health measurements were taken:
 On March 26, 2023, data measurements for waist circumference were 37 inch
 On March 26, 2023, data measurements for sleep duration were 7 hour
 On March 26, 2023, data measurements for flights climbed were 1 count
@@ -5337,7 +5337,7 @@ On March 26, 2023, data measurements for blood glucose were 4 mole unit
 On March 26, 2023, data measurements for body mass index were 28.5 count
 
 
-On 2023-03-27, the following health measurements were taken: 
+On 2023-03-27, the following health measurements were taken:
 On March 27, 2023, data measurements for blood glucose were 6 mole unit
 On March 27, 2023, data measurements for basal energy burned were 1595 kilo calorie
 On March 27, 2023, data measurements for active energy burned were 1952 kilo calorie
@@ -5356,7 +5356,7 @@ On March 27, 2023, data measurements for sleep duration were 9 hour
 On March 27, 2023, data measurements for step count were 13566 count
 
 
-On 2023-03-28, the following health measurements were taken: 
+On 2023-03-28, the following health measurements were taken:
 On March 28, 2023, data measurements for step count were 14570 count
 On March 28, 2023, data measurements for waist circumference were 35 inch
 On March 28, 2023, data measurements for body mass were 61753 gram
@@ -5375,7 +5375,7 @@ On March 28, 2023, data measurements for heart rate were 98 counts per minute
 On March 28, 2023, data measurements for body mass index were 23.5 count
 
 
-On 2023-03-29, the following health measurements were taken: 
+On 2023-03-29, the following health measurements were taken:
 On March 29, 2023, data measurements for step count were 6647 count
 On March 29, 2023, data measurements for body mass index were 23.5 count
 On March 29, 2023, data measurements for waist circumference were 36 inch
@@ -5394,7 +5394,7 @@ On March 29, 2023, data measurements for blood glucose were 4 mole unit
 On March 29, 2023, data measurements for heart rate were 75 counts per minute
 
 
-On 2023-03-30, the following health measurements were taken: 
+On 2023-03-30, the following health measurements were taken:
 On March 30, 2023, data measurements for basal energy burned were 1453 kilo calorie
 On March 30, 2023, data measurements for headphone audio exposure were 84 decible a weighted sound pressure level
 On March 30, 2023, data measurements for sleep duration were 8 hour
@@ -5413,7 +5413,7 @@ On March 30, 2023, data measurements for distance walking running were 6 count
 On March 30, 2023, data measurements for body fat percentage were 0.15 percent
 
 
-On 2023-03-31, the following health measurements were taken: 
+On 2023-03-31, the following health measurements were taken:
 On March 31, 2023, data measurements for heart rate were 78 counts per minute
 On March 31, 2023, data measurements for height were 73 inch
 On March 31, 2023, data measurements for lean body mass were 0.7 gram
@@ -5432,7 +5432,7 @@ On March 31, 2023, data measurements for basal energy burned were 1423 kilo calo
 On March 31, 2023, data measurements for waist circumference were 39 inch
 
 
-On 2023-04-01, the following health measurements were taken: 
+On 2023-04-01, the following health measurements were taken:
 On April 01, 2023, data measurements for active energy burned were 2872 kilo calorie
 On April 01, 2023, data measurements for waist circumference were 31 inch
 On April 01, 2023, data measurements for height were 67 inch
@@ -5451,7 +5451,7 @@ On April 01, 2023, data measurements for sleep duration were 9 hour
 On April 01, 2023, data measurements for blood glucose were 6 mole unit
 
 
-On 2023-04-02, the following health measurements were taken: 
+On 2023-04-02, the following health measurements were taken:
 On April 02, 2023, data measurements for waist circumference were 29 inch
 On April 02, 2023, data measurements for height were 75 inch
 On April 02, 2023, data measurements for basal energy burned were 1723 kilo calorie
@@ -5470,7 +5470,7 @@ On April 02, 2023, data measurements for distance walking running were 8 count
 On April 02, 2023, data measurements for step count were 5112 count
 
 
-On 2023-04-03, the following health measurements were taken: 
+On 2023-04-03, the following health measurements were taken:
 On April 03, 2023, data measurements for active energy burned were 1679 kilo calorie
 On April 03, 2023, data measurements for height were 60 inch
 On April 03, 2023, data measurements for basal energy burned were 1306 kilo calorie
@@ -5489,7 +5489,7 @@ On April 03, 2023, data measurements for heart rate were 98 counts per minute
 On April 03, 2023, data measurements for sleep duration were 6 hour
 
 
-On 2023-04-04, the following health measurements were taken: 
+On 2023-04-04, the following health measurements were taken:
 On April 04, 2023, data measurements for sleep duration were 7 hour
 On April 04, 2023, data measurements for distance walking running were 8 count
 On April 04, 2023, data measurements for lean body mass were 0.7 gram
@@ -5508,7 +5508,7 @@ On April 04, 2023, data measurements for step count were 7668 count
 On April 04, 2023, data measurements for flights climbed were 10 count
 
 
-On 2023-04-05, the following health measurements were taken: 
+On 2023-04-05, the following health measurements were taken:
 On April 05, 2023, data measurements for distance walking running were 9 count
 On April 05, 2023, data measurements for waist circumference were 32 inch
 On April 05, 2023, data measurements for flights climbed were 20 count
@@ -5527,7 +5527,7 @@ On April 05, 2023, data measurements for active energy burned were 1749 kilo cal
 On April 05, 2023, data measurements for blood glucose were 8 mole unit
 
 
-On 2023-04-06, the following health measurements were taken: 
+On 2023-04-06, the following health measurements were taken:
 On April 06, 2023, data measurements for body fat percentage were 0.15 percent
 On April 06, 2023, data measurements for basal energy burned were 1652 kilo calorie
 On April 06, 2023, data measurements for headphone audio exposure were 63 decible a weighted sound pressure level
@@ -5546,7 +5546,7 @@ On April 06, 2023, data measurements for waist circumference were 38 inch
 On April 06, 2023, data measurements for step count were 9105 count
 
 
-On 2023-04-07, the following health measurements were taken: 
+On 2023-04-07, the following health measurements were taken:
 On April 07, 2023, data measurements for lean body mass were 0.7 gram
 On April 07, 2023, data measurements for waist circumference were 26 inch
 On April 07, 2023, data measurements for blood glucose were 5 mole unit
@@ -5565,7 +5565,7 @@ On April 07, 2023, data measurements for active energy burned were 1692 kilo cal
 On April 07, 2023, data measurements for flights climbed were 21 count
 
 
-On 2023-04-08, the following health measurements were taken: 
+On 2023-04-08, the following health measurements were taken:
 On April 08, 2023, data measurements for body mass were 66598 gram
 On April 08, 2023, data measurements for waist circumference were 35 inch
 On April 08, 2023, data measurements for step count were 7392 count
@@ -5584,7 +5584,7 @@ On April 08, 2023, data measurements for flights climbed were 6 count
 On April 08, 2023, data measurements for distance walking running were 3 count
 
 
-On 2023-04-09, the following health measurements were taken: 
+On 2023-04-09, the following health measurements were taken:
 On April 09, 2023, data measurements for blood glucose were 8 mole unit
 On April 09, 2023, data measurements for basal energy burned were 1719 kilo calorie
 On April 09, 2023, data measurements for headphone audio exposure were 61 decible a weighted sound pressure level
@@ -5603,7 +5603,7 @@ On April 09, 2023, data measurements for flights climbed were 21 count
 On April 09, 2023, data measurements for body mass were 62424 gram
 
 
-On 2023-04-10, the following health measurements were taken: 
+On 2023-04-10, the following health measurements were taken:
 On April 10, 2023, data measurements for waist circumference were 36 inch
 On April 10, 2023, data measurements for body mass index were 28.5 count
 On April 10, 2023, data measurements for headphone audio exposure were 77 decible a weighted sound pressure level
@@ -5622,7 +5622,7 @@ On April 10, 2023, data measurements for lean body mass were 0.7 gram
 On April 10, 2023, data measurements for height were 75 inch
 
 
-On 2023-04-11, the following health measurements were taken: 
+On 2023-04-11, the following health measurements were taken:
 On April 11, 2023, data measurements for step count were 14617 count
 On April 11, 2023, data measurements for lean body mass were 1.7 gram
 On April 11, 2023, data measurements for blood glucose were 4 mole unit
@@ -5641,7 +5641,7 @@ On April 11, 2023, data measurements for body mass index were 23.5 count
 On April 11, 2023, data measurements for flights climbed were 4 count
 
 
-On 2023-04-12, the following health measurements were taken: 
+On 2023-04-12, the following health measurements were taken:
 On April 12, 2023, data measurements for body mass were 82166 gram
 On April 12, 2023, data measurements for basal energy burned were 1393 kilo calorie
 On April 12, 2023, data measurements for step count were 4298 count
@@ -5660,7 +5660,7 @@ On April 12, 2023, data measurements for distance walking running were 6 count
 On April 12, 2023, data measurements for blood glucose were 8 mole unit
 
 
-On 2023-04-13, the following health measurements were taken: 
+On 2023-04-13, the following health measurements were taken:
 On April 13, 2023, data measurements for step count were 5411 count
 On April 13, 2023, data measurements for body mass index were 21.5 count
 On April 13, 2023, data measurements for flights climbed were 27 count
@@ -5679,7 +5679,7 @@ On April 13, 2023, data measurements for height were 60 inch
 On April 13, 2023, data measurements for basal energy burned were 1524 kilo calorie
 
 
-On 2023-04-14, the following health measurements were taken: 
+On 2023-04-14, the following health measurements were taken:
 On April 14, 2023, data measurements for body mass were 65966 gram
 On April 14, 2023, data measurements for distance walking running were 9 count
 On April 14, 2023, data measurements for step count were 7025 count
@@ -5698,7 +5698,7 @@ On April 14, 2023, data measurements for walking double support percentage were 
 On April 14, 2023, data measurements for body fat percentage were 0.15 percent
 
 
-On 2023-04-15, the following health measurements were taken: 
+On 2023-04-15, the following health measurements were taken:
 On April 15, 2023, data measurements for headphone audio exposure were 64 decible a weighted sound pressure level
 On April 15, 2023, data measurements for body mass index were 20.5 count
 On April 15, 2023, data measurements for heart rate were 63 counts per minute
@@ -5717,7 +5717,7 @@ On April 15, 2023, data measurements for basal energy burned were 1523 kilo calo
 On April 15, 2023, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2023-04-16, the following health measurements were taken: 
+On 2023-04-16, the following health measurements were taken:
 On April 16, 2023, data measurements for lean body mass were 0.7 gram
 On April 16, 2023, data measurements for active energy burned were 2089 kilo calorie
 On April 16, 2023, data measurements for sleep duration were 9 hour
@@ -5736,7 +5736,7 @@ On April 16, 2023, data measurements for headphone audio exposure were 76 decibl
 On April 16, 2023, data measurements for step count were 4414 count
 
 
-On 2023-04-17, the following health measurements were taken: 
+On 2023-04-17, the following health measurements were taken:
 On April 17, 2023, data measurements for heart rate were 75 counts per minute
 On April 17, 2023, data measurements for walking double support percentage were 0.2 percent
 On April 17, 2023, data measurements for height were 62 inch
@@ -5755,7 +5755,7 @@ On April 17, 2023, data measurements for active energy burned were 2792 kilo cal
 On April 17, 2023, data measurements for sleep duration were 9 hour
 
 
-On 2023-04-18, the following health measurements were taken: 
+On 2023-04-18, the following health measurements were taken:
 On April 18, 2023, data measurements for body mass were 60261 gram
 On April 18, 2023, data measurements for waist circumference were 26 inch
 On April 18, 2023, data measurements for lean body mass were 0.7 gram
@@ -5774,7 +5774,7 @@ On April 18, 2023, data measurements for sleep duration were 8 hour
 On April 18, 2023, data measurements for step count were 12505 count
 
 
-On 2023-04-19, the following health measurements were taken: 
+On 2023-04-19, the following health measurements were taken:
 On April 19, 2023, data measurements for blood glucose were 5 mole unit
 On April 19, 2023, data measurements for step count were 14488 count
 On April 19, 2023, data measurements for waist circumference were 39 inch
@@ -5793,7 +5793,7 @@ On April 19, 2023, data measurements for headphone audio exposure were 80 decibl
 On April 19, 2023, data measurements for flights climbed were 21 count
 
 
-On 2023-04-20, the following health measurements were taken: 
+On 2023-04-20, the following health measurements were taken:
 On April 20, 2023, data measurements for walking double support percentage were 0.2 percent
 On April 20, 2023, data measurements for basal energy burned were 1320 kilo calorie
 On April 20, 2023, data measurements for body fat percentage were 1.15 percent
@@ -5812,7 +5812,7 @@ On April 20, 2023, data measurements for height were 60 inch
 On April 20, 2023, data measurements for body mass index were 30.5 count
 
 
-On 2023-04-21, the following health measurements were taken: 
+On 2023-04-21, the following health measurements were taken:
 On April 21, 2023, data measurements for lean body mass were 0.7 gram
 On April 21, 2023, data measurements for flights climbed were 7 count
 On April 21, 2023, data measurements for headphone audio exposure were 63 decible a weighted sound pressure level
@@ -5831,7 +5831,7 @@ On April 21, 2023, data measurements for basal energy burned were 1418 kilo calo
 On April 21, 2023, data measurements for sleep duration were 6 hour
 
 
-On 2023-04-22, the following health measurements were taken: 
+On 2023-04-22, the following health measurements were taken:
 On April 22, 2023, data measurements for basal energy burned were 1723 kilo calorie
 On April 22, 2023, data measurements for sleep duration were 8 hour
 On April 22, 2023, data measurements for lean body mass were 0.7 gram
@@ -5850,7 +5850,7 @@ On April 22, 2023, data measurements for body mass were 78743 gram
 On April 22, 2023, data measurements for body mass index were 30.5 count
 
 
-On 2023-04-23, the following health measurements were taken: 
+On 2023-04-23, the following health measurements were taken:
 On April 23, 2023, data measurements for headphone audio exposure were 72 decible a weighted sound pressure level
 On April 23, 2023, data measurements for height were 68 inch
 On April 23, 2023, data measurements for step count were 5776 count
@@ -5869,7 +5869,7 @@ On April 23, 2023, data measurements for body fat percentage were 0.15 percent
 On April 23, 2023, data measurements for blood glucose were 8 mole unit
 
 
-On 2023-04-24, the following health measurements were taken: 
+On 2023-04-24, the following health measurements were taken:
 On April 24, 2023, data measurements for waist circumference were 27 inch
 On April 24, 2023, data measurements for headphone audio exposure were 80 decible a weighted sound pressure level
 On April 24, 2023, data measurements for body mass were 61388 gram
@@ -5888,7 +5888,7 @@ On April 24, 2023, data measurements for height were 62 inch
 On April 24, 2023, data measurements for body fat percentage were 0.15 percent
 
 
-On 2023-04-25, the following health measurements were taken: 
+On 2023-04-25, the following health measurements were taken:
 On April 25, 2023, data measurements for sleep duration were 9 hour
 On April 25, 2023, data measurements for flights climbed were 12 count
 On April 25, 2023, data measurements for lean body mass were 0.7 gram
@@ -5907,7 +5907,7 @@ On April 25, 2023, data measurements for body mass index were 21.5 count
 On April 25, 2023, data measurements for body fat percentage were 0.15 percent
 
 
-On 2023-04-26, the following health measurements were taken: 
+On 2023-04-26, the following health measurements were taken:
 On April 26, 2023, data measurements for waist circumference were 32 inch
 On April 26, 2023, data measurements for height were 60 inch
 On April 26, 2023, data measurements for body mass index were 22.5 count
@@ -5926,7 +5926,7 @@ On April 26, 2023, data measurements for basal energy burned were 1717 kilo calo
 On April 26, 2023, data measurements for step count were 3870 count
 
 
-On 2023-04-27, the following health measurements were taken: 
+On 2023-04-27, the following health measurements were taken:
 On April 27, 2023, data measurements for step count were 4990 count
 On April 27, 2023, data measurements for sleep duration were 7 hour
 On April 27, 2023, data measurements for body mass were 63782 gram
@@ -5945,7 +5945,7 @@ On April 27, 2023, data measurements for body fat percentage were 0.15 percent
 On April 27, 2023, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2023-04-28, the following health measurements were taken: 
+On 2023-04-28, the following health measurements were taken:
 On April 28, 2023, data measurements for heart rate were 73 counts per minute
 On April 28, 2023, data measurements for basal energy burned were 1292 kilo calorie
 On April 28, 2023, data measurements for height were 68 inch
@@ -5964,7 +5964,7 @@ On April 28, 2023, data measurements for body fat percentage were 0.15 percent
 On April 28, 2023, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2023-04-29, the following health measurements were taken: 
+On 2023-04-29, the following health measurements were taken:
 On April 29, 2023, data measurements for blood glucose were 7 mole unit
 On April 29, 2023, data measurements for basal energy burned were 1597 kilo calorie
 On April 29, 2023, data measurements for height were 75 inch
@@ -5983,7 +5983,7 @@ On April 29, 2023, data measurements for step count were 12905 count
 On April 29, 2023, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2023-04-30, the following health measurements were taken: 
+On 2023-04-30, the following health measurements were taken:
 On April 30, 2023, data measurements for headphone audio exposure were 82 decible a weighted sound pressure level
 On April 30, 2023, data measurements for height were 70 inch
 On April 30, 2023, data measurements for heart rate were 75 counts per minute
@@ -6002,7 +6002,7 @@ On April 30, 2023, data measurements for lean body mass were 0.7 gram
 On April 30, 2023, data measurements for flights climbed were 1 count
 
 
-On 2023-05-01, the following health measurements were taken: 
+On 2023-05-01, the following health measurements were taken:
 On May 01, 2023, data measurements for flights climbed were 16 count
 On May 01, 2023, data measurements for blood glucose were 5 mole unit
 On May 01, 2023, data measurements for step count were 9944 count
@@ -6021,7 +6021,7 @@ On May 01, 2023, data measurements for walking double support percentage were 0.
 On May 01, 2023, data measurements for active energy burned were 2535 kilo calorie
 
 
-On 2023-05-02, the following health measurements were taken: 
+On 2023-05-02, the following health measurements were taken:
 On May 02, 2023, data measurements for heart rate were 83 counts per minute
 On May 02, 2023, data measurements for flights climbed were 24 count
 On May 02, 2023, data measurements for body mass index were 22.5 count
@@ -6040,7 +6040,7 @@ On May 02, 2023, data measurements for height were 64 inch
 On May 02, 2023, data measurements for sleep duration were 7 hour
 
 
-On 2023-05-03, the following health measurements were taken: 
+On 2023-05-03, the following health measurements were taken:
 On May 03, 2023, data measurements for heart rate were 76 counts per minute
 On May 03, 2023, data measurements for body mass index were 22.5 count
 On May 03, 2023, data measurements for basal energy burned were 1267 kilo calorie
@@ -6059,7 +6059,7 @@ On May 03, 2023, data measurements for waist circumference were 30 inch
 On May 03, 2023, data measurements for distance walking running were 7 count
 
 
-On 2023-05-04, the following health measurements were taken: 
+On 2023-05-04, the following health measurements were taken:
 On May 04, 2023, data measurements for basal energy burned were 1645 kilo calorie
 On May 04, 2023, data measurements for lean body mass were 0.7 gram
 On May 04, 2023, data measurements for flights climbed were 14 count
@@ -6078,7 +6078,7 @@ On May 04, 2023, data measurements for distance walking running were 8 count
 On May 04, 2023, data measurements for body fat percentage were 0.15 percent
 
 
-On 2023-05-05, the following health measurements were taken: 
+On 2023-05-05, the following health measurements were taken:
 On May 05, 2023, data measurements for headphone audio exposure were 74 decible a weighted sound pressure level
 On May 05, 2023, data measurements for step count were 14636 count
 On May 05, 2023, data measurements for walking double support percentage were 0.2 percent
@@ -6097,7 +6097,7 @@ On May 05, 2023, data measurements for waist circumference were 29 inch
 On May 05, 2023, data measurements for body mass were 97312 gram
 
 
-On 2023-05-06, the following health measurements were taken: 
+On 2023-05-06, the following health measurements were taken:
 On May 06, 2023, data measurements for height were 76 inch
 On May 06, 2023, data measurements for body mass were 96934 gram
 On May 06, 2023, data measurements for walking double support percentage were 0.2 percent
@@ -6116,7 +6116,7 @@ On May 06, 2023, data measurements for heart rate were 69 counts per minute
 On May 06, 2023, data measurements for headphone audio exposure were 79 decible a weighted sound pressure level
 
 
-On 2023-05-07, the following health measurements were taken: 
+On 2023-05-07, the following health measurements were taken:
 On May 07, 2023, data measurements for lean body mass were 0.7 gram
 On May 07, 2023, data measurements for heart rate were 63 counts per minute
 On May 07, 2023, data measurements for waist circumference were 38 inch
@@ -6135,7 +6135,7 @@ On May 07, 2023, data measurements for body mass index were 25.5 count
 On May 07, 2023, data measurements for basal energy burned were 1249 kilo calorie
 
 
-On 2023-05-08, the following health measurements were taken: 
+On 2023-05-08, the following health measurements were taken:
 On May 08, 2023, data measurements for lean body mass were 0.7 gram
 On May 08, 2023, data measurements for active energy burned were 2715 kilo calorie
 On May 08, 2023, data measurements for heart rate were 63 counts per minute
@@ -6154,7 +6154,7 @@ On May 08, 2023, data measurements for body fat percentage were 0.15 percent
 On May 08, 2023, data measurements for height were 61 inch
 
 
-On 2023-05-09, the following health measurements were taken: 
+On 2023-05-09, the following health measurements were taken:
 On May 09, 2023, data measurements for headphone audio exposure were 84 decible a weighted sound pressure level
 On May 09, 2023, data measurements for distance walking running were 6 count
 On May 09, 2023, data measurements for sleep duration were 6 hour
@@ -6173,7 +6173,7 @@ On May 09, 2023, data measurements for basal energy burned were 1596 kilo calori
 On May 09, 2023, data measurements for height were 67 inch
 
 
-On 2023-05-10, the following health measurements were taken: 
+On 2023-05-10, the following health measurements were taken:
 On May 10, 2023, data measurements for walking double support percentage were 1.2 percent
 On May 10, 2023, data measurements for lean body mass were 0.7 gram
 On May 10, 2023, data measurements for distance walking running were 3 count
@@ -6192,7 +6192,7 @@ On May 10, 2023, data measurements for blood glucose were 5 mole unit
 On May 10, 2023, data measurements for sleep duration were 6 hour
 
 
-On 2023-05-11, the following health measurements were taken: 
+On 2023-05-11, the following health measurements were taken:
 On May 11, 2023, data measurements for heart rate were 89 counts per minute
 On May 11, 2023, data measurements for step count were 14979 count
 On May 11, 2023, data measurements for blood glucose were 4 mole unit
@@ -6211,7 +6211,7 @@ On May 11, 2023, data measurements for headphone audio exposure were 83 decible 
 On May 11, 2023, data measurements for sleep duration were 7 hour
 
 
-On 2023-05-12, the following health measurements were taken: 
+On 2023-05-12, the following health measurements were taken:
 On May 12, 2023, data measurements for active energy burned were 1619 kilo calorie
 On May 12, 2023, data measurements for heart rate were 63 counts per minute
 On May 12, 2023, data measurements for body mass index were 29.5 count
@@ -6230,7 +6230,7 @@ On May 12, 2023, data measurements for flights climbed were 1 count
 On May 12, 2023, data measurements for headphone audio exposure were 65 decible a weighted sound pressure level
 
 
-On 2023-05-13, the following health measurements were taken: 
+On 2023-05-13, the following health measurements were taken:
 On May 13, 2023, data measurements for basal energy burned were 1409 kilo calorie
 On May 13, 2023, data measurements for waist circumference were 39 inch
 On May 13, 2023, data measurements for flights climbed were 6 count
@@ -6249,7 +6249,7 @@ On May 13, 2023, data measurements for body mass were 70772 gram
 On May 13, 2023, data measurements for lean body mass were 0.7 gram
 
 
-On 2023-05-14, the following health measurements were taken: 
+On 2023-05-14, the following health measurements were taken:
 On May 14, 2023, data measurements for blood glucose were 8 mole unit
 On May 14, 2023, data measurements for waist circumference were 34 inch
 On May 14, 2023, data measurements for step count were 12585 count
@@ -6268,7 +6268,7 @@ On May 14, 2023, data measurements for basal energy burned were 1650 kilo calori
 On May 14, 2023, data measurements for flights climbed were 3 count
 
 
-On 2023-05-15, the following health measurements were taken: 
+On 2023-05-15, the following health measurements were taken:
 On May 15, 2023, data measurements for headphone audio exposure were 62 decible a weighted sound pressure level
 On May 15, 2023, data measurements for body fat percentage were 0.15 percent
 On May 15, 2023, data measurements for lean body mass were 0.7 gram
@@ -6287,7 +6287,7 @@ On May 15, 2023, data measurements for active energy burned were 2215 kilo calor
 On May 15, 2023, data measurements for blood glucose were 8 mole unit
 
 
-On 2023-05-16, the following health measurements were taken: 
+On 2023-05-16, the following health measurements were taken:
 On May 16, 2023, data measurements for headphone audio exposure were 69 decible a weighted sound pressure level
 On May 16, 2023, data measurements for blood glucose were 7 mole unit
 On May 16, 2023, data measurements for sleep duration were 8 hour
@@ -6306,7 +6306,7 @@ On May 16, 2023, data measurements for height were 67 inch
 On May 16, 2023, data measurements for active energy burned were 2952 kilo calorie
 
 
-On 2023-05-17, the following health measurements were taken: 
+On 2023-05-17, the following health measurements were taken:
 On May 17, 2023, data measurements for walking double support percentage were 0.2 percent
 On May 17, 2023, data measurements for distance walking running were 4 count
 On May 17, 2023, data measurements for heart rate were 88 counts per minute
@@ -6325,7 +6325,7 @@ On May 17, 2023, data measurements for flights climbed were 3 count
 On May 17, 2023, data measurements for body fat percentage were 0.15 percent
 
 
-On 2023-05-18, the following health measurements were taken: 
+On 2023-05-18, the following health measurements were taken:
 On May 18, 2023, data measurements for blood glucose were 6 mole unit
 On May 18, 2023, data measurements for height were 63 inch
 On May 18, 2023, data measurements for body mass were 72784 gram
@@ -6344,7 +6344,7 @@ On May 18, 2023, data measurements for step count were 10587 count
 On May 18, 2023, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2023-05-19, the following health measurements were taken: 
+On 2023-05-19, the following health measurements were taken:
 On May 19, 2023, data measurements for flights climbed were 13 count
 On May 19, 2023, data measurements for active energy burned were 1851 kilo calorie
 On May 19, 2023, data measurements for body mass index were 19.5 count
@@ -6363,7 +6363,7 @@ On May 19, 2023, data measurements for body fat percentage were 0.15 percent
 On May 19, 2023, data measurements for height were 66 inch
 
 
-On 2023-05-20, the following health measurements were taken: 
+On 2023-05-20, the following health measurements were taken:
 On May 20, 2023, data measurements for basal energy burned were 1735 kilo calorie
 On May 20, 2023, data measurements for step count were 7374 count
 On May 20, 2023, data measurements for flights climbed were 11 count
@@ -6382,7 +6382,7 @@ On May 20, 2023, data measurements for body mass were 52995 gram
 On May 20, 2023, data measurements for body fat percentage were 1.15 percent
 
 
-On 2023-05-21, the following health measurements were taken: 
+On 2023-05-21, the following health measurements were taken:
 On May 21, 2023, data measurements for active energy burned were 2961 kilo calorie
 On May 21, 2023, data measurements for height were 64 inch
 On May 21, 2023, data measurements for body fat percentage were 1.15 percent
@@ -6401,7 +6401,7 @@ On May 21, 2023, data measurements for waist circumference were 33 inch
 On May 21, 2023, data measurements for walking double support percentage were 1.2 percent
 
 
-On 2023-05-22, the following health measurements were taken: 
+On 2023-05-22, the following health measurements were taken:
 On May 22, 2023, data measurements for body mass index were 20.5 count
 On May 22, 2023, data measurements for basal energy burned were 1438 kilo calorie
 On May 22, 2023, data measurements for active energy burned were 2933 kilo calorie
@@ -6420,7 +6420,7 @@ On May 22, 2023, data measurements for blood glucose were 8 mole unit
 On May 22, 2023, data measurements for body mass were 94770 gram
 
 
-On 2023-05-23, the following health measurements were taken: 
+On 2023-05-23, the following health measurements were taken:
 On May 23, 2023, data measurements for body mass index were 25.5 count
 On May 23, 2023, data measurements for sleep duration were 8 hour
 On May 23, 2023, data measurements for body fat percentage were 0.15 percent
@@ -6439,7 +6439,7 @@ On May 23, 2023, data measurements for height were 67 inch
 On May 23, 2023, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2023-05-24, the following health measurements were taken: 
+On 2023-05-24, the following health measurements were taken:
 On May 24, 2023, data measurements for height were 68 inch
 On May 24, 2023, data measurements for sleep duration were 6 hour
 On May 24, 2023, data measurements for step count were 9068 count
@@ -6458,7 +6458,7 @@ On May 24, 2023, data measurements for body fat percentage were 0.15 percent
 On May 24, 2023, data measurements for walking double support percentage were 1.2 percent
 
 
-On 2023-05-25, the following health measurements were taken: 
+On 2023-05-25, the following health measurements were taken:
 On May 25, 2023, data measurements for body mass index were 24.5 count
 On May 25, 2023, data measurements for active energy burned were 2407 kilo calorie
 On May 25, 2023, data measurements for height were 72 inch
@@ -6477,7 +6477,7 @@ On May 25, 2023, data measurements for heart rate were 100 counts per minute
 On May 25, 2023, data measurements for distance walking running were 7 count
 
 
-On 2023-05-26, the following health measurements were taken: 
+On 2023-05-26, the following health measurements were taken:
 On May 26, 2023, data measurements for basal energy burned were 1448 kilo calorie
 On May 26, 2023, data measurements for height were 70 inch
 On May 26, 2023, data measurements for active energy burned were 1537 kilo calorie
@@ -6496,7 +6496,7 @@ On May 26, 2023, data measurements for heart rate were 87 counts per minute
 On May 26, 2023, data measurements for flights climbed were 25 count
 
 
-On 2023-05-27, the following health measurements were taken: 
+On 2023-05-27, the following health measurements were taken:
 On May 27, 2023, data measurements for distance walking running were 5 count
 On May 27, 2023, data measurements for sleep duration were 8 hour
 On May 27, 2023, data measurements for waist circumference were 29 inch
@@ -6515,7 +6515,7 @@ On May 27, 2023, data measurements for walking double support percentage were 0.
 On May 27, 2023, data measurements for blood glucose were 5 mole unit
 
 
-On 2023-05-28, the following health measurements were taken: 
+On 2023-05-28, the following health measurements were taken:
 On May 28, 2023, data measurements for active energy burned were 2861 kilo calorie
 On May 28, 2023, data measurements for flights climbed were 9 count
 On May 28, 2023, data measurements for body fat percentage were 0.15 percent
@@ -6534,7 +6534,7 @@ On May 28, 2023, data measurements for headphone audio exposure were 60 decible 
 On May 28, 2023, data measurements for body mass were 50226 gram
 
 
-On 2023-05-29, the following health measurements were taken: 
+On 2023-05-29, the following health measurements were taken:
 On May 29, 2023, data measurements for basal energy burned were 1376 kilo calorie
 On May 29, 2023, data measurements for height were 62 inch
 On May 29, 2023, data measurements for headphone audio exposure were 80 decible a weighted sound pressure level
@@ -6553,7 +6553,7 @@ On May 29, 2023, data measurements for flights climbed were 12 count
 On May 29, 2023, data measurements for lean body mass were 0.7 gram
 
 
-On 2023-05-30, the following health measurements were taken: 
+On 2023-05-30, the following health measurements were taken:
 On May 30, 2023, data measurements for heart rate were 75 counts per minute
 On May 30, 2023, data measurements for waist circumference were 38 inch
 On May 30, 2023, data measurements for body mass were 74410 gram
@@ -6572,7 +6572,7 @@ On May 30, 2023, data measurements for flights climbed were 12 count
 On May 30, 2023, data measurements for walking double support percentage were 0.2 percent
 
 
-On 2023-05-31, the following health measurements were taken: 
+On 2023-05-31, the following health measurements were taken:
 On May 31, 2023, data measurements for basal energy burned were 1296 kilo calorie
 On May 31, 2023, data measurements for flights climbed were 11 count
 On May 31, 2023, data measurements for lean body mass were 0.7 gram
@@ -6591,7 +6591,7 @@ On May 31, 2023, data measurements for blood glucose were 8 mole unit
 On May 31, 2023, data measurements for active energy burned were 2905 kilo calorie
 
 
-On 2023-06-01, the following health measurements were taken: 
+On 2023-06-01, the following health measurements were taken:
 On June 01, 2023, data measurements for sleep duration were 8 hour
 On June 01, 2023, data measurements for flights climbed were 21 count
 On June 01, 2023, data measurements for blood glucose were 5 mole unit
@@ -6610,7 +6610,7 @@ On June 01, 2023, data measurements for basal energy burned were 1261 kilo calor
 On June 01, 2023, data measurements for distance walking running were 9 count
 
 
-On 2023-06-02, the following health measurements were taken: 
+On 2023-06-02, the following health measurements were taken:
 On June 02, 2023, data measurements for body fat percentage were 1.15 percent
 On June 02, 2023, data measurements for walking double support percentage were 0.2 percent
 On June 02, 2023, data measurements for sleep duration were 9 hour
@@ -6629,7 +6629,7 @@ On June 02, 2023, data measurements for waist circumference were 33 inch
 On June 02, 2023, data measurements for distance walking running were 9 count
 
 
-On 2023-06-03, the following health measurements were taken: 
+On 2023-06-03, the following health measurements were taken:
 On June 03, 2023, data measurements for waist circumference were 27 inch
 On June 03, 2023, data measurements for sleep duration were 6 hour
 On June 03, 2023, data measurements for walking double support percentage were 0.2 percent
@@ -6648,7 +6648,7 @@ On June 03, 2023, data measurements for heart rate were 100 counts per minute
 On June 03, 2023, data measurements for active energy burned were 2491 kilo calorie
 
 
-On 2023-06-04, the following health measurements were taken: 
+On 2023-06-04, the following health measurements were taken:
 On June 04, 2023, data measurements for body fat percentage were 0.15 percent
 On June 04, 2023, data measurements for headphone audio exposure were 80 decible a weighted sound pressure level
 On June 04, 2023, data measurements for step count were 9116 count
@@ -6667,7 +6667,7 @@ On June 04, 2023, data measurements for heart rate were 67 counts per minute
 On June 04, 2023, data measurements for waist circumference were 29 inch
 
 
-On 2023-06-05, the following health measurements were taken: 
+On 2023-06-05, the following health measurements were taken:
 On June 05, 2023, data measurements for flights climbed were 26 count
 On June 05, 2023, data measurements for body mass were 84941 gram
 On June 05, 2023, data measurements for basal energy burned were 1252 kilo calorie
@@ -6686,7 +6686,7 @@ On June 05, 2023, data measurements for step count were 7117 count
 On June 05, 2023, data measurements for body fat percentage were 0.15 percent
 
 
-On 2023-06-06, the following health measurements were taken: 
+On 2023-06-06, the following health measurements were taken:
 On June 06, 2023, data measurements for step count were 5207 count
 On June 06, 2023, data measurements for body mass were 77858 gram
 On June 06, 2023, data measurements for lean body mass were 1.7 gram
@@ -6705,7 +6705,7 @@ On June 06, 2023, data measurements for sleep duration were 9 hour
 On June 06, 2023, data measurements for active energy burned were 2571 kilo calorie
 
 
-On 2023-06-07, the following health measurements were taken: 
+On 2023-06-07, the following health measurements were taken:
 On June 07, 2023, data measurements for walking double support percentage were 0.2 percent
 On June 07, 2023, data measurements for active energy burned were 2952 kilo calorie
 On June 07, 2023, data measurements for heart rate were 62 counts per minute
@@ -6724,7 +6724,7 @@ On June 07, 2023, data measurements for body mass were 82626 gram
 On June 07, 2023, data measurements for height were 69 inch
 
 
-On 2023-06-08, the following health measurements were taken: 
+On 2023-06-08, the following health measurements were taken:
 On June 08, 2023, data measurements for sleep duration were 8 hour
 On June 08, 2023, data measurements for heart rate were 71 counts per minute
 On June 08, 2023, data measurements for height were 76 inch
@@ -6743,7 +6743,7 @@ On June 08, 2023, data measurements for flights climbed were 24 count
 On June 08, 2023, data measurements for lean body mass were 0.7 gram
 
 
-On 2023-06-09, the following health measurements were taken: 
+On 2023-06-09, the following health measurements were taken:
 On June 09, 2023, data measurements for active energy burned were 1811 kilo calorie
 On June 09, 2023, data measurements for heart rate were 73 counts per minute
 On June 09, 2023, data measurements for distance walking running were 2 count
@@ -6762,7 +6762,7 @@ On June 09, 2023, data measurements for body mass index were 28.5 count
 On June 09, 2023, data measurements for basal energy burned were 1656 kilo calorie
 
 
-On 2023-06-10, the following health measurements were taken: 
+On 2023-06-10, the following health measurements were taken:
 On June 10, 2023, data measurements for distance walking running were 4 count
 On June 10, 2023, data measurements for heart rate were 91 counts per minute
 On June 10, 2023, data measurements for headphone audio exposure were 75 decible a weighted sound pressure level
@@ -6781,7 +6781,7 @@ On June 10, 2023, data measurements for sleep duration were 8 hour
 On June 10, 2023, data measurements for lean body mass were 0.7 gram
 
 
-On 2023-06-11, the following health measurements were taken: 
+On 2023-06-11, the following health measurements were taken:
 On June 11, 2023, data measurements for body mass index were 21.5 count
 On June 11, 2023, data measurements for waist circumference were 37 inch
 On June 11, 2023, data measurements for distance walking running were 9 count
@@ -6800,7 +6800,7 @@ On June 11, 2023, data measurements for step count were 6380 count
 On June 11, 2023, data measurements for flights climbed were 0 count
 
 
-On 2023-06-12, the following health measurements were taken: 
+On 2023-06-12, the following health measurements were taken:
 On June 12, 2023, data measurements for step count were 12073 count
 On June 12, 2023, data measurements for heart rate were 64 counts per minute
 On June 12, 2023, data measurements for body fat percentage were 0.15 percent
@@ -6819,7 +6819,7 @@ On June 12, 2023, data measurements for lean body mass were 0.7 gram
 On June 12, 2023, data measurements for headphone audio exposure were 66 decible a weighted sound pressure level
 
 
-On 2023-06-13, the following health measurements were taken: 
+On 2023-06-13, the following health measurements were taken:
 On June 13, 2023, data measurements for heart rate were 86 counts per minute
 On June 13, 2023, data measurements for blood glucose were 4 mole unit
 On June 13, 2023, data measurements for height were 71 inch
@@ -6838,7 +6838,7 @@ On June 13, 2023, data measurements for body mass were 70179 gram
 On June 13, 2023, data measurements for step count were 13156 count
 
 
-On 2023-06-14, the following health measurements were taken: 
+On 2023-06-14, the following health measurements were taken:
 On June 14, 2023, data measurements for waist circumference were 34 inch
 On June 14, 2023, data measurements for body fat percentage were 1.15 percent
 On June 14, 2023, data measurements for height were 70 inch
@@ -6857,7 +6857,7 @@ On June 14, 2023, data measurements for walking double support percentage were 0
 On June 14, 2023, data measurements for body mass were 72839 gram
 
 
-On 2023-06-15, the following health measurements were taken: 
+On 2023-06-15, the following health measurements were taken:
 On June 15, 2023, data measurements for body mass were 66129 gram
 On June 15, 2023, data measurements for body mass index were 19.5 count
 On June 15, 2023, data measurements for step count were 10708 count
@@ -6876,7 +6876,7 @@ On June 15, 2023, data measurements for waist circumference were 39 inch
 On June 15, 2023, data measurements for headphone audio exposure were 76 decible a weighted sound pressure level
 
 
-On 2023-06-16, the following health measurements were taken: 
+On 2023-06-16, the following health measurements were taken:
 On June 16, 2023, data measurements for distance walking running were 5 count
 On June 16, 2023, data measurements for headphone audio exposure were 75 decible a weighted sound pressure level
 On June 16, 2023, data measurements for step count were 14219 count
@@ -6895,7 +6895,7 @@ On June 16, 2023, data measurements for sleep duration were 8 hour
 On June 16, 2023, data measurements for height were 73 inch
 
 
-On 2023-06-17, the following health measurements were taken: 
+On 2023-06-17, the following health measurements were taken:
 On June 17, 2023, data measurements for body mass were 92145 gram
 On June 17, 2023, data measurements for distance walking running were 8 count
 On June 17, 2023, data measurements for basal energy burned were 1485 kilo calorie
@@ -6914,7 +6914,7 @@ On June 17, 2023, data measurements for sleep duration were 8 hour
 On June 17, 2023, data measurements for headphone audio exposure were 82 decible a weighted sound pressure level
 
 
-On 2023-06-18, the following health measurements were taken: 
+On 2023-06-18, the following health measurements were taken:
 On June 18, 2023, data measurements for heart rate were 90 counts per minute
 On June 18, 2023, data measurements for step count were 13424 count
 On June 18, 2023, data measurements for sleep duration were 8 hour
@@ -6931,5 +6931,3 @@ On June 18, 2023, data measurements for basal energy burned were 1519 kilo calor
 On June 18, 2023, data measurements for flights climbed were 22 count
 On June 18, 2023, data measurements for blood glucose were 8 mole unit
 On June 18, 2023, data measurements for body fat percentage were 0.15 percent
-
-

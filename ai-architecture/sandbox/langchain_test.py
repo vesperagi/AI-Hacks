@@ -9,6 +9,7 @@ from pathlib import Path
 from pprint import PrettyPrinter as pp
 from mapmaker import NestedMap
 import numpy as np
+from utils import firebase_url_to_df, data_to_text_slow, data_to_text_fast
 import firebase
 import firebase_admin
 
@@ -19,7 +20,6 @@ try:
     from langchain.embeddings.openai import OpenAIEmbeddings
     from langchain.vectorstores import Pinecone
     from langchain import VectorDBQA, OpenAI
-    from utils import firebase_url_to_df, data_to_text
     import pinecone
     import pandas as pd
     from google.cloud import firestore
@@ -142,7 +142,7 @@ def determine_health_use(input: str) -> str:
     
     question: {input}
     """
-    response = ai_request(prompt)
+    response = ai_request(prompt, system_role="You are a health guidance figure helping a user live a healthy life.")
     health_use = response.lower().replace(".", "")
     return health_use
 
@@ -198,11 +198,12 @@ def chatbot_response(user_input: str):
     #     data_frame=firebase_url_to_df(firebase_url)  # pandas df
     # )
 
-    data = get_firebase_data()
+    # data = get_firebase_data()
 
-    print(data)
+    # print(data)
 
-    text_file_path = data_to_text(data)
+    # text_file_path = data_to_text_fast(data)
+    text_file_path = os.path.join("textfiles", "test_data.txt")
 
     loader = TextLoader(
         text_file_path,
@@ -227,7 +228,7 @@ def chatbot_response(user_input: str):
     # print(len(texts))
     # print(f"texts: {texts}")
     #
-    # embeddings = OpenAIEmbeddings(openai_api_key="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")
+    # embeddings = OpenAIEmbeddings(openai_api_key="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")
     # docsearch = Pinecone.from_documents(
     #     texts, embeddings, index_name="ai-hack"
     # )
@@ -244,7 +245,7 @@ def chatbot_response(user_input: str):
 
     # Pinecone setup for DFs
     print("Getting OpenAI embeddings...")
-    embeddings = OpenAIEmbeddings(openai_api_key="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")
+    embeddings = OpenAIEmbeddings(openai_api_key="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")
     print("Got OpenAI embeddings...")
 
     try:
@@ -268,8 +269,10 @@ def chatbot_response(user_input: str):
     print("Pinecone setup!")
 
     print("Loading Vector Storage into Database Question Answer Chain...")
+
     qa = VectorDBQA.from_chain_type(
-        llm=OpenAI(openai_api_key="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"),
+        llm=OpenAI(openai_api_key="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",
+                   model_name="gpt-3.5-turbo"),
         chain_type="stuff",
         vectorstore=docsearch,
         return_source_documents=True
@@ -283,7 +286,6 @@ def chatbot_response(user_input: str):
     # result = result["result"]
     print("Result received from LLM!")
     return result
-    pass
 
 
 if __name__ == "__main__":
@@ -291,4 +293,4 @@ if __name__ == "__main__":
     while True:
         query: str = input("User: ")
         response = chatbot_response(query)
-        # pprint.PrettyPrinter().pprint(response)
+        pprint.PrettyPrinter().pprint(response)
