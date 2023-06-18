@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "date": "timestamp1",
+      "metric": "kiloCalorie",
+      "activeEnergyBurned": {
+        "measurement": "1687"
+      },
+      "basalEnergyBurned": {
+        "measurement": "1687"
+      },
+      "bloodGlucose": {
+        "measurement": "1687"
+      },
+      "bodyFatPercentage": {
+        "measurement": "1687"
+      },
+      "bodyMass": {
+        "measurement": "1687"
+      },
+      "bodyMassIndex": {
+        "measurement": "1687"
+      },
+      "distanceWalkingRunning": {
+        "measurement": "1687"
+      },
+      "flightsClimbed": {
+        "measurement": "1687"
+      },
+      "headphoneAudioExposed": {
+        "measurement": "1687"
+      },
+      "heartRate": {
+        "measurement": "1687"
+      },
+      "height": {
+        "measurement": "1687"
+      },
+      "leanBodyMass": {
+        "measurement": "1687"
+      } ,
+      "sleepDuration": {
+        "measurement": "1687"
+      },
+      "stepCount": {
+        "measurement": "1687"
+      },
+      "waistCircumference": {
+        "measurement": "1687"
+      },
+      "walkingDoubleSupport": {
+        "measurement": "1687"
+      }
+    },
+    {
+      "date": "timestamp2",
+      "metric": "kiloCalorie",
+      "activeEnergyBurned": {
+        "measurement": "1687"
+      },
+      "basalEnergyBurned": {
+        "measurement": "1687"
+      },
+      "bloodGlucose": {
+        "measurement": "1687"
+      },
+      "bodyFatPercentage": {
+        "measurement": "1687"
+      },
+      "bodyMass": {
+        "measurement": "1687"
+      },
+      "bodyMassIndex": {
+        "measurement": "1687"
+      },
+      "distanceWalkingRunning": {
+        "measurement": "1687"
+      },
+      "flightsClimbed": {
+        "measurement": "1687"
+      },
+      "headphoneAudioExposed": {
+        "measurement": "1687"
+      },
+      "heartRate": {
+        "measurement": "1687"
+      },
+      "height": {
+        "measurement": "1687"
+      },
+      "leanBodyMass": {
+        "measurement": "1687"
+      } ,
+      "sleepDuration": {
+        "measurement": "1687"
+      },
+      "stepCount": {
+        "measurement": "1687"
+      },
+      "waistCircumference": {
+        "measurement": "1687"
+      },
+      "walkingDoubleSupport": {
+        "measurement": "1687"
+      }
+    }
+  ]
+}

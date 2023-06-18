@@ -8,7 +8,8 @@ except ImportError as e:
     import openai
 
 openai.organization = "org-6SAh5dmJQDX58hxNwwyz24QZ"
-openai.api_key = os.getenv("OPENAI-API-KEY")
+# openai.api_key = os.getenv("OPENAI-API-KEY")
+openai.api_key = "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"
 
 
 def ai_request(request_text, tokens=1000) -> str:
