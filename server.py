@@ -224,9 +224,11 @@ def post_input():
     :return:
     """
     # Get the JSON data from the request body
-    data = request.get_json()
-    input = data["input"]
-    result = chatbot_response(input)
-    return jsonify({"response": result})
+    input = request.form["input"]
+    try:
+        result = chatbot_response(input)
+    except:
+        result = ai_request(input)
+    return json.dumps({"response": result})
 
 app.run(debug=True)
