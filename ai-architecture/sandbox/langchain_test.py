@@ -9,9 +9,6 @@ from pathlib import Path
 from pprint import PrettyPrinter as pp
 from mapmaker import NestedMap
 import numpy as np
-from utils import firebase_url_to_df, data_to_text_slow, data_to_text_fast
-import firebase
-import firebase_admin
 
 try:
     from langchain.document_loaders import TextLoader, JSONLoader, DataFrameLoader
@@ -245,7 +242,7 @@ def chatbot_response(user_input: str):
 
     # Pinecone setup for DFs
     print("Getting OpenAI embeddings...")
-    embeddings = OpenAIEmbeddings(openai_api_key="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")
+    embeddings = OpenAIEmbeddings(openai_api_key="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")
     print("Got OpenAI embeddings...")
 
     try:
@@ -271,7 +268,7 @@ def chatbot_response(user_input: str):
     print("Loading Vector Storage into Database Question Answer Chain...")
 
     qa = VectorDBQA.from_chain_type(
-        llm=OpenAI(openai_api_key="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",
+        llm=OpenAI(openai_api_key="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",
                    model_name="gpt-3.5-turbo"),
         chain_type="stuff",
         vectorstore=docsearch,
@@ -292,5 +289,8 @@ if __name__ == "__main__":
     print("DEBUG: Start Chatbot")
     while True:
         query: str = input("User: ")
-        response = chatbot_response(query)
+        try:
+            response = chatbot_response(query)
+        except:
+            response = ai_request(query)
         pprint.PrettyPrinter().pprint(response)
