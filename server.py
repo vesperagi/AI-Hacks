@@ -144,7 +144,7 @@ def determine_health_use(input: str) -> str:
     return health_use
 
 
-text_file_path = os.path.join("textfiles", "test_data.txt")
+text_file_path = os.path.join("test_data.txt")
 
 loader = TextLoader(
     text_file_path,
