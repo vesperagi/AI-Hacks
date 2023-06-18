@@ -236,3 +236,5 @@ def post_input():
     input = data["input"]
     result = chatbot_response(input)
     return jsonify({"response": result})
+
+app.run(debug=True)
