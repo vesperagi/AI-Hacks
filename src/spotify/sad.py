@@ -12,6 +12,15 @@ try:
 except:
     pip.main(["install", "spotipy"])
     pip.main(["install", "lyricsgenius"])
+    import spotipy
+    from spotipy.oauth2 import SpotifyOAuth
+    import lyricsgenius
+    import openai
+    import os
+    import time
+    import firebase_admin
+    from firebase_admin import credentials, firestore
+    import datetime
 
 cred = credentials.Certificate("vigama-ai-hacks-firebase-adminsdk-5waoy-7ddd5ba925.json")
 firebase_admin.initialize_app(cred)
