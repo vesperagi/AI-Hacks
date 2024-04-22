@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "198598B7-8C91-45ED-9661-B56966EE971D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84737CC5-FED2-4B8D-8887-0F4A45694D9E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ember/HealthKitViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "291"
+            endingLineNumber = "291"
+            landmarkName = "requestAuthorization()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "84737CC5-FED2-4B8D-8887-0F4A45694D9E - a666cb5fd215b2f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Ember.HealthKitViewModel.requestAuthorization() -&gt; ()"
+                  moduleName = "Ember"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khushbakhtrehman/Desktop/Ember/Ember/HealthKitViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "286"
+                  endingLineNumber = "286"
+                  offsetFromSymbolStart = "1136">
+               </Location>
+               <Location
+                  uuid = "84737CC5-FED2-4B8D-8887-0F4A45694D9E - a666cb5fd215b2f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Ember.HealthKitViewModel.requestAuthorization() -&gt; ()"
+                  moduleName = "Ember"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khushbakhtrehman/Desktop/Ember/Ember/HealthKitViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "286"
+                  endingLineNumber = "286"
+                  offsetFromSymbolStart = "1376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79774B66-1870-4671-B60E-1BA8CBC1B1A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ember/HealthKitViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "348"
+            endingLineNumber = "348"
+            landmarkName = "fetchAllData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "79774B66-1870-4671-B60E-1BA8CBC1B1A4 - 37d046594d8b343b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ember.HealthKitViewModel.fetchAllData() -&gt; ()"
+                  moduleName = "Ember"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khushbakhtrehman/Desktop/Ember/Ember/HealthKitViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "343"
+                  endingLineNumber = "343"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "79774B66-1870-4671-B60E-1BA8CBC1B1A4 - 37d046594d8b345c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ember.HealthKitViewModel.fetchAllData() -&gt; ()"
+                  moduleName = "Ember"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khushbakhtrehman/Desktop/Ember/Ember/HealthKitViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "344"
+                  endingLineNumber = "344"
+                  offsetFromSymbolStart = "316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78C92C7E-8AA4-48E7-AC5D-2F0C4E7C295D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ember/HealthKitViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "353"
+            endingLineNumber = "353"
+            landmarkName = "fetchAllData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "78C92C7E-8AA4-48E7-AC5D-2F0C4E7C295D - 37d046594d8b35d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ember.HealthKitViewModel.fetchAllData() -&gt; ()"
+                  moduleName = "Ember"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khushbakhtrehman/Desktop/Ember/Ember/HealthKitViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "348"
+                  endingLineNumber = "348"
+                  offsetFromSymbolStart = "572">
+               </Location>
+               <Location
+                  uuid = "78C92C7E-8AA4-48E7-AC5D-2F0C4E7C295D - 37d046594d8b35d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ember.HealthKitViewModel.fetchAllData() -&gt; ()"
+                  moduleName = "Ember"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khushbakhtrehman/Desktop/Ember/Ember/HealthKitViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "348"
+                  endingLineNumber = "348"
+                  offsetFromSymbolStart = "524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
